@@ -1,4 +1,6 @@
-uvex-qc
-=======
+UVEX Quality Control
+====================
 
-Quality control procedures used for the UVEX Galactic Plane survey.
+This repository holds scripts which the author uses to carry out quality 
+control for the UVEX Galactic Plane survey.
+
