@@ -1,0 +1,5 @@
+UVEX QC matters to remember
+===========================
+* When carrying out QC ahead of the 2014B runs, nov2006 was removed manually 
+from the logs data because it lacks the U band.  It is likely that a future
+re-reduction of the run will add the U band.

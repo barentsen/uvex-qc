@@ -1,0 +1,18 @@
+# This file contains the coordinates of IPHAS/UVEX pointings at the
+# southern-most edge of the survey (i.e. near b=-5d), in the format
+# required by the ING visibility tool ( http://catserver.ing.iac.es/staralt )
+[19h] 286.1 -4.4
+[20h] 300.0 20.7
+[21h] 315.0 38.6
+[22h] 330.5 49.3
+[23h] 344.2 54.2
+[0h] 359.4 57.3
+[1h] 15.0 57.9
+[2h] 30.2 56.6
+[3h] 44.8 53.3
+[4h] 61.0 46.2
+[4h30] 67.6 41.4
+[5h] 74.8 35.0
+[5h30] 82.5 25.4
+[6h] 90.1 13.2
+[6h30] 97.5 -0.1

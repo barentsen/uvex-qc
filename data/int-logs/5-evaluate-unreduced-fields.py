@@ -23,19 +23,8 @@ if __name__ == '__main__':
         if (t[i]['run_u'] != '' and t[i]['run_g'] != '' and t[i]['run_r'] != ''
             and t[i]['night'] not in HORRENDOUS_NIGHTS):
             goodfields.append(t[i]['field'])
-    print('Found {0} potentially good fields.'.format(np.unique(goodfields).size))
+    print('Found {0} potentially good fields which have not been reduced yet.'.format(np.unique(goodfields).size))
     with open('unreduced-uvex-fields-which-may-be-good.txt', 'w') as output:
-        for field in np.unique(goodfields):
-            output.write(field+'\n')
-
-    # What happens if we also care about He 1?
-    goodfields = []
-    for i in np.argsort(t['field']):
-        if (t[i]['run_u'] != '' and t[i]['run_g'] != '' and t[i]['run_r'] != '' and t[i]['run_he1'] != ''
-            and t[i]['night'] not in HORRENDOUS_NIGHTS):
-            goodfields.append(t[i]['field'])
-    print('Found {0} potentially good fields which include He 1.'.format(np.unique(goodfields).size))
-    with open('unreduced-uvex-fields-which-may-be-good-including-he1.txt', 'w') as output:
         for field in np.unique(goodfields):
             output.write(field+'\n')
 
