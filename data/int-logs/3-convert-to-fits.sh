@@ -17,8 +17,16 @@ stilts tcat in=int-logs-by-run.fits ifmt=fits \
 ocmd="select 'name.startsWith(\"intphas_\")';" \
 ofmt=fits out=iphas-logs-by-run.fits
 
+# Create a file with kepler runs only
+stilts tcat in=int-logs-by-run.fits ifmt=fits \
+ocmd="select 'name.startsWith(\"kepler_\")';" \
+ofmt=fits out=kepler-logs-by-run.fits
+
 # Identify uvex runs thats have not been reduced yet
 stilts tmatch2 \
 in1=uvex-logs-by-run.fits in2=../casu-dqc/uvex-casu-dqc-by-run.fits \
 values1=run values2=runno join=1not2 matcher=exact \
 ofmt=fits out=uvex-unreduced-runs.fits
+
+# Compress the results
+gzip -f int-logs-by-run.fits uvex-logs-by-run.fits iphas-logs-by-run.fits kepler-logs-by-run.fits
