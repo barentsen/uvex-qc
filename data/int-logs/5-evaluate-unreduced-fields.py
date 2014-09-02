@@ -29,7 +29,7 @@ if __name__ == '__main__':
             output.write(field+'\n')
 
     # By-product: list of fields attempted
-    t = Table.read('uvex-logs-by-run.fits')
+    t = Table.read('uvex-logs-by-run.fits.gz')
     with open('uvex-fields-attempted.txt', 'w') as output:
         for field in np.sort(np.unique(t['field'])):
             output.write(field+'\n')

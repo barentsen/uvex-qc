@@ -29,4 +29,5 @@ values1=run values2=runno join=1not2 matcher=exact \
 ofmt=fits out=uvex-unreduced-runs.fits
 
 # Compress the results
-gzip -f int-logs-by-run.fits uvex-logs-by-run.fits iphas-logs-by-run.fits kepler-logs-by-run.fits
+gzip -f int-logs-by-run.fits uvex-logs-by-run.fits iphas-logs-by-run.fits \
+    kepler-logs-by-run.fits uvex-unreduced-runs.fits

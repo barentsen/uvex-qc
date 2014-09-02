@@ -54,3 +54,4 @@ docs/_build/
 # Custom
 .ipynb_checkpoints
 tmp
+intlogs*.csv

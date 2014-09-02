@@ -26,7 +26,7 @@ def register(field):
 
 
 if __name__ == '__main__':
-    t = Table.read('uvex-unreduced-runs.fits')
+    t = Table.read('uvex-unreduced-runs.fits.gz')
 
     field = {'field': 'ignore'}  # hack: "ignore" the first field
 

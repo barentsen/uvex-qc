@@ -35,7 +35,7 @@ if __name__ == '__main__':
 
 
     for filename in sorted(os.listdir("downloaded")):
-        if not re.match("intlog_\d+.txt", filename):
+        if not (re.match("intlog_\d+.txt", filename) or re.match("run_log_\d+.int", filename)):
             continue
 
         f = open("downloaded/"+filename, "r")
