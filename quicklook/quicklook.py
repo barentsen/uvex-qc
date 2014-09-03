@@ -34,9 +34,9 @@ MJPEG = '/local/home/gb/bin/Montage_v3.3/mJPEG'
 MSHRINK = '/local/home/gb/bin/Montage_v3.3/mShrink'
 CONVERT = '/usr/bin/convert'
 
-CONF = {'u':'/home/gb/tmp/uvexdata/uvex_sep2007/U_conf.fit',
-        'g':'/home/gb/tmp/uvexdata/uvex_sep2007/g_conf.fit',
-        'r':'/home/gb/tmp/uvexdata/uvex_sep2007/r_conf.fit'}
+CONF = {'u':'/car-data/gb/iphas/uvex_sep2007/U_conf.fit',
+        'g':'/car-data/gb/iphas/uvex_sep2007/g_conf.fit',
+        'r':'/car-data/gb/iphas/uvex_sep2007/r_conf.fit'}
 
 
 if os.uname()[1] == 'xps': 
@@ -49,6 +49,9 @@ if os.uname()[1] == 'xps':
     MSHRINK = '/home/gb/bin/bin/bin/mShrink'
     OUTPATH = '/home/gb/tmp/uvex-quicklook'
     WORKDIR = '/dev/shm'
+    CONF = {'u':'/home/gb/tmp/uvexdata/uvex_sep2007/U_conf.fit',
+            'g':'/home/gb/tmp/uvexdata/uvex_sep2007/g_conf.fit',
+            'r':'/home/gb/tmp/uvexdata/uvex_sep2007/r_conf.fit'}
 else: 
     # Cluster
     MJPEG = '/soft/Montage_v3.3/bin/mJPEG'
@@ -257,9 +260,9 @@ if __name__ == '__main__':
     datefmt="%Y-%m-%d %H:%M:%S" )
 
     t = Table.read('/home/gb/dev/uvex-qc/data/casu-dqc/uvex-casu-dqc-by-field.fits')
-    for field in t:
+    for field in t[0:3]:
         if (field['runno_u'] != '') and (field['runno_g'] != '') and (field['runno_r'] != ''):
-            mydir = os.path.join(DATADIR, field['dir'])
+            mydir = os.path.join(DATADIR, 'uvex_'+field['dir'])
             ql = Quicklook(mydir, field['runno_r'], field['runno_u'], field['runno_g'])
             ql.run()
 
