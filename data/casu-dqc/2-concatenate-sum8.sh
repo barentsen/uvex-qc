@@ -6,7 +6,7 @@
 OUTPUT="tmp/uvex-casu-dqc.txt"
 
 # Copy the header line from one of the files
-HEADER=`head -n1 "downloaded/apm3.ast.cam.ac.uk/~mike/iphas/aug2010/dqcinfo/summary.sum8"`
+HEADER=`head -n1 "downloaded/apm3.ast.cam.ac.uk/~mike/uvex/aug2010/dqcinfo/summary.sum8"`
 echo $HEADER > $OUTPUT
 
 # Now copy the contents of all summary.sum8 files, except the header line
