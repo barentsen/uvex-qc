@@ -24,7 +24,7 @@ fieldlist = []
 def register(field):
     # Fill missing values
     for name in COLNAMES:
-        if not field.has_key(name):
+        if not name in field:
             if name.startswith(('runno', 'time')):
                 field[name] = ''
             else:
@@ -39,7 +39,11 @@ if __name__ == '__main__':
 
     for idx in np.argsort(t['runno']):
         myrun = t[idx]['runno']
-        myname = t[idx]['name'].strip().split('_')[1].split(' ')[0]
+        try:
+            myname = t[idx]['name'].strip().split('_')[1].split(' ')[0]
+        except IndexError:
+            # Hack: on one occasion the name had the underscore missing
+            myname = t[idx]['name'].strip().split('x')[1].split(' ')[0]
         myfilter = t[idx]['filter'].strip().lower()
 
         if myfilter not in ['u', 'g', 'r', 'hei']:
