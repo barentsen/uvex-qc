@@ -3,12 +3,7 @@
 The output is a CSV table with paths to the fits files.
 """
 import os
-import re
-import numpy as np
-
-from astropy.io import log
-import astropy.io import fits
-
+from astropy import log
 
 # Config
 DATADIR = '/car-data/gb/iphas/'
@@ -16,7 +11,7 @@ DATADIR = '/car-data/gb/iphas/'
 
 if __name__ == "__main__":
     out = open('egaps-fits-files.csv', 'w')
-    for mydir in os.walk(datadir, followlinks=True):
+    for mydir in os.walk(DATADIR, followlinks=True):
         log.info('Entering '+mydir[0])
         for filename in mydir[2]:
             if filename.endswith("fit") or filename.endswith("fits"):
