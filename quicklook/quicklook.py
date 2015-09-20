@@ -1,8 +1,7 @@
 """
-Converts all IPHAS science images to four JPEGs (one per CCD) using 
-Montage/mJPEG
+Create quicklook JPEGs for UVEX/IPHAS quality control.
 
-Typical command sequence:
+This script will create the JPEGs using the following typical command sequence:
 funpack r564465.fit.fz
 mosaic r564465.fit Ha_conf.fits hamos.fit hamosconf.fit --skyflag=0 --verbose
 mJPEG -gray hamos.fit 20% 99.9% log -out hamos.jpg
@@ -17,47 +16,30 @@ cat $(cat list.txt) | ffmpeg -r 4 -f image2pipe -vcodec mjpeg -i - -c:v libx264 
 """
 
 import os
-import astropy.io.fits as pyfits
-from astropy.table import Table
-import logging
 import subprocess
 import shlex
 import glob
 
+from astropy import log
+import astropy.io import fits
+from astropy.table import Table
+
+
 """ CONFIGURATION CONSTANTS """
-BANDS = ['u', 'g', 'r']
+RUN2PATH = json.load(open("/home/gb/dev/uvex-qc/data/image-index/run2path.json"))
+DIR2CONF = json.load(open("/home/gb/dev/uvex-qc/data/image-index/dir2conf.json"))
+
+OUTPATH = '/car-data/gb/uvex-quicklook'
 DATADIR = '/car-data/gb/iphas'
+WORKDIR = '/tmp/gb-scratch'
+
+BANDS = ['u', 'g', 'r']
 MOSAIC = '/home/gb/bin/casutools/bin/mosaic'
 FPACK = '/home/gb/bin/cfitsio3310/bin/fpack'
 FUNPACK = '/home/gb/bin/cfitsio3310/bin/funpack'
-MJPEG = '/local/home/gb/bin/Montage_v3.3/mJPEG'
-MSHRINK = '/local/home/gb/bin/Montage_v3.3/mShrink'
+MJPEG = '/soft/Montage_v3.3/bin/mJPEG'
+MSHRINK = '/soft/Montage_v3.3/bin/mShrink'
 CONVERT = '/usr/bin/convert'
-
-CONF = {'u':'/car-data/gb/iphas/uvex_sep2007/U_conf.fit',
-        'g':'/car-data/gb/iphas/uvex_sep2007/g_conf.fit',
-        'r':'/car-data/gb/iphas/uvex_sep2007/r_conf.fit'}
-
-
-if os.uname()[1] == 'xps': 
-    # Local
-    DATADIR = '/home/gb/tmp/uvexdata'
-    MOSAIC = '/home/gb/bin/bin/bin/mosaic'
-    FPACK = '/home/gb/bin/bin/bin/fpack'
-    FUNPACK = '/home/gb/bin/bin/bin/funpack'
-    MJPEG = '/home/gb/bin/bin/bin/mJPEG'
-    MSHRINK = '/home/gb/bin/bin/bin/mShrink'
-    OUTPATH = '/home/gb/tmp/uvex-quicklook'
-    WORKDIR = '/dev/shm'
-    CONF = {'u':'/home/gb/tmp/uvexdata/uvex_sep2007/U_conf.fit',
-            'g':'/home/gb/tmp/uvexdata/uvex_sep2007/g_conf.fit',
-            'r':'/home/gb/tmp/uvexdata/uvex_sep2007/r_conf.fit'}
-else: 
-    # Cluster
-    MJPEG = '/soft/Montage_v3.3/bin/mJPEG'
-    MSHRINK = '/soft/Montage_v3.3/bin/mShrink'
-    OUTPATH = '/car-data/gb/uvex/quicklook'
-    WORKDIR = '/tmp/gb-scratch'
 
 
 class Quicklook():
@@ -65,24 +47,28 @@ class Quicklook():
     Computes quicklook jpegs for a given field.
 
     Parameters
-        :fieldid: (required)
-        field identifier string, e.g. '0009o_aug2010'
+    ----------
+    run_u, run_g, run_r : str, str, str
+        Run numbers
 
-    Usage
-        ql = Quicklook('0009o_aug2010')
-        ql.run()
+    time_r : str
+        Timestamp.
+
+    fieldid : str
+        Field identifier, e.g. '0009o'.
     """
 
-    def __init__(self, directory, run_r, run_u, run_g):
-        """
-        Constructor
-
-        """
-        self.directory = directory
+    def __init__(self, run_u, run_g, run_r, time_r, fieldid):
         self.run_u, self.run_g, self.run_r = str(run_u), str(run_g), str(run_r)
+        self.time_r = time_r
+        self.fieldid = fieldid
+        
         self.workdir = WORKDIR
-        self.filename_root = self.workdir + '/' + self.run_r
-        self.log = logging
+        timestamp = self.time_r[0:16].replace('-', '').replace(':', '').replace(' ', '-')
+        self.filename_root = os.path.join(self.workdir,
+                                          self.run_r +
+                                          "-" + timestamp + 
+                                          "-" + self.fieldid)
         self.files_to_remove = []
 
     def get_fits_filenames(self):
@@ -91,9 +77,9 @@ class Quicklook():
         and raises an exception if they cannot be found on the filesystem.
 
         """
-        result = {'img_u': os.path.join(self.directory, 'r' + self.run_u + '.fit'),
-                  'img_g': os.path.join(self.directory, 'r' + self.run_g + '.fit'),
-                  'img_r': os.path.join(self.directory, 'r' + self.run_r + '.fit')}
+        result = {'img_u': RUN2PATH[self.run_u],
+                  'img_g': RUN2PATH[self.run_g],
+                  'img_r': RUN2PATH[self.run_r]}
         # Test if all the files exist
         for key in result.keys():
             if not os.path.exists( result[key] ):
@@ -103,35 +89,28 @@ class Quicklook():
         return result
 
     def execute(self, cmd):
-        """
-        Executes a shell command and logs any errors.
-
-        """
-        self.log.debug(cmd)
+        """Executes a shell command and logs any errors."""
+        log.debug(cmd)
         p = subprocess.Popen(shlex.split(cmd), 
-                stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+                             stdout=subprocess.PIPE,
+                             stderr=subprocess.PIPE)
         stdout = p.stdout.read().strip()
         stderr = p.stderr.read().strip()
         if stderr:
-            raise Exception("Error detected in quicklook.execute: STDERR={%s} STDOUT={%s} CMD={%s}" % (
+            raise Exception("Error detected in quicklook.execute: "
+                            "STDERR={%s} STDOUT={%s} CMD={%s}" % (
                                 stderr, stdout, cmd))
         if stdout:
-            self.log.debug( stdout )
+            log.debug( stdout )
         return True
 
     def setup_workdir(self):
-        """
-        Setup the working directory.
-
-        """
+        """Setup the working directory for storing tmp files."""
         if not os.path.exists(self.workdir):
             self.execute('mkdir %s' % self.workdir)
 
     def move_jpegs(self):
-        """
-        Move the resulting jpegs to their desired location.
-
-        """
+        """Move the output jpegs to the final destination."""
         files_to_move = [ self.filename_root + '.jpg',
                           self.filename_root + '_small.jpg' ]
         for band in BANDS:
@@ -142,18 +121,14 @@ class Quicklook():
         for filename in files_to_move:
             cmd = '/bin/mv %s %s' % (
                     filename,
-                    OUTPATH )
+                    OUTPATH)
             self.execute(cmd)
 
     def clean_workdir(self):
-        """
-        Clean the working directory.
-
-        """
+        """Removes temporary files from the working directory."""
         #files_to_remove = []
         #for filename in glob.iglob(self.workdir + '/*' + self.fieldid + '*'):
         #    files_to_remove.append(filename)
-
 
         # Delete the leftover fits files
         for filename in self.files_to_remove:
@@ -184,7 +159,7 @@ class Quicklook():
 
             # Montage requires the equinox keyword to be '2000.0'
             # but CASUtools sets the value 'J2000.0'
-            myfits = pyfits.open(filename_fits)
+            myfits = fits.open(filename_fits)
             myfits[0].header.update('EQUINOX', '2000.0')
             myfits.writeto(filename_fits, clobber=True)
 
@@ -237,9 +212,7 @@ class Quicklook():
         self.execute(cmd)
 
     def run(self):
-        """
-        Main execution loop
-
+        """Main execution loop
         """
         try:
             self.setup_workdir()
@@ -248,24 +221,15 @@ class Quicklook():
             self.clean_workdir()
             return True
         except Exception, e:
-            self.log.error('Quicklook.run() aborted with exception: "%s"' % e)
+            log.error('Quicklook.run() aborted with exception: "%s"' % e)
             #self.clean_workdir()
             return False
 
 
-
 if __name__ == '__main__':
-    logging.basicConfig(level=logging.DEBUG, 
-    format="%(asctime)s/%(levelname)s: %(message)s", 
-    datefmt="%Y-%m-%d %H:%M:%S" )
-
     t = Table.read('/home/gb/dev/uvex-qc/data/casu-dqc/uvex-casu-dqc-by-field.fits')
-    for field in t[0:3]:
-        if (field['runno_u'] != '') and (field['runno_g'] != '') and (field['runno_r'] != ''):
-            mydir = os.path.join(DATADIR, 'uvex_'+field['dir'])
-            ql = Quicklook(mydir, field['runno_r'], field['runno_u'], field['runno_g'])
-            ql.run()
-
-    #quicklook = Quicklook('/home/gb/tmp/uvexdata/uvex_sep2007', 583191, 583192, 583193)
-    #quicklook = Quicklook('/home/gb/tmp/uvexdata/uvex_sep2007', 583127, 583128, 583129)
-    #quicklook.run()
+    mask = (field['runno_u'] != '') & (field['runno_g'] != '') & (field['runno_r'] != '')
+    for field in t[mask][0:2]:
+        ql = Quicklook(field['runno_u'], field['runno_g'], field['runno_r'],
+                       field['time_r'], field['field'])
+        ql.run()
