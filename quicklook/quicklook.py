@@ -19,9 +19,10 @@ import os
 import subprocess
 import shlex
 import glob
+import json
 
 from astropy import log
-import astropy.io import fits
+from astropy.io import fits
 from astropy.table import Table
 
 
@@ -66,8 +67,8 @@ class Quicklook():
         self.workdir = WORKDIR
         timestamp = self.time_r[0:16].replace('-', '').replace(':', '').replace(' ', '-')
         self.filename_root = os.path.join(self.workdir,
-                                          self.run_r +
-                                          "-" + timestamp + 
+                                          timestamp +
+                                          "-" + self.run_r + 
                                           "-" + self.fieldid)
         self.files_to_remove = []
 
@@ -77,9 +78,9 @@ class Quicklook():
         and raises an exception if they cannot be found on the filesystem.
 
         """
-        result = {'img_u': RUN2PATH[self.run_u],
-                  'img_g': RUN2PATH[self.run_g],
-                  'img_r': RUN2PATH[self.run_r]}
+        result = {'u': RUN2PATH[self.run_u],
+                  'g': RUN2PATH[self.run_g],
+                  'r': RUN2PATH[self.run_r]}
         # Test if all the files exist
         for key in result.keys():
             if not os.path.exists( result[key] ):
@@ -111,12 +112,12 @@ class Quicklook():
 
     def move_jpegs(self):
         """Move the output jpegs to the final destination."""
-        files_to_move = [ self.filename_root + '.jpg',
-                          self.filename_root + '_small.jpg' ]
+        files_to_move = [ self.filename_root + '-col-small.jpg' ]
+        #                  self.filename_root + '.jpg' ]
         for band in BANDS:
-            files_to_move.append(self.filename_root + '_' + band + '.jpg' )
-            files_to_move.append(self.filename_root + '_small_' + band + '.jpg' )
-            files_to_move.append(self.filename_root + '_' + band + '.fit')
+            #files_to_move.append(self.filename_root + '-' + band + '.jpg' )
+            files_to_move.append(self.filename_root + '-' + band + '-small.jpg' )
+            #files_to_move.append(self.filename_root + '-' + band + '.fit')
 
         for filename in files_to_move:
             cmd = '/bin/mv %s %s' % (
@@ -142,25 +143,27 @@ class Quicklook():
         fits_filenames = self.get_fits_filenames()
         
         for band in BANDS:
-            filename_fits = self.filename_root + '_' + band + '.fit'
-            filename_conf = self.filename_root + '_' + band + '_conf.fit'
-            filename_jpg = self.filename_root + '_' + band + '.jpg'
-            filename_jpg_small = self.filename_root + '_small_' + band + '.jpg'     
+            filename_fits = self.filename_root + '-' + band + '.fit'
+            filename_conf = self.filename_root + '-' + band + '-conf.fit'
+            filename_jpg = self.filename_root + '-' + band + '.jpg'
+            filename_jpg_small = self.filename_root + '-' +band + '-small.jpg'     
 
             # CASUTools/Mosaic
+	    confmap = DIR2CONF[os.path.dirname(fits_filenames[band])][band]
             cmd = '%s %s %s %s %s --skyflag=0' % (
                 MOSAIC,
-                fits_filenames['img_' + band],
-                CONF[band],
+                fits_filenames[band],
+                confmap,
                 filename_fits,
                 filename_conf )
             self.execute(cmd)
             self.files_to_remove.append(filename_conf)
+	    self.files_to_remove.append(filename_fits)
 
             # Montage requires the equinox keyword to be '2000.0'
             # but CASUtools sets the value 'J2000.0'
             myfits = fits.open(filename_fits)
-            myfits[0].header.update('EQUINOX', '2000.0')
+            myfits[0].header['EQUINOX'] = '2000.0'
             myfits.writeto(filename_fits, clobber=True)
 
             # Montage/mJPEG
@@ -169,6 +172,7 @@ class Quicklook():
                     filename_fits,
                     filename_jpg )
             self.execute(cmd)
+	    self.files_to_remove.append(filename_jpg)
 
             # Make a smaller version, too
             cmd = '%s %s -resize 600 -quality 70 %s' % (
@@ -184,36 +188,38 @@ class Quicklook():
                     filename_fits )
             self.execute(cmd)
             """
-
+	    """
             # Shrink the mosaicked FITS file
             cmd = '%s %s %s 6' % (
                     MSHRINK,
                     filename_fits,
                     filename_fits )
             self.execute(cmd)
-            
+            """
 
         # Final color mosaic
         # We have to ensure that the channels have the same number of pixels
         cmd = '%s %s %s %s -set colorspace RGB -combine -set colorspace sRGB %s' % (
                 CONVERT,
-                self.filename_root + '_r.jpg[6210x6145+0+0]',
-                self.filename_root + '_g.jpg[6210x6145+0+0]', 
-                self.filename_root + '_u.jpg[6210x6145+0+0]', 
-                self.filename_root + '.jpg'
+                self.filename_root + '-r.jpg[6210x6145+0+0]',
+                self.filename_root + '-g.jpg[6210x6145+0+0]', 
+                self.filename_root + '-u.jpg[6210x6145+0+0]', 
+                self.filename_root + '-col.jpg'
                 )
         self.execute(cmd)
+	self.files_to_remove.append(self.filename_root + '-col.jpg')
 
         # Small version
         cmd = '%s %s -resize 600 -quality 70 %s' % (
                 CONVERT,
-                self.filename_root + '.jpg',
-                self.filename_root + '_small.jpg')
+                self.filename_root + '-col.jpg',
+                self.filename_root + '-col-small.jpg')
         self.execute(cmd)
 
     def run(self):
-        """Main execution loop
-        """
+        """Main execution loop"""
+	log.debug("Creating quicklook for {} ({},{},{})".format(
+			self.fieldid, self.run_u, self.run_g, self.run_r))
         try:
             self.setup_workdir()
             self.compute_jpegs()
@@ -222,13 +228,14 @@ class Quicklook():
             return True
         except Exception, e:
             log.error('Quicklook.run() aborted with exception: "%s"' % e)
-            #self.clean_workdir()
+            self.clean_workdir()
+	    raise e
             return False
 
 
 if __name__ == '__main__':
     t = Table.read('/home/gb/dev/uvex-qc/data/casu-dqc/uvex-casu-dqc-by-field.fits')
-    mask = (field['runno_u'] != '') & (field['runno_g'] != '') & (field['runno_r'] != '')
+    mask = (t['runno_u'] != '') & (t['runno_g'] != '') & (t['runno_r'] != '')
     for field in t[mask][0:2]:
         ql = Quicklook(field['runno_u'], field['runno_g'], field['runno_r'],
                        field['time_r'], field['field'])
