@@ -10,7 +10,7 @@ from astropy import log
 OUTPUT_FN = "run2path.json"
 
 DIRS_TO_IGNORE = ['junk', 'badones', 'crap', '9thoct', \
-                  'Uband', 'gband', 'slow', 'PROBLEMS']
+                  'Uband', 'gband', 'PROBLEMS']
 
 if __name__ == "__main__":
     output = {}

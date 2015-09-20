@@ -21,13 +21,13 @@ if __name__ == "__main__":
                     output[mydir] = {}
 
                 filename = os.path.basename(path)
-                if filename.lower().startswith("u_"):
+                if filename.lower().startswith("u"):
                     output[mydir]['u'] = path
-                if filename.lower().startswith("g_"):
+                if filename.lower().startswith("g"):
                     output[mydir]['g'] = path
-                if filename.startswith("r_") or filename.startswith("r:"): 
+                if filename.startswith("r"): 
                     output[mydir]['r'] = path
-                elif filename.startswith("i_") or filename.startswith("i:"): 
+                elif filename.startswith("i"): 
                     output[mydir]['i'] = path
                 elif filename.lower().startswith("ha") or filename.startswith("h_"):
                     output[mydir]['ha'] = path 

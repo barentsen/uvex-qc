@@ -1,576 +1,592 @@
 {
-  "/car-data/gb/iphas/iphas_jul2007": {
-    "i": "/car-data/gb/iphas/iphas_jul2007/i_conf.fits",
-    "ha": "/car-data/gb/iphas/iphas_jul2007/Ha_conf.fits",
-    "r": "/car-data/gb/iphas/iphas_jul2007/r_conf.fits"
-  },
-  "/car-data/gb/iphas/iphas_dec2007": {
-    "i": "/car-data/gb/iphas/iphas_dec2007/i_conf.fit",
-    "ha": "/car-data/gb/iphas/iphas_dec2007/ha_conf.fit",
-    "r": "/car-data/gb/iphas/iphas_dec2007/r_conf.fit"
-  },
-  "/car-data/gb/iphas/run10": {
-    "r": "/car-data/gb/iphas/run10/r_conf.fit",
-    "g": "/car-data/gb/iphas/run10/g_conf.fit",
-    "u": "/car-data/gb/iphas/run10/U_conf.fit"
-  },
-  "/car-data/gb/iphas/iphas_oct2003": {
-    "i": "/car-data/gb/iphas/iphas_oct2003/i_conf.fits",
-    "ha": "/car-data/gb/iphas/iphas_oct2003/Halpha:197_iphas_oct2003_cpm.fit",
-    "r": "/car-data/gb/iphas/iphas_oct2003/r_conf.fits"
-  },
-  "/car-data/gb/iphas/uvex_oct2011": {
-    "r": "/car-data/gb/iphas/uvex_oct2011/r_conf.fit",
-    "g": "/car-data/gb/iphas/uvex_oct2011/g_conf.fit",
-    "u": "/car-data/gb/iphas/uvex_oct2011/U_conf.fit"
-  },
-  "/car-data/gb/iphas/iphas_oct2005a": {
-    "i": "/car-data/gb/iphas/iphas_oct2005a/i_conf.fits",
-    "ha": "/car-data/gb/iphas/iphas_oct2005a/h_conf.fits",
-    "r": "/car-data/gb/iphas/iphas_oct2005a/r_conf.fits"
-  },
-  "/car-data/gb/iphas/uvex_jun2009": {
-    "g": "/car-data/gb/iphas/uvex_jun2009/g_conf.fits",
-    "i": "/car-data/gb/iphas/uvex_jun2009/i_conf.fits",
-    "ha": "/car-data/gb/iphas/uvex_jun2009/Ha_conf.fits",
-    "r": "/car-data/gb/iphas/uvex_jun2009/r_conf.fits",
-    "u": "/car-data/gb/iphas/uvex_jun2009/U_conf.fits"
-  },
-  "/car-data/gb/iphas/iphas_jun2004": {
-    "i": "/car-data/gb/iphas/iphas_jun2004/i:215_jun2004_cpm.fit",
-    "ha": "/car-data/gb/iphas/iphas_jun2004/Halpha:197_jun2004_cpm.fit",
-    "r": "/car-data/gb/iphas/iphas_jun2004/r:214_jun2004_cpm.fit"
-  },
-  "/car-data/gb/iphas/iphas_nov2006d": {
-    "i": "/car-data/gb/iphas/iphas_nov2006d/i_conf.fits",
-    "g": "/car-data/gb/iphas/iphas_nov2006d/g_conf.fits",
-    "r": "/car-data/gb/iphas/iphas_nov2006d/r_conf.fits",
-    "ha": "/car-data/gb/iphas/iphas_nov2006d/ha_conf.fits"
-  },
-  "/car-data/gb/iphas/iphas_nov2006": {
-    "i": "/car-data/gb/iphas/iphas_nov2006/i_conf.fits",
-    "ha": "/car-data/gb/iphas/iphas_nov2006/Ha_conf.fits",
-    "r": "/car-data/gb/iphas/iphas_nov2006/r_conf.fits"
-  },
-  "/car-data/gb/iphas/iphas_oct2006b": {
-    "i": "/car-data/gb/iphas/iphas_oct2006b/i_conf.fits",
-    "ha": "/car-data/gb/iphas/iphas_oct2006b/Ha_conf.fits",
-    "r": "/car-data/gb/iphas/iphas_oct2006b/r_conf.fits"
-  },
-  "/car-data/gb/iphas/uvex_dec2013b": {
-    "r": "/car-data/gb/iphas/uvex_dec2013b/r_conf.fit",
-    "g": "/car-data/gb/iphas/uvex_dec2013b/g_conf.fit",
-    "u": "/car-data/gb/iphas/uvex_dec2013b/U_conf.fit"
-  },
-  "/car-data/gb/iphas/run3": {
-    "g": "/car-data/gb/iphas/run3/g_conf.fits",
-    "i": "/car-data/gb/iphas/run3/i_conf.fits",
-    "ha": "/car-data/gb/iphas/run3/Ha_conf.fits",
-    "r": "/car-data/gb/iphas/run3/r_conf.fits",
-    "u": "/car-data/gb/iphas/run3/U_conf.fits"
-  },
-  "/car-data/gb/iphas/iphas_dec2004/iphas_dec2004b": {
-    "i": "/car-data/gb/iphas/iphas_dec2004/iphas_dec2004b/i_conf.fits",
-    "ha": "/car-data/gb/iphas/iphas_dec2004/iphas_dec2004b/Ha_conf.fits",
-    "r": "/car-data/gb/iphas/iphas_dec2004/iphas_dec2004b/r_conf.fits"
-  },
-  "/car-data/gb/iphas/uvex_jul08b/new": {
-    "r": "/car-data/gb/iphas/uvex_jul08b/new/r_conf.fit",
-    "g": "/car-data/gb/iphas/uvex_jul08b/new/g_conf.fit",
-    "u": "/car-data/gb/iphas/uvex_jul08b/new/U_conf.fit"
-  },
-  "/car-data/gb/iphas/iphas_aug2009": {
-    "i": "/car-data/gb/iphas/iphas_aug2009/i_conf.fit",
-    "ha": "/car-data/gb/iphas/iphas_aug2009/ha_conf.fit",
-    "r": "/car-data/gb/iphas/iphas_aug2009/r_conf.fit"
-  },
-  "/car-data/gb/iphas/iphas_oct2004/oct2004a": {
-    "i": "/car-data/gb/iphas/iphas_oct2004/oct2004a/i_conf.fits",
-    "ha": "/car-data/gb/iphas/iphas_oct2004/oct2004a/Ha_conf.fits",
-    "r": "/car-data/gb/iphas/iphas_oct2004/oct2004a/r_conf.fits"
-  },
-  "/car-data/gb/iphas/uvex_nov2014": {
-    "r": "/car-data/gb/iphas/uvex_nov2014/r_conf.fit",
-    "g": "/car-data/gb/iphas/uvex_nov2014/g_conf.fit",
-    "u": "/car-data/gb/iphas/uvex_nov2014/U_conf.fit"
-  },
-  "/car-data/gb/iphas/uvex_may2007": {
-    "g": "/car-data/gb/iphas/uvex_may2007/g_conf.fits",
-    "i": "/car-data/gb/iphas/uvex_may2007/i_conf.fits",
-    "ha": "/car-data/gb/iphas/uvex_may2007/Ha_conf.fits",
-    "r": "/car-data/gb/iphas/uvex_may2007/r_conf.fits",
-    "u": "/car-data/gb/iphas/uvex_may2007/U_conf.fits"
-  },
-  "/car-data/gb/iphas/uvex_oct2010b": {
-    "r": "/car-data/gb/iphas/uvex_oct2010b/r_conf.fit",
-    "g": "/car-data/gb/iphas/uvex_oct2010b/g_conf.fit",
-    "u": "/car-data/gb/iphas/uvex_oct2010b/U_conf.fit"
-  },
-  "/car-data/gb/iphas/iphas_oct2005b": {
-    "i": "/car-data/gb/iphas/iphas_oct2005b/i_conf.fits",
-    "ha": "/car-data/gb/iphas/iphas_oct2005b/h_conf.fits",
-    "r": "/car-data/gb/iphas/iphas_oct2005b/r_conf.fits"
-  },
-  "/car-data/gb/iphas/uvex_nov2006": {
-    "r": "/car-data/gb/iphas/uvex_nov2006/r_conf.fit",
-    "g": "/car-data/gb/iphas/uvex_nov2006/g_conf.fit",
-    "u": "/car-data/gb/iphas/uvex_nov2006/U_conf.fit"
-  },
-  "/car-data/gb/iphas/uvex_jul2007": {
-    "i": "/car-data/gb/iphas/uvex_jul2007/i_conf.fits",
-    "g": "/car-data/gb/iphas/uvex_jul2007/g_conf.fits",
-    "r": "/car-data/gb/iphas/uvex_jul2007/r_conf.fits",
-    "u": "/car-data/gb/iphas/uvex_jul2007/U_conf.fits"
-  },
-  "/car-data/gb/iphas/uvex_may2007a": {
-    "r": "/car-data/gb/iphas/uvex_may2007a/r_conf.fit",
-    "g": "/car-data/gb/iphas/uvex_may2007a/g_conf.fit",
-    "i": "/car-data/gb/iphas/uvex_may2007a/i_conf.fit",
-    "u": "/car-data/gb/iphas/uvex_may2007a/U_conf.fit"
-  },
-  "/car-data/gb/iphas/iphas_nov2006b": {
-    "i": "/car-data/gb/iphas/iphas_nov2006b/i_conf.fits",
-    "ha": "/car-data/gb/iphas/iphas_nov2006b/Ha_conf.fits",
-    "r": "/car-data/gb/iphas/iphas_nov2006b/r_conf.fits"
-  },
-  "/car-data/gb/iphas/uvex_sep2014/slow": {},
-  "/car-data/gb/iphas/uvex_jul2009": {
-    "g": "/car-data/gb/iphas/uvex_jul2009/g_conf.fit",
-    "i": "/car-data/gb/iphas/uvex_jul2009/i_conf.fit",
-    "ha": "/car-data/gb/iphas/uvex_jul2009/Ha_conf.fit",
-    "r": "/car-data/gb/iphas/uvex_jul2009/r_conf.fit",
-    "u": "/car-data/gb/iphas/uvex_jul2009/U_conf.fit"
-  },
-  "/car-data/gb/iphas/uvex_aug08": {
-    "ha": "/car-data/gb/iphas/uvex_aug08/ha_conf.fit",
-    "r": "/car-data/gb/iphas/uvex_aug08/r_conf.fit",
-    "g": "/car-data/gb/iphas/uvex_aug08/g_conf.fit",
-    "i": "/car-data/gb/iphas/uvex_aug08/i_conf.fit",
-    "u": "/car-data/gb/iphas/uvex_aug08/U_conf.fit"
-  },
-  "/car-data/gb/iphas/iphas_may2007": {
-    "g": "/car-data/gb/iphas/iphas_may2007/g_conf.fits",
-    "i": "/car-data/gb/iphas/iphas_may2007/i_conf.fits",
-    "ha": "/car-data/gb/iphas/iphas_may2007/Ha_conf.fits",
-    "r": "/car-data/gb/iphas/iphas_may2007/r_conf.fits"
-  },
-  "/car-data/gb/iphas/run8": {
-    "r": "/car-data/gb/iphas/run8/r_conf.fit",
-    "g": "/car-data/gb/iphas/run8/g_conf.fit",
-    "u": "/car-data/gb/iphas/run8/U_conf.fit"
-  },
-  "/car-data/gb/iphas/iphas_jan2006": {
-    "i": "/car-data/gb/iphas/iphas_jan2006/i_conf.fit",
-    "ha": "/car-data/gb/iphas/iphas_jan2006/h_conf.fit",
-    "r": "/car-data/gb/iphas/iphas_jan2006/r_conf.fit"
-  },
-  "/car-data/gb/iphas/uvex_dec2013": {
-    "r": "/car-data/gb/iphas/uvex_dec2013/r_conf.fit",
-    "g": "/car-data/gb/iphas/uvex_dec2013/g_conf.fit",
-    "u": "/car-data/gb/iphas/uvex_dec2013/U_conf.fit"
-  },
-  "/car-data/gb/iphas/uvex_sep2014": {},
-  "/car-data/gb/iphas/iphas_aug2004a": {
-    "i": "/car-data/gb/iphas/iphas_aug2004a/i:215_iphas_aug2004a_cpm.fit",
-    "ha": "/car-data/gb/iphas/iphas_aug2004a/Halpha:197_iphas_aug2004a_cpm.fit",
-    "r": "/car-data/gb/iphas/iphas_aug2004a/r:214_iphas_aug2004a_cpm.fit"
-  },
-  "/car-data/gb/iphas/run6": {
-    "r": "/car-data/gb/iphas/run6/r_conf.fit",
-    "g": "/car-data/gb/iphas/run6/g_conf.fit",
-    "u": "/car-data/gb/iphas/run6/U_conf.fit"
-  },
-  "/car-data/gb/iphas/iphas_oct2004/oct2004b": {
-    "i": "/car-data/gb/iphas/iphas_oct2004/oct2004b/i_conf.fits",
-    "ha": "/car-data/gb/iphas/iphas_oct2004/oct2004b/Ha_conf.fits",
-    "r": "/car-data/gb/iphas/iphas_oct2004/oct2004b/r_conf.fits"
-  },
-  "/car-data/gb/iphas/run1": {
-    "g": "/car-data/gb/iphas/run1/g_conf.fit",
-    "i": "/car-data/gb/iphas/run1/i_conf.fit",
-    "ha": "/car-data/gb/iphas/run1/Ha_conf.fit",
-    "r": "/car-data/gb/iphas/run1/r_conf.fit",
-    "u": "/car-data/gb/iphas/run1/U_conf.fit"
+  "/car-data/gb/iphas/uvex_sep2007": {
+    "g": "/car-data/gb/iphas/uvex_sep2007/g_conf.fit",
+    "ha": "/car-data/gb/iphas/uvex_sep2007/ha_conf.fit",
+    "r": "/car-data/gb/iphas/uvex_sep2007/r_conf.fit",
+    "u": "/car-data/gb/iphas/uvex_sep2007/U_conf.fit",
+    "i": "/car-data/gb/iphas/uvex_sep2007/i_conf.fit"
   },
   "/car-data/gb/iphas/iphas_dec2006": {
-    "i": "/car-data/gb/iphas/iphas_dec2006/i_conf.fits",
     "ha": "/car-data/gb/iphas/iphas_dec2006/Ha_conf.fits",
-    "r": "/car-data/gb/iphas/iphas_dec2006/r_conf.fits"
-  },
-  "/car-data/gb/iphas/iphas_nov2003b": {
-    "i": "/car-data/gb/iphas/iphas_nov2003b/i:215_nov2003b_cpm.fit",
-    "ha": "/car-data/gb/iphas/iphas_nov2003b/Halpha:197_nov2003b_cpm.fit",
-    "r": "/car-data/gb/iphas/iphas_nov2003b/r:214_nov2003b_cpm.fit"
-  },
-  "/car-data/gb/iphas/iphas_oct2009": {
-    "i": "/car-data/gb/iphas/iphas_oct2009/i_conf.fit",
-    "ha": "/car-data/gb/iphas/iphas_oct2009/ha_conf.fit",
-    "r": "/car-data/gb/iphas/iphas_oct2009/r_conf.fit"
-  },
-  "/car-data/gb/iphas/iphas_nov2012": {
-    "i": "/car-data/gb/iphas/iphas_nov2012/i_conf.fit",
-    "ha": "/car-data/gb/iphas/iphas_nov2012/Ha_conf.fit",
-    "r": "/car-data/gb/iphas/iphas_nov2012/r_conf.fit"
-  },
-  "/car-data/gb/iphas/iphas_jul2004a": {
-    "i": "/car-data/gb/iphas/iphas_jul2004a/i:215_iphas_jul2004a_cpm.fit",
-    "ha": "/car-data/gb/iphas/iphas_jul2004a/Halpha:197_iphas_jul2004a_cpm.fit",
-    "r": "/car-data/gb/iphas/iphas_jul2004a/r:214_iphas_jul2004a_cpm.fit"
-  },
-  "/car-data/gb/iphas/uvex_aug2009": {
-    "g": "/car-data/gb/iphas/uvex_aug2009/g_conf.fit",
-    "i": "/car-data/gb/iphas/uvex_aug2009/i_conf.fit",
-    "ha": "/car-data/gb/iphas/uvex_aug2009/Ha_conf.fit",
-    "r": "/car-data/gb/iphas/uvex_aug2009/r_conf.fit",
-    "u": "/car-data/gb/iphas/uvex_aug2009/U_conf.fit"
-  },
-  "/car-data/gb/iphas/uvex_oct2007": {
-    "r": "/car-data/gb/iphas/uvex_oct2007/r_conf.fit",
-    "g": "/car-data/gb/iphas/uvex_oct2007/g_conf.fit",
-    "u": "/car-data/gb/iphas/uvex_oct2007/U_conf.fit"
-  },
-  "/car-data/gb/iphas/uvex_may10": {
-    "r": "/car-data/gb/iphas/uvex_may10/r_conf.fit",
-    "g": "/car-data/gb/iphas/uvex_may10/g_conf.fit",
-    "u": "/car-data/gb/iphas/uvex_may10/U_conf.fit"
-  },
-  "/car-data/gb/iphas/uvex_jul08a": {
-    "g": "/car-data/gb/iphas/uvex_jul08a/g_conf.fit",
-    "i": "/car-data/gb/iphas/uvex_jul08a/i_conf.fit",
-    "ha": "/car-data/gb/iphas/uvex_jul08a/Halpha_conf.fit",
-    "r": "/car-data/gb/iphas/uvex_jul08a/r_conf.fit",
-    "u": "/car-data/gb/iphas/uvex_jul08a/U_conf.fit"
-  },
-  "/car-data/gb/iphas/uvex_sep2010c": {
-    "r": "/car-data/gb/iphas/uvex_sep2010c/r_conf.fit",
-    "g": "/car-data/gb/iphas/uvex_sep2010c/g_conf.fit",
-    "u": "/car-data/gb/iphas/uvex_sep2010c/U_conf.fit"
-  },
-  "/car-data/gb/iphas/iphas_jun2007/stacks": {},
-  "/car-data/gb/iphas/run14": {
-    "g": "/car-data/gb/iphas/run14/g_conf.fits",
-    "i": "/car-data/gb/iphas/run14/i_conf.fits",
-    "ha": "/car-data/gb/iphas/run14/Ha_conf.fits",
-    "r": "/car-data/gb/iphas/run14/r_conf.fits",
-    "u": "/car-data/gb/iphas/run14/U_conf.fits"
-  },
-  "/car-data/gb/iphas/uvex_jul08b": {
-    "g": "/car-data/gb/iphas/uvex_jul08b/g_conf.fit",
-    "r": "/car-data/gb/iphas/uvex_jul08b/r_conf.fit",
-    "ha": "/car-data/gb/iphas/uvex_jul08b/Halpha_conf.fit",
-    "i": "/car-data/gb/iphas/uvex_jul08b/i_conf.fit",
-    "u": "/car-data/gb/iphas/uvex_jul08b/U_conf.fit"
-  },
-  "/car-data/gb/iphas/uvex_nov2011b": {
-    "r": "/car-data/gb/iphas/uvex_nov2011b/r_conf.fit",
-    "g": "/car-data/gb/iphas/uvex_nov2011b/g_conf.fit",
-    "u": "/car-data/gb/iphas/uvex_nov2011b/U_conf.fit"
-  },
-  "/car-data/gb/iphas/uvex_sep2013": {
-    "g": "/car-data/gb/iphas/uvex_sep2013/g_conf.fit",
-    "i": "/car-data/gb/iphas/uvex_sep2013/i_conf.fit",
-    "ha": "/car-data/gb/iphas/uvex_sep2013/Ha_conf.fit",
-    "r": "/car-data/gb/iphas/uvex_sep2013/r_conf.fit",
-    "u": "/car-data/gb/iphas/uvex_sep2013/U_conf.fit"
-  },
-  "/car-data/gb/iphas/uvex_dec2010": {
-    "i": "/car-data/gb/iphas/uvex_dec2010/i_conf.fits",
-    "ha": "/car-data/gb/iphas/uvex_dec2010/Ha_conf.fits",
-    "r": "/car-data/gb/iphas/uvex_dec2010/r_conf.fits"
-  },
-  "/car-data/gb/iphas/iphas_jul2009": {
-    "g": "/car-data/gb/iphas/iphas_jul2009/g_conf.fits",
-    "i": "/car-data/gb/iphas/iphas_jul2009/i_conf.fits",
-    "ha": "/car-data/gb/iphas/iphas_jul2009/Ha_conf.fits",
-    "r": "/car-data/gb/iphas/iphas_jul2009/r_conf.fits",
-    "u": "/car-data/gb/iphas/iphas_jul2009/U_conf.fits"
+    "r": "/car-data/gb/iphas/iphas_dec2006/r_conf.fits",
+    "i": "/car-data/gb/iphas/iphas_dec2006/i_conf.fits"
   },
   "/car-data/gb/iphas/uvex_oct2013": {
-    "g": "/car-data/gb/iphas/uvex_oct2013/g_conf.fit",
-    "i": "/car-data/gb/iphas/uvex_oct2013/i_conf.fit",
     "ha": "/car-data/gb/iphas/uvex_oct2013/Ha_conf.fit",
+    "g": "/car-data/gb/iphas/uvex_oct2013/g_conf.fit",
     "r": "/car-data/gb/iphas/uvex_oct2013/r_conf.fit",
-    "u": "/car-data/gb/iphas/uvex_oct2013/U_conf.fit"
-  },
-  "/car-data/gb/iphas/uvex_aug2014": {},
-  "/car-data/gb/iphas/uvex_oct2014": {
-    "ha": "/car-data/gb/iphas/uvex_oct2014/Haconf.fit"
-  },
-  "/car-data/gb/iphas/uvex_jul10": {
-    "r": "/car-data/gb/iphas/uvex_jul10/r_conf.fit",
-    "g": "/car-data/gb/iphas/uvex_jul10/g_conf.fit",
-    "u": "/car-data/gb/iphas/uvex_jul10/U_conf.fit"
-  },
-  "/car-data/gb/iphas/iphas_dec2004/iphas_dec2004a": {
-    "i": "/car-data/gb/iphas/iphas_dec2004/iphas_dec2004a/i_conf.fits",
-    "ha": "/car-data/gb/iphas/iphas_dec2004/iphas_dec2004a/Ha_conf.fits",
-    "r": "/car-data/gb/iphas/iphas_dec2004/iphas_dec2004a/r_conf.fits"
-  },
-  "/car-data/gb/iphas/uvex_jul2006": {
-    "r": "/car-data/gb/iphas/uvex_jul2006/r_conf.fit",
-    "g": "/car-data/gb/iphas/uvex_jul2006/g_conf.fit",
-    "u": "/car-data/gb/iphas/uvex_jul2006/U_conf.fit"
-  },
-  "/car-data/gb/iphas/uvex_nov2009": {
-    "g": "/car-data/gb/iphas/uvex_nov2009/g_conf.fit",
-    "r": "/car-data/gb/iphas/uvex_nov2009/r_conf.fit",
-    "ha": "/car-data/gb/iphas/uvex_nov2009/Ha_conf.fit",
-    "u": "/car-data/gb/iphas/uvex_nov2009/U_conf.fit"
-  },
-  "/car-data/gb/iphas/uvex_jun10": {
-    "r": "/car-data/gb/iphas/uvex_jun10/r_conf.fit",
-    "g": "/car-data/gb/iphas/uvex_jun10/g_conf.fit",
-    "u": "/car-data/gb/iphas/uvex_jun10/U_conf.fit"
-  },
-  "/car-data/gb/iphas/PROBLEMS/uvex_aug08": {
-    "ha": "/car-data/gb/iphas/PROBLEMS/uvex_aug08/ha_conf.fit",
-    "r": "/car-data/gb/iphas/PROBLEMS/uvex_aug08/r_conf.fit",
-    "g": "/car-data/gb/iphas/PROBLEMS/uvex_aug08/g_conf.fit",
-    "i": "/car-data/gb/iphas/PROBLEMS/uvex_aug08/i_conf.fit",
-    "u": "/car-data/gb/iphas/PROBLEMS/uvex_aug08/U_conf.fit"
-  },
-  "/car-data/gb/iphas/iphas_jul2004b": {
-    "i": "/car-data/gb/iphas/iphas_jul2004b/i:215_iphas_jul2004_cpm.fit",
-    "ha": "/car-data/gb/iphas/iphas_jul2004b/Halpha:197_iphas_jul2004_cpm.fit",
-    "r": "/car-data/gb/iphas/iphas_jul2004b/r:214_iphas_jul2004_cpm.fit"
-  },
-  "/car-data/gb/iphas/uvex_nov2011": {
-    "r": "/car-data/gb/iphas/uvex_nov2011/r_conf.fit",
-    "g": "/car-data/gb/iphas/uvex_nov2011/g_conf.fit",
-    "u": "/car-data/gb/iphas/uvex_nov2011/U_conf.fit"
-  },
-  "/car-data/gb/iphas/iphas_dec2003": {
-    "i": "/car-data/gb/iphas/iphas_dec2003/i:215_dec2003_cpm.fit",
-    "ha": "/car-data/gb/iphas/iphas_dec2003/Halpha:197_dec2003_cpm.fit",
-    "r": "/car-data/gb/iphas/iphas_dec2003/r:214_dec2003_cpm.fit"
-  },
-  "/car-data/gb/iphas/iphas_nov2004": {
-    "i": "/car-data/gb/iphas/iphas_nov2004/i_conf.fits",
-    "ha": "/car-data/gb/iphas/iphas_nov2004/Ha_conf.fits",
-    "r": "/car-data/gb/iphas/iphas_nov2004/r_conf.fits"
-  },
-  "/car-data/gb/iphas/iphas_jan2007": {
-    "g": "/car-data/gb/iphas/iphas_jan2007/g_conf.fits",
-    "i": "/car-data/gb/iphas/iphas_jan2007/i_conf.fits",
-    "ha": "/car-data/gb/iphas/iphas_jan2007/Ha_conf.fits",
-    "r": "/car-data/gb/iphas/iphas_jan2007/r_conf.fits"
-  },
-  "/car-data/gb/iphas/iphas_aug2003": {
-    "i": "/car-data/gb/iphas/iphas_aug2003/i:215_iphas_aug2003_cpm.fit",
-    "ha": "/car-data/gb/iphas/iphas_aug2003/Halpha:197_iphas_aug2003_cpm.fit",
-    "r": "/car-data/gb/iphas/iphas_aug2003/r:214_iphas_aug2003_cpm.fit"
-  },
-  "/car-data/gb/iphas/iphas_nov2005": {
-    "i": "/car-data/gb/iphas/iphas_nov2005/i_conf.fit",
-    "ha": "/car-data/gb/iphas/iphas_nov2005/h_conf.fit",
-    "r": "/car-data/gb/iphas/iphas_nov2005/r_conf.fit"
-  },
-  "/car-data/gb/iphas/PROBLEMS/uvex_jul08b": {
-    "g": "/car-data/gb/iphas/PROBLEMS/uvex_jul08b/g_conf.fit",
-    "r": "/car-data/gb/iphas/PROBLEMS/uvex_jul08b/r_conf.fit",
-    "ha": "/car-data/gb/iphas/PROBLEMS/uvex_jul08b/Halpha_conf.fit",
-    "i": "/car-data/gb/iphas/PROBLEMS/uvex_jul08b/i_conf.fit",
-    "u": "/car-data/gb/iphas/PROBLEMS/uvex_jul08b/U_conf.fit"
-  },
-  "/car-data/gb/iphas/uvex_jun2006": {
-    "i": "/car-data/gb/iphas/uvex_jun2006/i_conf.fits",
-    "g": "/car-data/gb/iphas/uvex_jun2006/g_conf.fits",
-    "u": "/car-data/gb/iphas/uvex_jun2006/u_conf.fits",
-    "r": "/car-data/gb/iphas/uvex_jun2006/r_conf.fits",
-    "ha": "/car-data/gb/iphas/uvex_jun2006/ha_conf.fits"
-  },
-  "/car-data/gb/iphas/uvex_sep2010": {
-    "g": "/car-data/gb/iphas/uvex_sep2010/g_conf.fits",
-    "i": "/car-data/gb/iphas/uvex_sep2010/i_conf.fits",
-    "ha": "/car-data/gb/iphas/uvex_sep2010/Ha_conf.fits",
-    "r": "/car-data/gb/iphas/uvex_sep2010/r_conf.fits",
-    "u": "/car-data/gb/iphas/uvex_sep2010/U_conf.fits"
-  },
-  "/car-data/gb/iphas/iphas_dec2008": {
-    "i": "/car-data/gb/iphas/iphas_dec2008/i_conf.fit",
-    "ha": "/car-data/gb/iphas/iphas_dec2008/Halpha_conf.fit",
-    "r": "/car-data/gb/iphas/iphas_dec2008/r_conf.fit"
-  },
-  "/car-data/gb/iphas/iphas_jun2007": {
-    "g": "/car-data/gb/iphas/iphas_jun2007/g_conf.fits",
-    "i": "/car-data/gb/iphas/iphas_jun2007/i_conf.fits",
-    "ha": "/car-data/gb/iphas/iphas_jun2007/Ha_conf.fits",
-    "r": "/car-data/gb/iphas/iphas_jun2007/r_conf.fits"
+    "u": "/car-data/gb/iphas/uvex_oct2013/U_conf.fit",
+    "i": "/car-data/gb/iphas/uvex_oct2013/i_conf.fit"
   },
   "/car-data/gb/iphas/iphas_nov2008": {
-    "i": "/car-data/gb/iphas/iphas_nov2008/i_conf.fit",
     "ha": "/car-data/gb/iphas/iphas_nov2008/Halpha_conf.fit",
-    "r": "/car-data/gb/iphas/iphas_nov2008/r_conf.fit"
-  },
-  "/car-data/gb/iphas/uvex_sep2007": {
-    "ha": "/car-data/gb/iphas/uvex_sep2007/ha_conf.fit",
-    "i": "/car-data/gb/iphas/uvex_sep2007/i_conf.fit",
-    "g": "/car-data/gb/iphas/uvex_sep2007/g_conf.fit",
-    "r": "/car-data/gb/iphas/uvex_sep2007/r_conf.fit",
-    "u": "/car-data/gb/iphas/uvex_sep2007/U_conf.fit"
-  },
-  "/car-data/gb/iphas/iphas_oct2006": {
-    "i": "/car-data/gb/iphas/iphas_oct2006/i_conf.fit",
-    "ha": "/car-data/gb/iphas/iphas_oct2006/ha_conf.fit",
-    "r": "/car-data/gb/iphas/iphas_oct2006/r_conf.fit"
-  },
-  "/car-data/gb/iphas/run9": {
-    "g": "/car-data/gb/iphas/run9/g_conf.fit",
-    "i": "/car-data/gb/iphas/run9/i_conf.fit",
-    "ha": "/car-data/gb/iphas/run9/Ha_conf.fit",
-    "r": "/car-data/gb/iphas/run9/r_conf.fit",
-    "u": "/car-data/gb/iphas/run9/U_conf.fit"
-  },
-  "/car-data/gb/iphas/iphas_jan2008": {
-    "i": "/car-data/gb/iphas/iphas_jan2008/i_conf.fit",
-    "ha": "/car-data/gb/iphas/iphas_jan2008/ha_conf.fit",
-    "r": "/car-data/gb/iphas/iphas_jan2008/r_conf.fit"
-  },
-  "/car-data/gb/iphas/iphas_sep2003": {
-    "i": "/car-data/gb/iphas/iphas_sep2003/i:215_iphas_sep2003_cpm.fit",
-    "ha": "/car-data/gb/iphas/iphas_sep2003/Halpha:197_iphas_sep2003_cpm.fit",
-    "r": "/car-data/gb/iphas/iphas_sep2003/r:214_iphas_sep2003_cpm.fit"
-  },
-  "/car-data/gb/iphas/uvex_aug2010": {
-    "g": "/car-data/gb/iphas/uvex_aug2010/g_conf.fit",
-    "i": "/car-data/gb/iphas/uvex_aug2010/i_conf.fit",
-    "ha": "/car-data/gb/iphas/uvex_aug2010/Ha_conf.fit",
-    "r": "/car-data/gb/iphas/uvex_aug2010/r_conf.fit",
-    "u": "/car-data/gb/iphas/uvex_aug2010/U_conf.fit"
-  },
-  "/car-data/gb/iphas/iphas_sep2005": {
-    "i": "/car-data/gb/iphas/iphas_sep2005/i_conf.fit",
-    "ha": "/car-data/gb/iphas/iphas_sep2005/h_conf.fit",
-    "r": "/car-data/gb/iphas/iphas_sep2005/r_conf.fit"
-  },
-  "/car-data/gb/iphas/PROBLEMS/uvex_jul08b/new": {
-    "r": "/car-data/gb/iphas/PROBLEMS/uvex_jul08b/new/r_conf.fit",
-    "g": "/car-data/gb/iphas/PROBLEMS/uvex_jul08b/new/g_conf.fit",
-    "u": "/car-data/gb/iphas/PROBLEMS/uvex_jul08b/new/U_conf.fit"
-  },
-  "/car-data/gb/iphas/run7": {
-    "g": "/car-data/gb/iphas/run7/g_conf.fit",
-    "i": "/car-data/gb/iphas/run7/i_conf.fit",
-    "ha": "/car-data/gb/iphas/run7/Ha_conf.fit",
-    "r": "/car-data/gb/iphas/run7/r_conf.fit",
-    "u": "/car-data/gb/iphas/run7/U_conf.fit"
-  },
-  "/car-data/gb/iphas/uvex_aug2013": {
-    "g": "/car-data/gb/iphas/uvex_aug2013/g_conf.fit",
-    "i": "/car-data/gb/iphas/uvex_aug2013/i_conf.fit",
-    "ha": "/car-data/gb/iphas/uvex_aug2013/Ha_conf.fit",
-    "r": "/car-data/gb/iphas/uvex_aug2013/r_conf.fit",
-    "u": "/car-data/gb/iphas/uvex_aug2013/U_conf.fit"
-  },
-  "/car-data/gb/iphas/run2": {
-    "r": "/car-data/gb/iphas/run2/r_conf.fit",
-    "g": "/car-data/gb/iphas/run2/g_conf.fit",
-    "u": "/car-data/gb/iphas/run2/U_conf.fit"
-  },
-  "/car-data/gb/iphas/uvex_sep2009": {
-    "g": "/car-data/gb/iphas/uvex_sep2009/g_conf.fit",
-    "i": "/car-data/gb/iphas/uvex_sep2009/i_conf.fit",
-    "ha": "/car-data/gb/iphas/uvex_sep2009/Ha_conf.fit",
-    "r": "/car-data/gb/iphas/uvex_sep2009/r_conf.fit",
-    "u": "/car-data/gb/iphas/uvex_sep2009/U_conf.fit"
-  },
-  "/car-data/gb/iphas/iphas_aug2004b": {
-    "i": "/car-data/gb/iphas/iphas_aug2004b/i:215_iphas_aug2004b_cpm.fit",
-    "ha": "/car-data/gb/iphas/iphas_aug2004b/Halpha:197_iphas_aug2004b_cpm.fit",
-    "r": "/car-data/gb/iphas/iphas_aug2004b/r:214_iphas_aug2004b_cpm.fit"
-  },
-  "/car-data/gb/iphas/iphas_nov2009": {
-    "g": "/car-data/gb/iphas/iphas_nov2009/g_conf.fit",
-    "i": "/car-data/gb/iphas/iphas_nov2009/i_conf.fit",
-    "ha": "/car-data/gb/iphas/iphas_nov2009/Ha_conf.fit",
-    "r": "/car-data/gb/iphas/iphas_nov2009/r_conf.fit",
-    "u": "/car-data/gb/iphas/iphas_nov2009/U_conf.fit"
-  },
-  "/car-data/gb/iphas/run13": {
-    "g": "/car-data/gb/iphas/run13/g_conf.fits",
-    "i": "/car-data/gb/iphas/run13/i_conf.fits",
-    "ha": "/car-data/gb/iphas/run13/Ha_conf.fits",
-    "r": "/car-data/gb/iphas/run13/r_conf.fits",
-    "u": "/car-data/gb/iphas/run13/U_conf.fits"
-  },
-  "/car-data/gb/iphas/uvex_oct2012": {
-    "g": "/car-data/gb/iphas/uvex_oct2012/g_conf.fit",
-    "i": "/car-data/gb/iphas/uvex_oct2012/i_conf.fit",
-    "ha": "/car-data/gb/iphas/uvex_oct2012/Ha_conf.fit",
-    "r": "/car-data/gb/iphas/uvex_oct2012/r_conf.fit",
-    "u": "/car-data/gb/iphas/uvex_oct2012/U_conf.fit"
-  },
-  "/car-data/gb/iphas/iphas_aug2008": {
-    "ha": "/car-data/gb/iphas/iphas_aug2008/ha_conf.fit",
-    "i": "/car-data/gb/iphas/iphas_aug2008/i_conf.fit",
-    "g": "/car-data/gb/iphas/iphas_aug2008/g_conf.fit",
-    "r": "/car-data/gb/iphas/iphas_aug2008/r_conf.fit",
-    "u": "/car-data/gb/iphas/iphas_aug2008/U_conf.fit"
+    "r": "/car-data/gb/iphas/iphas_nov2008/r_conf.fit",
+    "i": "/car-data/gb/iphas/iphas_nov2008/i_conf.fit"
   },
   "/car-data/gb/iphas/iphas_nov2006c": {
-    "i": "/car-data/gb/iphas/iphas_nov2006c/i_conf.fits",
     "ha": "/car-data/gb/iphas/iphas_nov2006c/Ha_conf.fits",
-    "r": "/car-data/gb/iphas/iphas_nov2006c/r_conf.fits"
+    "r": "/car-data/gb/iphas/iphas_nov2006c/r_conf.fits",
+    "i": "/car-data/gb/iphas/iphas_nov2006c/i_conf.fits"
   },
-  "/car-data/gb/iphas/uvex_sep2010b": {
-    "r": "/car-data/gb/iphas/uvex_sep2010b/r_conf.fit",
-    "g": "/car-data/gb/iphas/uvex_sep2010b/g_conf.fit",
-    "u": "/car-data/gb/iphas/uvex_sep2010b/U_conf.fit"
+  "/car-data/gb/iphas/uvex_jun2006": {
+    "g": "/car-data/gb/iphas/uvex_jun2006/g_conf.fits",
+    "ha": "/car-data/gb/iphas/uvex_jun2006/ha_conf.fits",
+    "r": "/car-data/gb/iphas/uvex_jun2006/r_conf.fits",
+    "u": "/car-data/gb/iphas/uvex_jun2006/u_conf.fits",
+    "i": "/car-data/gb/iphas/uvex_jun2006/i_conf.fits"
   },
-  "/car-data/gb/iphas/iphas_dec2005": {
-    "i": "/car-data/gb/iphas/iphas_dec2005/i_conf.fit",
-    "ha": "/car-data/gb/iphas/iphas_dec2005/h_conf.fit",
-    "r": "/car-data/gb/iphas/iphas_dec2005/r_conf.fit"
+  "/car-data/gb/iphas/uvex_aug2013": {
+    "ha": "/car-data/gb/iphas/uvex_aug2013/Ha_conf.fit",
+    "g": "/car-data/gb/iphas/uvex_aug2013/g_conf.fit",
+    "r": "/car-data/gb/iphas/uvex_aug2013/r_conf.fit",
+    "u": "/car-data/gb/iphas/uvex_aug2013/U_conf.fit",
+    "i": "/car-data/gb/iphas/uvex_aug2013/i_conf.fit"
   },
-  "/car-data/gb/iphas/iphas_oct2004/oct2004c": {
-    "i": "/car-data/gb/iphas/iphas_oct2004/oct2004c/i_conf.fits",
-    "ha": "/car-data/gb/iphas/iphas_oct2004/oct2004c/Ha_conf.fits",
-    "r": "/car-data/gb/iphas/iphas_oct2004/oct2004c/r_conf.fits"
+  "/car-data/gb/iphas/iphas_oct2003": {
+    "ha": "/car-data/gb/iphas/iphas_oct2003/Halpha:197_iphas_oct2003_cpm.fit",
+    "r": "/car-data/gb/iphas/iphas_oct2003/r_conf.fits",
+    "i": "/car-data/gb/iphas/iphas_oct2003/i_conf.fits"
+  },
+  "/car-data/gb/iphas/uvex_may10": {
+    "g": "/car-data/gb/iphas/uvex_may10/g_conf.fit",
+    "r": "/car-data/gb/iphas/uvex_may10/r_conf.fit",
+    "u": "/car-data/gb/iphas/uvex_may10/U_conf.fit"
+  },
+  "/car-data/gb/iphas/iphas_oct2004/oct2004a": {
+    "ha": "/car-data/gb/iphas/iphas_oct2004/oct2004a/Ha_conf.fits",
+    "r": "/car-data/gb/iphas/iphas_oct2004/oct2004a/r_conf.fits",
+    "i": "/car-data/gb/iphas/iphas_oct2004/oct2004a/i_conf.fits"
+  },
+  "/car-data/gb/iphas/uvex_may2007": {
+    "ha": "/car-data/gb/iphas/uvex_may2007/Ha_conf.fits",
+    "g": "/car-data/gb/iphas/uvex_may2007/g_conf.fits",
+    "r": "/car-data/gb/iphas/uvex_may2007/r_conf.fits",
+    "u": "/car-data/gb/iphas/uvex_may2007/U_conf.fits",
+    "i": "/car-data/gb/iphas/uvex_may2007/i_conf.fits"
   },
   "/car-data/gb/iphas/run11": {
-    "g": "/car-data/gb/iphas/run11/g_conf.fit",
-    "i": "/car-data/gb/iphas/run11/i_conf.fit",
     "ha": "/car-data/gb/iphas/run11/Ha_conf.fit",
+    "g": "/car-data/gb/iphas/run11/g_conf.fit",
     "r": "/car-data/gb/iphas/run11/r_conf.fit",
-    "u": "/car-data/gb/iphas/run11/U_conf.fit"
+    "u": "/car-data/gb/iphas/run11/U_conf.fit",
+    "i": "/car-data/gb/iphas/run11/i_conf.fit"
   },
-  "/car-data/gb/iphas/uvex_sep2012": {
-    "g": "/car-data/gb/iphas/uvex_sep2012/g_conf.fit",
-    "i": "/car-data/gb/iphas/uvex_sep2012/i_conf.fit",
-    "ha": "/car-data/gb/iphas/uvex_sep2012/Ha_conf.fit",
-    "r": "/car-data/gb/iphas/uvex_sep2012/r_conf.fit",
-    "u": "/car-data/gb/iphas/uvex_sep2012/U_conf.fit"
+  "/car-data/gb/iphas/iphas_jun2007/stacks": {},
+  "/car-data/gb/iphas/uvex_sep2010c": {
+    "g": "/car-data/gb/iphas/uvex_sep2010c/g_conf.fit",
+    "r": "/car-data/gb/iphas/uvex_sep2010c/r_conf.fit",
+    "u": "/car-data/gb/iphas/uvex_sep2010c/U_conf.fit"
   },
-  "/car-data/gb/iphas/iphas_nov2007": {
-    "g": "/car-data/gb/iphas/iphas_nov2007/g_conf.fit",
-    "i": "/car-data/gb/iphas/iphas_nov2007/i_conf.fit",
-    "ha": "/car-data/gb/iphas/iphas_nov2007/Ha_conf.fit",
-    "r": "/car-data/gb/iphas/iphas_nov2007/r_conf.fit",
-    "u": "/car-data/gb/iphas/iphas_nov2007/U_conf.fit"
+  "/car-data/gb/iphas/iphas_aug2003": {
+    "ha": "/car-data/gb/iphas/iphas_aug2003/Halpha:197_iphas_aug2003_cpm.fit",
+    "r": "/car-data/gb/iphas/iphas_aug2003/r:214_iphas_aug2003_cpm.fit",
+    "i": "/car-data/gb/iphas/iphas_aug2003/i:215_iphas_aug2003_cpm.fit"
   },
-  "/car-data/gb/iphas/run12": {
-    "g": "/car-data/gb/iphas/run12/g_conf.fits",
-    "i": "/car-data/gb/iphas/run12/i_conf.fits",
-    "ha": "/car-data/gb/iphas/run12/Ha_conf.fits",
-    "r": "/car-data/gb/iphas/run12/r_conf.fits",
-    "u": "/car-data/gb/iphas/run12/U_conf.fits"
+  "/car-data/gb/iphas/run10": {
+    "g": "/car-data/gb/iphas/run10/g_conf.fit",
+    "r": "/car-data/gb/iphas/run10/r_conf.fit",
+    "u": "/car-data/gb/iphas/run10/U_conf.fit"
   },
-  "/car-data/gb/iphas/uvex_oct2010": {
-    "g": "/car-data/gb/iphas/uvex_oct2010/g_conf.fits",
-    "i": "/car-data/gb/iphas/uvex_oct2010/i_conf.fits",
-    "ha": "/car-data/gb/iphas/uvex_oct2010/Ha_conf.fits",
-    "r": "/car-data/gb/iphas/uvex_oct2010/r_conf.fits",
-    "u": "/car-data/gb/iphas/uvex_oct2010/U_conf.fits"
+  "/car-data/gb/iphas/iphas_jul2004a": {
+    "ha": "/car-data/gb/iphas/iphas_jul2004a/Halpha:197_iphas_jul2004a_cpm.fit",
+    "r": "/car-data/gb/iphas/iphas_jul2004a/r:214_iphas_jul2004a_cpm.fit",
+    "i": "/car-data/gb/iphas/iphas_jul2004a/i:215_iphas_jul2004a_cpm.fit"
+  },
+  "/car-data/gb/iphas/iphas_jul2004b": {
+    "ha": "/car-data/gb/iphas/iphas_jul2004b/Halpha:197_iphas_jul2004_cpm.fit",
+    "r": "/car-data/gb/iphas/iphas_jul2004b/r:214_iphas_jul2004_cpm.fit",
+    "i": "/car-data/gb/iphas/iphas_jul2004b/i:215_iphas_jul2004_cpm.fit"
+  },
+  "/car-data/gb/iphas/uvex_jul08a": {
+    "ha": "/car-data/gb/iphas/uvex_jul08a/Halpha_conf.fit",
+    "g": "/car-data/gb/iphas/uvex_jul08a/g_conf.fit",
+    "r": "/car-data/gb/iphas/uvex_jul08a/r_conf.fit",
+    "u": "/car-data/gb/iphas/uvex_jul08a/U_conf.fit",
+    "i": "/car-data/gb/iphas/uvex_jul08a/i_conf.fit"
+  },
+  "/car-data/gb/iphas/iphas_oct2005b": {
+    "ha": "/car-data/gb/iphas/iphas_oct2005b/h_conf.fits",
+    "r": "/car-data/gb/iphas/iphas_oct2005b/r_conf.fits",
+    "i": "/car-data/gb/iphas/iphas_oct2005b/i_conf.fits"
+  },
+  "/car-data/gb/iphas/iphas_nov2009": {
+    "ha": "/car-data/gb/iphas/iphas_nov2009/Ha_conf.fit",
+    "g": "/car-data/gb/iphas/iphas_nov2009/g_conf.fit",
+    "r": "/car-data/gb/iphas/iphas_nov2009/r_conf.fit",
+    "u": "/car-data/gb/iphas/iphas_nov2009/U_conf.fit",
+    "i": "/car-data/gb/iphas/iphas_nov2009/i_conf.fit"
+  },
+  "/car-data/gb/iphas/uvex_nov2009": {
+    "ha": "/car-data/gb/iphas/uvex_nov2009/Ha_conf.fit",
+    "g": "/car-data/gb/iphas/uvex_nov2009/g_conf.fit",
+    "r": "/car-data/gb/iphas/uvex_nov2009/r_conf.fit",
+    "u": "/car-data/gb/iphas/uvex_nov2009/U_conf.fit"
+  },
+  "/car-data/gb/iphas/iphas_nov2005": {
+    "ha": "/car-data/gb/iphas/iphas_nov2005/h_conf.fit",
+    "r": "/car-data/gb/iphas/iphas_nov2005/r_conf.fit",
+    "i": "/car-data/gb/iphas/iphas_nov2005/i_conf.fit"
+  },
+  "/car-data/gb/iphas/iphas_jan2007": {
+    "ha": "/car-data/gb/iphas/iphas_jan2007/Ha_conf.fits",
+    "g": "/car-data/gb/iphas/iphas_jan2007/g_conf.fits",
+    "r": "/car-data/gb/iphas/iphas_jan2007/r_conf.fits",
+    "i": "/car-data/gb/iphas/iphas_jan2007/i_conf.fits"
+  },
+  "/car-data/gb/iphas/uvex_sep2014/slow": {
+    "g": "/car-data/gb/iphas/uvex_sep2014/slow/gslowconf.fit",
+    "r": "/car-data/gb/iphas/uvex_sep2014/slow/rslowconf.fit",
+    "u": "/car-data/gb/iphas/uvex_sep2014/slow/Uslowconf.fit"
+  },
+  "/car-data/gb/iphas/uvex_nov2011": {
+    "g": "/car-data/gb/iphas/uvex_nov2011/g_conf.fit",
+    "r": "/car-data/gb/iphas/uvex_nov2011/r_conf.fit",
+    "u": "/car-data/gb/iphas/uvex_nov2011/U_conf.fit"
+  },
+  "/car-data/gb/iphas/uvex_jul2009": {
+    "ha": "/car-data/gb/iphas/uvex_jul2009/Ha_conf.fit",
+    "g": "/car-data/gb/iphas/uvex_jul2009/g_conf.fit",
+    "r": "/car-data/gb/iphas/uvex_jul2009/r_conf.fit",
+    "u": "/car-data/gb/iphas/uvex_jul2009/U_conf.fit",
+    "i": "/car-data/gb/iphas/uvex_jul2009/i_conf.fit"
+  },
+  "/car-data/gb/iphas/uvex_sep2013": {
+    "ha": "/car-data/gb/iphas/uvex_sep2013/Ha_conf.fit",
+    "g": "/car-data/gb/iphas/uvex_sep2013/g_conf.fit",
+    "r": "/car-data/gb/iphas/uvex_sep2013/r_conf.fit",
+    "u": "/car-data/gb/iphas/uvex_sep2013/U_conf.fit",
+    "i": "/car-data/gb/iphas/uvex_sep2013/i_conf.fit"
+  },
+  "/car-data/gb/iphas/iphas_dec2008": {
+    "ha": "/car-data/gb/iphas/iphas_dec2008/Halpha_conf.fit",
+    "r": "/car-data/gb/iphas/iphas_dec2008/r_conf.fit",
+    "i": "/car-data/gb/iphas/iphas_dec2008/i_conf.fit"
+  },
+  "/car-data/gb/iphas/PROBLEMS/uvex_jul08b": {
+    "ha": "/car-data/gb/iphas/PROBLEMS/uvex_jul08b/Halpha_conf.fit",
+    "g": "/car-data/gb/iphas/PROBLEMS/uvex_jul08b/g_conf.fit",
+    "r": "/car-data/gb/iphas/PROBLEMS/uvex_jul08b/r_conf.fit",
+    "u": "/car-data/gb/iphas/PROBLEMS/uvex_jul08b/U_conf.fit",
+    "i": "/car-data/gb/iphas/PROBLEMS/uvex_jul08b/i_conf.fit"
+  },
+  "/car-data/gb/iphas/uvex_aug2014": {
+    "g": "/car-data/gb/iphas/uvex_aug2014/gconf.fit",
+    "r": "/car-data/gb/iphas/uvex_aug2014/rconf.fit",
+    "u": "/car-data/gb/iphas/uvex_aug2014/uconf.fit"
+  },
+  "/car-data/gb/iphas/uvex_nov2006": {
+    "g": "/car-data/gb/iphas/uvex_nov2006/g_conf.fit",
+    "r": "/car-data/gb/iphas/uvex_nov2006/r_conf.fit",
+    "u": "/car-data/gb/iphas/uvex_nov2006/U_conf.fit"
+  },
+  "/car-data/gb/iphas/run13": {
+    "ha": "/car-data/gb/iphas/run13/Ha_conf.fits",
+    "g": "/car-data/gb/iphas/run13/g_conf.fits",
+    "r": "/car-data/gb/iphas/run13/r_conf.fits",
+    "u": "/car-data/gb/iphas/run13/U_conf.fits",
+    "i": "/car-data/gb/iphas/run13/i_conf.fits"
   },
   "/car-data/gb/iphas/iphas_jun2005": {
-    "i": "/car-data/gb/iphas/iphas_jun2005/i_conf.fit",
     "g": "/car-data/gb/iphas/iphas_jun2005/g_conf.fit",
+    "ha": "/car-data/gb/iphas/iphas_jun2005/h_conf.fit",
     "r": "/car-data/gb/iphas/iphas_jun2005/r_conf.fit",
-    "ha": "/car-data/gb/iphas/iphas_jun2005/h_conf.fit"
+    "i": "/car-data/gb/iphas/iphas_jun2005/i_conf.fit"
+  },
+  "/car-data/gb/iphas/uvex_jun10": {
+    "g": "/car-data/gb/iphas/uvex_jun10/g_conf.fit",
+    "r": "/car-data/gb/iphas/uvex_jun10/r_conf.fit",
+    "u": "/car-data/gb/iphas/uvex_jun10/U_conf.fit"
+  },
+  "/car-data/gb/iphas/uvex_jul2006": {
+    "g": "/car-data/gb/iphas/uvex_jul2006/g_conf.fit",
+    "r": "/car-data/gb/iphas/uvex_jul2006/r_conf.fit",
+    "u": "/car-data/gb/iphas/uvex_jul2006/U_conf.fit"
+  },
+  "/car-data/gb/iphas/iphas_aug2008": {
+    "g": "/car-data/gb/iphas/iphas_aug2008/g_conf.fit",
+    "ha": "/car-data/gb/iphas/iphas_aug2008/ha_conf.fit",
+    "r": "/car-data/gb/iphas/iphas_aug2008/r_conf.fit",
+    "u": "/car-data/gb/iphas/iphas_aug2008/U_conf.fit",
+    "i": "/car-data/gb/iphas/iphas_aug2008/i_conf.fit"
+  },
+  "/car-data/gb/iphas/iphas_aug2004a": {
+    "ha": "/car-data/gb/iphas/iphas_aug2004a/Halpha:197_iphas_aug2004a_cpm.fit",
+    "r": "/car-data/gb/iphas/iphas_aug2004a/r:214_iphas_aug2004a_cpm.fit",
+    "i": "/car-data/gb/iphas/iphas_aug2004a/i:215_iphas_aug2004a_cpm.fit"
+  },
+  "/car-data/gb/iphas/uvex_aug08": {
+    "g": "/car-data/gb/iphas/uvex_aug08/g_conf.fit",
+    "ha": "/car-data/gb/iphas/uvex_aug08/ha_conf.fit",
+    "r": "/car-data/gb/iphas/uvex_aug08/r_conf.fit",
+    "u": "/car-data/gb/iphas/uvex_aug08/U_conf.fit",
+    "i": "/car-data/gb/iphas/uvex_aug08/i_conf.fit"
+  },
+  "/car-data/gb/iphas/iphas_oct2009": {
+    "ha": "/car-data/gb/iphas/iphas_oct2009/ha_conf.fit",
+    "r": "/car-data/gb/iphas/iphas_oct2009/r_conf.fit",
+    "i": "/car-data/gb/iphas/iphas_oct2009/i_conf.fit"
+  },
+  "/car-data/gb/iphas/iphas_aug2009": {
+    "ha": "/car-data/gb/iphas/iphas_aug2009/ha_conf.fit",
+    "r": "/car-data/gb/iphas/iphas_aug2009/r_conf.fit",
+    "i": "/car-data/gb/iphas/iphas_aug2009/i_conf.fit"
+  },
+  "/car-data/gb/iphas/uvex_sep2010": {
+    "ha": "/car-data/gb/iphas/uvex_sep2010/Ha_conf.fits",
+    "g": "/car-data/gb/iphas/uvex_sep2010/g_conf.fits",
+    "r": "/car-data/gb/iphas/uvex_sep2010/r_conf.fits",
+    "u": "/car-data/gb/iphas/uvex_sep2010/U_conf.fits",
+    "i": "/car-data/gb/iphas/uvex_sep2010/i_conf.fits"
+  },
+  "/car-data/gb/iphas/uvex_oct2010b": {
+    "g": "/car-data/gb/iphas/uvex_oct2010b/g_conf.fit",
+    "r": "/car-data/gb/iphas/uvex_oct2010b/r_conf.fit",
+    "u": "/car-data/gb/iphas/uvex_oct2010b/U_conf.fit"
+  },
+  "/car-data/gb/iphas/iphas_nov2006b": {
+    "ha": "/car-data/gb/iphas/iphas_nov2006b/Ha_conf.fits",
+    "r": "/car-data/gb/iphas/iphas_nov2006b/r_conf.fits",
+    "i": "/car-data/gb/iphas/iphas_nov2006b/i_conf.fits"
+  },
+  "/car-data/gb/iphas/run3": {
+    "ha": "/car-data/gb/iphas/run3/Ha_conf.fits",
+    "g": "/car-data/gb/iphas/run3/g_conf.fits",
+    "r": "/car-data/gb/iphas/run3/r_conf.fits",
+    "u": "/car-data/gb/iphas/run3/U_conf.fits",
+    "i": "/car-data/gb/iphas/run3/i_conf.fits"
+  },
+  "/car-data/gb/iphas/iphas_aug2004b": {
+    "ha": "/car-data/gb/iphas/iphas_aug2004b/Halpha:197_iphas_aug2004b_cpm.fit",
+    "r": "/car-data/gb/iphas/iphas_aug2004b/r:214_iphas_aug2004b_cpm.fit",
+    "i": "/car-data/gb/iphas/iphas_aug2004b/i:215_iphas_aug2004b_cpm.fit"
+  },
+  "/car-data/gb/iphas/uvex_aug2010": {
+    "ha": "/car-data/gb/iphas/uvex_aug2010/Ha_conf.fit",
+    "g": "/car-data/gb/iphas/uvex_aug2010/g_conf.fit",
+    "r": "/car-data/gb/iphas/uvex_aug2010/r_conf.fit",
+    "u": "/car-data/gb/iphas/uvex_aug2010/U_conf.fit",
+    "i": "/car-data/gb/iphas/uvex_aug2010/i_conf.fit"
+  },
+  "/car-data/gb/iphas/uvex_dec2010": {
+    "ha": "/car-data/gb/iphas/uvex_dec2010/Ha_conf.fits",
+    "r": "/car-data/gb/iphas/uvex_dec2010/r_conf.fits",
+    "i": "/car-data/gb/iphas/uvex_dec2010/i_conf.fits"
+  },
+  "/car-data/gb/iphas/iphas_jul2009": {
+    "ha": "/car-data/gb/iphas/iphas_jul2009/Ha_conf.fits",
+    "g": "/car-data/gb/iphas/iphas_jul2009/g_conf.fits",
+    "r": "/car-data/gb/iphas/iphas_jul2009/r_conf.fits",
+    "u": "/car-data/gb/iphas/iphas_jul2009/U_conf.fits",
+    "i": "/car-data/gb/iphas/iphas_jul2009/i_conf.fits"
+  },
+  "/car-data/gb/iphas/uvex_oct2007": {
+    "g": "/car-data/gb/iphas/uvex_oct2007/g_conf.fit",
+    "r": "/car-data/gb/iphas/uvex_oct2007/r_conf.fit",
+    "u": "/car-data/gb/iphas/uvex_oct2007/U_conf.fit"
+  },
+  "/car-data/gb/iphas/uvex_jul08b/new": {
+    "g": "/car-data/gb/iphas/uvex_jul08b/new/g_conf.fit",
+    "r": "/car-data/gb/iphas/uvex_jul08b/new/r_conf.fit",
+    "u": "/car-data/gb/iphas/uvex_jul08b/new/U_conf.fit"
+  },
+  "/car-data/gb/iphas/uvex_aug2009": {
+    "ha": "/car-data/gb/iphas/uvex_aug2009/Ha_conf.fit",
+    "g": "/car-data/gb/iphas/uvex_aug2009/g_conf.fit",
+    "r": "/car-data/gb/iphas/uvex_aug2009/r_conf.fit",
+    "u": "/car-data/gb/iphas/uvex_aug2009/U_conf.fit",
+    "i": "/car-data/gb/iphas/uvex_aug2009/i_conf.fit"
+  },
+  "/car-data/gb/iphas/iphas_nov2003b": {
+    "ha": "/car-data/gb/iphas/iphas_nov2003b/Halpha:197_nov2003b_cpm.fit",
+    "r": "/car-data/gb/iphas/iphas_nov2003b/r:214_nov2003b_cpm.fit",
+    "i": "/car-data/gb/iphas/iphas_nov2003b/i:215_nov2003b_cpm.fit"
+  },
+  "/car-data/gb/iphas/iphas_sep2005": {
+    "ha": "/car-data/gb/iphas/iphas_sep2005/h_conf.fit",
+    "r": "/car-data/gb/iphas/iphas_sep2005/r_conf.fit",
+    "i": "/car-data/gb/iphas/iphas_sep2005/i_conf.fit"
+  },
+  "/car-data/gb/iphas/uvex_oct2014": {
+    "ha": "/car-data/gb/iphas/uvex_oct2014/Haconf.fit",
+    "g": "/car-data/gb/iphas/uvex_oct2014/gconf.fit",
+    "r": "/car-data/gb/iphas/uvex_oct2014/rconf.fit",
+    "u": "/car-data/gb/iphas/uvex_oct2014/uconf.fit",
+    "i": "/car-data/gb/iphas/uvex_oct2014/iconf.fit"
+  },
+  "/car-data/gb/iphas/iphas_dec2003": {
+    "ha": "/car-data/gb/iphas/iphas_dec2003/Halpha:197_dec2003_cpm.fit",
+    "r": "/car-data/gb/iphas/iphas_dec2003/r:214_dec2003_cpm.fit",
+    "i": "/car-data/gb/iphas/iphas_dec2003/i:215_dec2003_cpm.fit"
+  },
+  "/car-data/gb/iphas/iphas_dec2005": {
+    "ha": "/car-data/gb/iphas/iphas_dec2005/h_conf.fit",
+    "r": "/car-data/gb/iphas/iphas_dec2005/r_conf.fit",
+    "i": "/car-data/gb/iphas/iphas_dec2005/i_conf.fit"
+  },
+  "/car-data/gb/iphas/iphas_nov2006": {
+    "ha": "/car-data/gb/iphas/iphas_nov2006/Ha_conf.fits",
+    "r": "/car-data/gb/iphas/iphas_nov2006/r_conf.fits",
+    "i": "/car-data/gb/iphas/iphas_nov2006/i_conf.fits"
+  },
+  "/car-data/gb/iphas/uvex_may2007a": {
+    "g": "/car-data/gb/iphas/uvex_may2007a/g_conf.fit",
+    "r": "/car-data/gb/iphas/uvex_may2007a/r_conf.fit",
+    "u": "/car-data/gb/iphas/uvex_may2007a/U_conf.fit",
+    "i": "/car-data/gb/iphas/uvex_may2007a/i_conf.fit"
+  },
+  "/car-data/gb/iphas/iphas_may2007": {
+    "ha": "/car-data/gb/iphas/iphas_may2007/Ha_conf.fits",
+    "g": "/car-data/gb/iphas/iphas_may2007/g_conf.fits",
+    "r": "/car-data/gb/iphas/iphas_may2007/r_conf.fits",
+    "i": "/car-data/gb/iphas/iphas_may2007/i_conf.fits"
+  },
+  "/car-data/gb/iphas/iphas_jun2007": {
+    "ha": "/car-data/gb/iphas/iphas_jun2007/Ha_conf.fits",
+    "g": "/car-data/gb/iphas/iphas_jun2007/g_conf.fits",
+    "r": "/car-data/gb/iphas/iphas_jun2007/r_conf.fits",
+    "i": "/car-data/gb/iphas/iphas_jun2007/i_conf.fits"
+  },
+  "/car-data/gb/iphas/uvex_oct2012": {
+    "ha": "/car-data/gb/iphas/uvex_oct2012/Ha_conf.fit",
+    "g": "/car-data/gb/iphas/uvex_oct2012/g_conf.fit",
+    "r": "/car-data/gb/iphas/uvex_oct2012/r_conf.fit",
+    "u": "/car-data/gb/iphas/uvex_oct2012/U_conf.fit",
+    "i": "/car-data/gb/iphas/uvex_oct2012/i_conf.fit"
+  },
+  "/car-data/gb/iphas/uvex_nov2011b": {
+    "g": "/car-data/gb/iphas/uvex_nov2011b/g_conf.fit",
+    "r": "/car-data/gb/iphas/uvex_nov2011b/r_conf.fit",
+    "u": "/car-data/gb/iphas/uvex_nov2011b/U_conf.fit"
+  },
+  "/car-data/gb/iphas/uvex_dec2013": {
+    "g": "/car-data/gb/iphas/uvex_dec2013/g_conf.fit",
+    "r": "/car-data/gb/iphas/uvex_dec2013/r_conf.fit",
+    "u": "/car-data/gb/iphas/uvex_dec2013/U_conf.fit"
+  },
+  "/car-data/gb/iphas/run8": {
+    "g": "/car-data/gb/iphas/run8/g_conf.fit",
+    "r": "/car-data/gb/iphas/run8/r_conf.fit",
+    "u": "/car-data/gb/iphas/run8/U_conf.fit"
+  },
+  "/car-data/gb/iphas/iphas_dec2007": {
+    "ha": "/car-data/gb/iphas/iphas_dec2007/ha_conf.fit",
+    "r": "/car-data/gb/iphas/iphas_dec2007/r_conf.fit",
+    "i": "/car-data/gb/iphas/iphas_dec2007/i_conf.fit"
+  },
+  "/car-data/gb/iphas/iphas_sep2003": {
+    "ha": "/car-data/gb/iphas/iphas_sep2003/Halpha:197_iphas_sep2003_cpm.fit",
+    "r": "/car-data/gb/iphas/iphas_sep2003/r:214_iphas_sep2003_cpm.fit",
+    "i": "/car-data/gb/iphas/iphas_sep2003/i:215_iphas_sep2003_cpm.fit"
+  },
+  "/car-data/gb/iphas/PROBLEMS/uvex_aug08": {
+    "g": "/car-data/gb/iphas/PROBLEMS/uvex_aug08/g_conf.fit",
+    "ha": "/car-data/gb/iphas/PROBLEMS/uvex_aug08/ha_conf.fit",
+    "r": "/car-data/gb/iphas/PROBLEMS/uvex_aug08/r_conf.fit",
+    "u": "/car-data/gb/iphas/PROBLEMS/uvex_aug08/U_conf.fit",
+    "i": "/car-data/gb/iphas/PROBLEMS/uvex_aug08/i_conf.fit"
+  },
+  "/car-data/gb/iphas/uvex_sep2012": {
+    "ha": "/car-data/gb/iphas/uvex_sep2012/Ha_conf.fit",
+    "g": "/car-data/gb/iphas/uvex_sep2012/g_conf.fit",
+    "r": "/car-data/gb/iphas/uvex_sep2012/r_conf.fit",
+    "u": "/car-data/gb/iphas/uvex_sep2012/U_conf.fit",
+    "i": "/car-data/gb/iphas/uvex_sep2012/i_conf.fit"
+  },
+  "/car-data/gb/iphas/run1": {
+    "ha": "/car-data/gb/iphas/run1/Ha_conf.fit",
+    "g": "/car-data/gb/iphas/run1/g_conf.fit",
+    "r": "/car-data/gb/iphas/run1/r_conf.fit",
+    "u": "/car-data/gb/iphas/run1/U_conf.fit",
+    "i": "/car-data/gb/iphas/run1/i_conf.fit"
+  },
+  "/car-data/gb/iphas/run14": {
+    "ha": "/car-data/gb/iphas/run14/Ha_conf.fits",
+    "g": "/car-data/gb/iphas/run14/g_conf.fits",
+    "r": "/car-data/gb/iphas/run14/r_conf.fits",
+    "u": "/car-data/gb/iphas/run14/U_conf.fits",
+    "i": "/car-data/gb/iphas/run14/i_conf.fits"
+  },
+  "/car-data/gb/iphas/iphas_jun2004": {
+    "ha": "/car-data/gb/iphas/iphas_jun2004/Halpha:197_jun2004_cpm.fit",
+    "r": "/car-data/gb/iphas/iphas_jun2004/r:214_jun2004_cpm.fit",
+    "i": "/car-data/gb/iphas/iphas_jun2004/i:215_jun2004_cpm.fit"
+  },
+  "/car-data/gb/iphas/run12": {
+    "ha": "/car-data/gb/iphas/run12/Ha_conf.fits",
+    "g": "/car-data/gb/iphas/run12/g_conf.fits",
+    "r": "/car-data/gb/iphas/run12/r_conf.fits",
+    "u": "/car-data/gb/iphas/run12/U_conf.fits",
+    "i": "/car-data/gb/iphas/run12/i_conf.fits"
+  },
+  "/car-data/gb/iphas/uvex_sep2009": {
+    "ha": "/car-data/gb/iphas/uvex_sep2009/Ha_conf.fit",
+    "g": "/car-data/gb/iphas/uvex_sep2009/g_conf.fit",
+    "r": "/car-data/gb/iphas/uvex_sep2009/r_conf.fit",
+    "u": "/car-data/gb/iphas/uvex_sep2009/U_conf.fit",
+    "i": "/car-data/gb/iphas/uvex_sep2009/i_conf.fit"
+  },
+  "/car-data/gb/iphas/uvex_jul10": {
+    "g": "/car-data/gb/iphas/uvex_jul10/g_conf.fit",
+    "r": "/car-data/gb/iphas/uvex_jul10/r_conf.fit",
+    "u": "/car-data/gb/iphas/uvex_jul10/U_conf.fit"
+  },
+  "/car-data/gb/iphas/uvex_jul08b": {
+    "ha": "/car-data/gb/iphas/uvex_jul08b/Halpha_conf.fit",
+    "g": "/car-data/gb/iphas/uvex_jul08b/g_conf.fit",
+    "r": "/car-data/gb/iphas/uvex_jul08b/r_conf.fit",
+    "u": "/car-data/gb/iphas/uvex_jul08b/U_conf.fit",
+    "i": "/car-data/gb/iphas/uvex_jul08b/i_conf.fit"
+  },
+  "/car-data/gb/iphas/run2": {
+    "g": "/car-data/gb/iphas/run2/g_conf.fit",
+    "r": "/car-data/gb/iphas/run2/r_conf.fit",
+    "u": "/car-data/gb/iphas/run2/U_conf.fit"
+  },
+  "/car-data/gb/iphas/iphas_jan2006": {
+    "ha": "/car-data/gb/iphas/iphas_jan2006/h_conf.fit",
+    "r": "/car-data/gb/iphas/iphas_jan2006/r_conf.fit",
+    "i": "/car-data/gb/iphas/iphas_jan2006/i_conf.fit"
+  },
+  "/car-data/gb/iphas/uvex_sep2010b": {
+    "g": "/car-data/gb/iphas/uvex_sep2010b/g_conf.fit",
+    "r": "/car-data/gb/iphas/uvex_sep2010b/r_conf.fit",
+    "u": "/car-data/gb/iphas/uvex_sep2010b/U_conf.fit"
+  },
+  "/car-data/gb/iphas/uvex_dec2013b": {
+    "g": "/car-data/gb/iphas/uvex_dec2013b/g_conf.fit",
+    "r": "/car-data/gb/iphas/uvex_dec2013b/r_conf.fit",
+    "u": "/car-data/gb/iphas/uvex_dec2013b/U_conf.fit"
+  },
+  "/car-data/gb/iphas/iphas_dec2004/iphas_dec2004b": {
+    "ha": "/car-data/gb/iphas/iphas_dec2004/iphas_dec2004b/Ha_conf.fits",
+    "r": "/car-data/gb/iphas/iphas_dec2004/iphas_dec2004b/r_conf.fits",
+    "i": "/car-data/gb/iphas/iphas_dec2004/iphas_dec2004b/i_conf.fits"
+  },
+  "/car-data/gb/iphas/uvex_oct2010": {
+    "ha": "/car-data/gb/iphas/uvex_oct2010/Ha_conf.fits",
+    "g": "/car-data/gb/iphas/uvex_oct2010/g_conf.fits",
+    "r": "/car-data/gb/iphas/uvex_oct2010/r_conf.fits",
+    "u": "/car-data/gb/iphas/uvex_oct2010/U_conf.fits",
+    "i": "/car-data/gb/iphas/uvex_oct2010/i_conf.fits"
+  },
+  "/car-data/gb/iphas/iphas_oct2004/oct2004b": {
+    "ha": "/car-data/gb/iphas/iphas_oct2004/oct2004b/Ha_conf.fits",
+    "r": "/car-data/gb/iphas/iphas_oct2004/oct2004b/r_conf.fits",
+    "i": "/car-data/gb/iphas/iphas_oct2004/oct2004b/i_conf.fits"
+  },
+  "/car-data/gb/iphas/uvex_sep2014": {
+    "g": "/car-data/gb/iphas/uvex_sep2014/gconf.fit",
+    "r": "/car-data/gb/iphas/uvex_sep2014/rconf.fit",
+    "u": "/car-data/gb/iphas/uvex_sep2014/uconf.fit"
   },
   "/car-data/gb/iphas/iphas_nov2003": {
-    "i": "/car-data/gb/iphas/iphas_nov2003/i:215_iphas_nov2003_cpm.fit",
     "ha": "/car-data/gb/iphas/iphas_nov2003/Halpha:197_iphas_nov2003_cpm.fit",
-    "r": "/car-data/gb/iphas/iphas_nov2003/r:214_iphas_nov2003_cpm.fit"
+    "r": "/car-data/gb/iphas/iphas_nov2003/r:214_iphas_nov2003_cpm.fit",
+    "i": "/car-data/gb/iphas/iphas_nov2003/i:215_iphas_nov2003_cpm.fit"
+  },
+  "/car-data/gb/iphas/run6": {
+    "g": "/car-data/gb/iphas/run6/g_conf.fit",
+    "r": "/car-data/gb/iphas/run6/r_conf.fit",
+    "u": "/car-data/gb/iphas/run6/U_conf.fit"
+  },
+  "/car-data/gb/iphas/iphas_nov2006d": {
+    "g": "/car-data/gb/iphas/iphas_nov2006d/g_conf.fits",
+    "ha": "/car-data/gb/iphas/iphas_nov2006d/ha_conf.fits",
+    "r": "/car-data/gb/iphas/iphas_nov2006d/r_conf.fits",
+    "i": "/car-data/gb/iphas/iphas_nov2006d/i_conf.fits"
+  },
+  "/car-data/gb/iphas/iphas_oct2004/oct2004c": {
+    "ha": "/car-data/gb/iphas/iphas_oct2004/oct2004c/Ha_conf.fits",
+    "r": "/car-data/gb/iphas/iphas_oct2004/oct2004c/r_conf.fits",
+    "i": "/car-data/gb/iphas/iphas_oct2004/oct2004c/i_conf.fits"
+  },
+  "/car-data/gb/iphas/iphas_dec2004/iphas_dec2004a": {
+    "ha": "/car-data/gb/iphas/iphas_dec2004/iphas_dec2004a/Ha_conf.fits",
+    "r": "/car-data/gb/iphas/iphas_dec2004/iphas_dec2004a/r_conf.fits",
+    "i": "/car-data/gb/iphas/iphas_dec2004/iphas_dec2004a/i_conf.fits"
+  },
+  "/car-data/gb/iphas/uvex_jun2009": {
+    "ha": "/car-data/gb/iphas/uvex_jun2009/Ha_conf.fits",
+    "g": "/car-data/gb/iphas/uvex_jun2009/g_conf.fits",
+    "r": "/car-data/gb/iphas/uvex_jun2009/r_conf.fits",
+    "u": "/car-data/gb/iphas/uvex_jun2009/U_conf.fits",
+    "i": "/car-data/gb/iphas/uvex_jun2009/i_conf.fits"
+  },
+  "/car-data/gb/iphas/iphas_oct2006b": {
+    "ha": "/car-data/gb/iphas/iphas_oct2006b/Ha_conf.fits",
+    "r": "/car-data/gb/iphas/iphas_oct2006b/r_conf.fits",
+    "i": "/car-data/gb/iphas/iphas_oct2006b/i_conf.fits"
+  },
+  "/car-data/gb/iphas/run9": {
+    "ha": "/car-data/gb/iphas/run9/Ha_conf.fit",
+    "g": "/car-data/gb/iphas/run9/g_conf.fit",
+    "r": "/car-data/gb/iphas/run9/r_conf.fit",
+    "u": "/car-data/gb/iphas/run9/U_conf.fit",
+    "i": "/car-data/gb/iphas/run9/i_conf.fit"
+  },
+  "/car-data/gb/iphas/iphas_nov2007": {
+    "ha": "/car-data/gb/iphas/iphas_nov2007/Ha_conf.fit",
+    "g": "/car-data/gb/iphas/iphas_nov2007/g_conf.fit",
+    "r": "/car-data/gb/iphas/iphas_nov2007/r_conf.fit",
+    "u": "/car-data/gb/iphas/iphas_nov2007/U_conf.fit",
+    "i": "/car-data/gb/iphas/iphas_nov2007/i_conf.fit"
+  },
+  "/car-data/gb/iphas/PROBLEMS/uvex_jul08b/new": {
+    "g": "/car-data/gb/iphas/PROBLEMS/uvex_jul08b/new/g_conf.fit",
+    "r": "/car-data/gb/iphas/PROBLEMS/uvex_jul08b/new/r_conf.fit",
+    "u": "/car-data/gb/iphas/PROBLEMS/uvex_jul08b/new/U_conf.fit"
+  },
+  "/car-data/gb/iphas/uvex_oct2011": {
+    "g": "/car-data/gb/iphas/uvex_oct2011/g_conf.fit",
+    "r": "/car-data/gb/iphas/uvex_oct2011/r_conf.fit",
+    "u": "/car-data/gb/iphas/uvex_oct2011/U_conf.fit"
+  },
+  "/car-data/gb/iphas/run7": {
+    "ha": "/car-data/gb/iphas/run7/Ha_conf.fit",
+    "g": "/car-data/gb/iphas/run7/g_conf.fit",
+    "r": "/car-data/gb/iphas/run7/r_conf.fit",
+    "u": "/car-data/gb/iphas/run7/U_conf.fit",
+    "i": "/car-data/gb/iphas/run7/i_conf.fit"
+  },
+  "/car-data/gb/iphas/uvex_nov2014": {
+    "g": "/car-data/gb/iphas/uvex_nov2014/g_conf.fit",
+    "r": "/car-data/gb/iphas/uvex_nov2014/r_conf.fit",
+    "u": "/car-data/gb/iphas/uvex_nov2014/U_conf.fit"
+  },
+  "/car-data/gb/iphas/iphas_jan2008": {
+    "ha": "/car-data/gb/iphas/iphas_jan2008/ha_conf.fit",
+    "r": "/car-data/gb/iphas/iphas_jan2008/r_conf.fit",
+    "i": "/car-data/gb/iphas/iphas_jan2008/i_conf.fit"
+  },
+  "/car-data/gb/iphas/iphas_oct2006": {
+    "ha": "/car-data/gb/iphas/iphas_oct2006/ha_conf.fit",
+    "r": "/car-data/gb/iphas/iphas_oct2006/r_conf.fit",
+    "i": "/car-data/gb/iphas/iphas_oct2006/i_conf.fit"
+  },
+  "/car-data/gb/iphas/uvex_jul2007": {
+    "g": "/car-data/gb/iphas/uvex_jul2007/g_conf.fits",
+    "r": "/car-data/gb/iphas/uvex_jul2007/r_conf.fits",
+    "u": "/car-data/gb/iphas/uvex_jul2007/U_conf.fits",
+    "i": "/car-data/gb/iphas/uvex_jul2007/i_conf.fits"
+  },
+  "/car-data/gb/iphas/iphas_oct2005a": {
+    "ha": "/car-data/gb/iphas/iphas_oct2005a/h_conf.fits",
+    "r": "/car-data/gb/iphas/iphas_oct2005a/r_conf.fits",
+    "i": "/car-data/gb/iphas/iphas_oct2005a/i_conf.fits"
+  },
+  "/car-data/gb/iphas/iphas_jul2007": {
+    "ha": "/car-data/gb/iphas/iphas_jul2007/Ha_conf.fits",
+    "r": "/car-data/gb/iphas/iphas_jul2007/r_conf.fits",
+    "i": "/car-data/gb/iphas/iphas_jul2007/i_conf.fits"
+  },
+  "/car-data/gb/iphas/iphas_nov2004": {
+    "ha": "/car-data/gb/iphas/iphas_nov2004/Ha_conf.fits",
+    "r": "/car-data/gb/iphas/iphas_nov2004/r_conf.fits",
+    "i": "/car-data/gb/iphas/iphas_nov2004/i_conf.fits"
+  },
+  "/car-data/gb/iphas/iphas_nov2012": {
+    "ha": "/car-data/gb/iphas/iphas_nov2012/Ha_conf.fit",
+    "r": "/car-data/gb/iphas/iphas_nov2012/r_conf.fit",
+    "i": "/car-data/gb/iphas/iphas_nov2012/i_conf.fit"
   }
 }
