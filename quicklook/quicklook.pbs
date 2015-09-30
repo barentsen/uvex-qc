@@ -8,7 +8,7 @@
 
 echo `date`
 echo ------------------------------------------------------
-echo -n 'Started generating quicklooks for '; cat ${DIRNAME}
+echo -n 'Started generating quicklooks for '; 
 echo -n 'Job is running on node '; cat $PBS_NODEFILE
 echo ------------------------------------------------------
 echo Number of processes: $NP
