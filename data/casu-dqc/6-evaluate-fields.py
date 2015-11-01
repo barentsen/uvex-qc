@@ -36,3 +36,9 @@ if __name__ == '__main__':
     with open('reduced-uvex-fields-which-may-be-good.txt', 'w') as output:
         for field in np.unique(goodfields):
             output.write(field+'\n')
+
+    output_fn = 'reduced-uvex-fields.txt'
+    with open(output_fn, 'w') as output:
+        print("Writing {}".format(output_fn))
+        for field in np.sort(np.unique(t['field'])):
+            output.write(field+'\n')
