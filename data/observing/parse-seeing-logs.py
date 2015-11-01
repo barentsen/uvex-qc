@@ -84,7 +84,7 @@ if __name__ == "__main__":
     # Config
     SEEINGLOGS = "seeing-logs/"
     SEEINGLOGS_CSV = 'seeing-logs.csv'
-    DONEFILE = 'fields-observed-in-2014.txt'
+    DONEFILE = 'fields-observed-in-2015.txt'
 
     # First, parse all the seeing log files
     with open(SEEINGLOGS_CSV, 'w') as output:
@@ -101,3 +101,5 @@ if __name__ == "__main__":
     with open(DONEFILE, 'w') as output:
         output.write('field\n')
         [output.write(myfield+'\n') for myfield in fields_done]
+        log.info("Writing {}".format(output.name))
+        output.close()
