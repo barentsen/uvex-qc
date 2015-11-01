@@ -18,7 +18,8 @@ COLNAMES = ('field', 'dir', 'ra', 'dec', 'l', 'b',
             'ellipt_u', 'ellipt_g', 'ellipt_r', 'ellipt_hei',
             'sky_u', 'sky_g', 'sky_r', 'sky_hei',
             'noise_u', 'noise_g', 'noise_r', 'noise_hei',
-            'airmass_u', 'airmass_g', 'airmass_r', 'airmass_hei')
+            'airmass_u', 'airmass_g', 'airmass_r', 'airmass_hei',
+            'lm_u', 'lm_g', 'lm_r', 'lm_hei')
 
 fieldlist = []
 def register(field):
@@ -57,7 +58,7 @@ if __name__ == '__main__':
                      'ra': t[idx]['ra'], 'dec': t[idx]['dec'],
                      'l': t[idx]['l'], 'b': t[idx]['b']}
         
-        for colname in ['runno', 'time', 'exptime', 'seeing', 'ellipt', 'sky', 'noise', 'airmass']:
+        for colname in ['runno', 'time', 'exptime', 'seeing', 'ellipt', 'sky', 'noise', 'airmass', 'lm']:
             field[colname+'_'+myfilter] = t[idx][colname]
 
     Table(fieldlist, names=COLNAMES).write('uvex-casu-dqc-by-field.fits', overwrite=True)

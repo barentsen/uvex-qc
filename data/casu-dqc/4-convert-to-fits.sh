@@ -1,5 +1,5 @@
 #!/bin/bash
-stilts tcat in=tmp/uvex-casu-dqc-by-run.csv ifmt=csv \
+java -jar /home/gb/bin/topcat-full.jar -stilts tcat in=tmp/uvex-casu-dqc-by-run-with-lm.csv ifmt=csv \
 ocmd="addcol -before run runno parseInt(substring(run,1));
       addcol -before ra_hms ra hmsToDegrees(ra_hms);
       addcol -before ra_hms dec dmsToDegrees(dec_dms);
