@@ -17,7 +17,7 @@ def read_fieldlist(filename):
 # Which uvex fields have been observed at least ones?
 UVEX_ATTEMPTED = read_fieldlist('../data/casu-dqc/reduced-uvex-fields.txt')
 # Which of the reduced fields failed QC? (List provided by Paul Groot.)
-UVEX_FAILED = read_fieldlist('../data/casu-dqc/reduced-uvex-fields-which-may-be-good.txt')
+UVEX_FAILED = read_fieldlist('../data/groot-qc/uvex_badfields_all_geert_longsorted_fieldno.ascii')
 
 
 if __name__ == '__main__':
