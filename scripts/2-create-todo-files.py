@@ -2,13 +2,15 @@
 """Creates UVEX todo files.
 """
 from __future__ import (absolute_import, division, print_function,
-                        unicode_literals)                                           
+                        unicode_literals)
 import re
 import os
+import datetime
 import numpy as np
 from astropy.io import fits
 from astropy.io import ascii
 from astropy import log
+
 
 def read_fieldlist(filename):
     return [field.strip() for field in open(filename).readlines()]
@@ -124,7 +126,8 @@ if __name__ == "__main__":
     todo.write_done_file()
     todo.test_output()
 
-    plt.title('UVEX fields to be observed')
+    plt.title('UVEX fields to be observed as of {}'.format(
+        datetime.datetime.now().strftime("%d %b %Y")))
     plt.legend((bar1, bar2), ('First attempt', 'Repeat observation'), loc='upper left')#, fontsize=10)
     plt.xlabel('R.A. [h]')
     plt.ylabel('Fields')
@@ -132,4 +135,4 @@ if __name__ == "__main__":
     plt.xlim([-1, 14])
     plt.ylim([0,1200])
     plt.tight_layout()
-    plt.savefig('uvex-todo.png', dpi=80)
+    plt.savefig('uvex-todo.png', dpi=120)
