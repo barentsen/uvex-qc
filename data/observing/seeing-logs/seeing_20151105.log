@@ -1,0 +1,407 @@
+r1156167.fit is not a target (BIAS)
+r1156168.fit is not a target (BIAS)
+r1156169.fit is not a target (BIAS)
+r1156170.fit is not a target (BIAS)
+r1156171.fit is not a target (BIAS)
+r1156172.fit is not a target (BIAS)
+r1156173.fit is not a target (BIAS)
+r1156174.fit is not a target (BIAS)
+r1156175.fit is not a target (BIAS)
+r1156176.fit is not a target (BIAS)
+r1156177.fit is not a target (BIAS)
+r1156178.fit is not a target (BIAS)
+r1156179.fit is not a target (BIAS)
+r1156180.fit is not a target (BIAS)
+r1156181.fit is not a target (BIAS)
+r1156182.fit is not a target (BIAS)
+r1156183.fit is not a target (BIAS)
+r1156184.fit is not a target (BIAS)
+r1156185.fit is not a target (BIAS)
+r1156186.fit is not a target (BIAS)
+r1156187.fit is not a target (BIAS)
+r1156188.fit is not a target (BIAS)
+r1156189.fit is not a target (SKY)
+r1156190.fit is not a target (SKY)
+r1156191.fit is not a target (SKY)
+r1156192.fit is not a target (SKY)
+r1156193.fit is not a target (SKY)
+r1156194.fit is not a target (SKY)
+r1156195.fit is not a target (SKY)
+r1156196.fit is not a target (SKY)
+r1156197.fit is not a target (SKY)
+r1156198.fit is not a target (SKY)
+r1156199.fit is not a target (SKY)
+r1156200.fit is not a target (SKY)
+r1156201.fit is not a target (SKY)
+r1156202.fit is not a target (SKY)
+r1156203.fit is not a target (SKY)
+r1156204.fit is not a target (SKY)
+r1156205.fit is not a target (SKY)
+r1156206.fit is not a target (SKY)
+r1156207.fit is not a target (SKY)
+r1156208.fit is not a target (FOCUS)
+r1156209.fit  3.78  1.25 0.069   -21.2 from  27 sources of BD+284211 r
+r1156210.fit  4.36  1.44 0.061    52.3 from   1 sources of BD+284211 U
+r1156211.fit  3.36  1.11 0.074   -23.8 from  14 sources of BD+284211 g
+r1156212.fit  4.25  1.40 0.053    92.1 from 554 sources of uvex_6357o r
+r1156213.fit  5.51  1.82 0.042    22.4 from  57 sources of uvex_6357o U
+r1156214.fit  5.76  1.90 0.052    33.8 from 193 sources of uvex_6357o g
+r1156215.fit  4.63  1.53 0.055    94.6 from 418 sources of uvex_6366 r
+r1156216.fit  5.45  1.80 0.031    22.7 from  68 sources of uvex_6366 U
+r1156217.fit  4.55  1.50 0.053    13.7 from 247 sources of uvex_6366 g
+r1156218.fit  4.46  1.47 0.038    88.9 from 142 sources of uvex_6367o r
+r1156219.fit  5.29  1.75 0.033   -21.2 from  24 sources of uvex_6367o U
+r1156220.fit  4.37  1.44 0.045   -18.7 from  68 sources of uvex_6367o g
+r1156221.fit  4.02  1.33 0.055    20.0 from  65 sources of uvex_6378 r
+r1156222.fit  5.21  1.72 0.023   -41.9 from  23 sources of uvex_6378 U
+r1156223.fit  4.25  1.40 0.042   -42.5 from  33 sources of uvex_6378 g
+r1156224.fit  4.52  1.49 0.062    26.6 from 440 sources of uvex_6398o r
+r1156225.fit  5.37  1.77 0.055   -46.5 from  58 sources of uvex_6398o U
+r1156226.fit  4.93  1.63 0.062   -38.4 from 181 sources of uvex_6398o g
+r1156227.fit  5.02  1.66 0.059    20.2 from 291 sources of uvex_6400 r
+r1156228.fit  4.98  1.64 0.025   -48.2 from  41 sources of uvex_6400 U
+r1156229.fit  4.49  1.48 0.031   -47.3 from 172 sources of uvex_6400 g
+r1156230.fit  4.43  1.46 0.059    41.8 from 232 sources of uvex_6400o r
+r1156231.fit  4.20  1.39 0.021   -21.3 from   5 sources of uvex_6400o r
+r1156233.fit is not a target (BIAS)
+r1156234.fit is not a target (BIAS)
+r1156235.fit  3.60  1.19 0.058    25.5 from 1069 sources of uvex_6403o r
+r1156236.fit  4.11  1.36 0.054   -36.3 from 147 sources of uvex_6403o U
+r1156237.fit  3.77  1.24 0.048   -29.6 from 616 sources of uvex_6403o g
+r1156238.fit  3.82  1.26 0.081    30.6 from 458 sources of uvex_6400o r
+r1156239.fit  4.49  1.48 0.052   -32.3 from  43 sources of uvex_6400o U
+r1156240.fit  4.13  1.36 0.030   -17.3 from 178 sources of uvex_6400o g
+r1156241.fit  4.81  1.59 0.070    35.2 from 358 sources of uvex_6413o r
+r1156242.fit  5.07  1.67 0.057   -24.7 from  41 sources of uvex_6413o U
+r1156243.fit  4.37  1.44 0.061   -15.7 from 214 sources of uvex_6413o g
+r1156244.fit  4.40  1.45 0.038    51.7 from 217 sources of uvex_6419o r
+r1156245.fit  5.41  1.79 0.036   -19.2 from  34 sources of uvex_6419o U
+r1156246.fit  4.74  1.56 0.039    -6.0 from  92 sources of uvex_6419o g
+r1156247.fit  4.45  1.47 0.052    63.6 from 132 sources of uvex_6434 r
+r1156248.fit  4.94  1.63 0.039   -14.9 from  26 sources of uvex_6434 U
+r1156249.fit  4.60  1.52 0.034     0.3 from  61 sources of uvex_6434 g
+r1156250.fit  4.09  1.35 0.031    64.8 from 164 sources of uvex_6434o r
+r1156251.fit  4.88  1.61 0.030   -10.5 from  26 sources of uvex_6434o U
+r1156252.fit  4.60  1.52 0.034     3.5 from  65 sources of uvex_6434o g
+r1156253.fit  3.94  1.30 0.035    62.4 from 171 sources of uvex_6440 r
+r1156254.fit  4.68  1.54 0.042    -4.5 from  22 sources of uvex_6440 U
+r1156255.fit  4.80  1.58 0.041     7.3 from  53 sources of uvex_6440 g
+r1156256.fit  4.16  1.37 0.051    76.1 from 186 sources of uvex_6440o r
+r1156257.fit  4.76  1.57 0.043    -2.0 from  23 sources of uvex_6440o U
+r1156258.fit  5.19  1.71 0.029     8.6 from  61 sources of uvex_6440o g
+r1156259.fit  4.00  1.32 0.045    62.7 from 178 sources of uvex_6448o r
+r1156260.fit  4.48  1.48 0.038    -0.3 from  23 sources of uvex_6448o U
+r1156261.fit  4.15  1.37 0.050     5.6 from  72 sources of uvex_6448o g
+r1156262.fit  3.75  1.24 0.046    81.5 from 185 sources of uvex_6457 r
+r1156263.fit  4.64  1.53 0.047   -12.8 from  30 sources of uvex_6457 U
+r1156264.fit  4.29  1.42 0.060    14.0 from  65 sources of uvex_6457 g
+r1156265.fit  3.73  1.23 0.047    66.3 from 357 sources of uvex_6471 r
+r1156266.fit  5.19  1.71 0.027     4.6 from  24 sources of uvex_6471 U
+r1156267.fit  5.45  1.80 0.043    16.5 from  92 sources of uvex_6471 g
+r1156268.fit  4.92  1.62 0.050    88.2 from 213 sources of uvex_6471o r
+r1156269.fit  5.17  1.71 0.041     6.1 from  27 sources of uvex_6471o U
+r1156270.fit  4.01  1.32 0.045    18.9 from 131 sources of uvex_6471o g
+r1156271.fit  3.85  1.27 0.056    81.6 from 1044 sources of uvex_6630o r
+r1156272.fit  4.85  1.60 0.030     9.2 from  93 sources of uvex_6630o U
+r1156273.fit  4.52  1.49 0.083    18.8 from 474 sources of uvex_6630o g
+r1156274.fit  4.28  1.41 0.044    14.2 from 551 sources of uvex_6806o r
+r1156275.fit  4.81  1.59 0.041     7.8 from  83 sources of uvex_6806o U
+r1156276.fit  4.09  1.35 0.053    16.1 from 341 sources of uvex_6806o g
+r1156277.fit  4.39  1.45 0.046    82.5 from 550 sources of uvex_6849o r
+r1156278.fit  4.93  1.63 0.051     9.6 from  59 sources of uvex_6849o U
+r1156279.fit  4.20  1.39 0.058    14.6 from 325 sources of uvex_6849o g
+r1156280.fit  3.93  1.30 0.106   -21.3 from  17 sources of FEIGE22 r
+r1156281.fit  4.61  1.52 0.082   -33.1 from   9 sources of FEIGE22 U
+r1156282.fit  4.09  1.35 0.059   -32.5 from  14 sources of FEIGE22 g
+r1156283.fit  5.05  1.67 0.103    55.0 from 303 sources of uvex_1732o r
+r1156284.fit  6.17  2.04 0.085     0.6 from  42 sources of uvex_1732o U
+r1156285.fit  5.30  1.75 0.101     4.1 from 197 sources of uvex_1732o g
+r1156286.fit  4.52  1.49 0.111    63.1 from 323 sources of uvex_1734 r
+r1156287.fit  5.77  1.90 0.103     4.5 from  54 sources of uvex_1734 U
+r1156288.fit  5.43  1.79 0.090    12.8 from 212 sources of uvex_1734 g
+r1156289.fit  4.80  1.58 0.092    50.3 from 408 sources of uvex_1734o r
+r1156290.fit  5.61  1.85 0.086     4.6 from  67 sources of uvex_1734o U
+r1156291.fit  5.31  1.75 0.074    22.7 from 216 sources of uvex_1734o g
+r1156292.fit  4.96  1.64 0.100    70.1 from 180 sources of uvex_1736 r
+r1156293.fit  5.83  1.92 0.068     7.3 from  15 sources of uvex_1736 U
+r1156294.fit  5.46  1.80 0.094    21.4 from  76 sources of uvex_1736 g
+r1156295.fit  5.40  1.78 0.086    78.3 from 139 sources of uvex_1736o r
+r1156296.fit  5.67  1.87 0.086     6.7 from  20 sources of uvex_1736o U
+r1156297.fit  5.66  1.87 0.068    17.7 from  78 sources of uvex_1736o g
+r1156298.fit  5.30  1.75 0.094    62.9 from 159 sources of uvex_1737 r
+r1156299.fit  5.47  1.81 0.069    13.6 from  19 sources of uvex_1737 U
+r1156300.fit  4.87  1.61 0.097    19.2 from  91 sources of uvex_1737 g
+r1156301.fit  5.01  1.65 0.074    83.3 from 181 sources of uvex_1737o r
+r1156302.fit  5.20  1.72 0.068    13.2 from  21 sources of uvex_1737o U
+r1156303.fit  4.84  1.60 0.075    26.7 from  94 sources of uvex_1737o g
+r1156304.fit  3.80  1.25 0.088   157.0 from  85 sources of 2004RW10L
+r1156305.fit  4.02  1.33 0.089   157.1 from  84 sources of 2004RW10L
+r1156306.fit  4.23  1.40 0.119   156.8 from  73 sources of 2004RW10L
+r1156307.fit  3.71  1.22 0.115   131.8 from  80 sources of 2004RW10L
+r1156308.fit  4.00  1.32 0.107   157.9 from  79 sources of 2004RW10L
+r1156309.fit  3.58  1.18 0.108   132.8 from  90 sources of 2004RW10L
+r1156310.fit  3.46  1.14 0.096   130.8 from  89 sources of 2004RW10L
+r1156311.fit  3.68  1.21 0.128   130.7 from  51 sources of 2004RW10L
+r1156312.fit  3.52  1.16 0.064   130.6 from  95 sources of 2004RW10L
+r1156313.fit  4.04  1.33 0.113   156.6 from  86 sources of 2004RW10L
+r1156314.fit  3.58  1.18 0.078   162.9 from  72 sources of 2004RW10L
+r1156315.fit  3.73  1.23 0.110   163.7 from  62 sources of 2004RW10L
+r1156316.fit  3.55  1.17 0.085   163.4 from  73 sources of 2004RW10L
+r1156317.fit  4.33  1.43 0.116   163.9 from  52 sources of 2004RW10L
+r1156318.fit  3.66  1.21 0.075   163.6 from  68 sources of 2004RW10L
+r1156319.fit  4.23  1.40 0.118   167.9 from  50 sources of 2004RW10L
+r1156320.fit  4.04  1.33 0.086   152.7 from  64 sources of 2004RW10L
+r1156321.fit  4.43  1.46 0.095   164.4 from  60 sources of 2004RW10L
+r1156322.fit  4.34  1.43 0.058   164.2 from  59 sources of 2004RW10L
+r1156323.fit  4.47  1.48 0.038   164.5 from  59 sources of 2004RW10L
+r1156324.fit  3.75  1.24 0.074   142.4 from 138 sources of 2012YN6
+r1156325.fit  3.53  1.16 0.050   113.3 from 145 sources of 2012YN6
+r1156326.fit  3.95  1.30 0.090   148.6 from 132 sources of 2012YN6
+r1156327.fit  3.66  1.21 0.050   148.9 from 141 sources of 2012YN6
+r1156328.fit  4.40  1.45 0.111   143.8 from 107 sources of 2012YN6
+r1156329.fit  4.08  1.35 0.075   150.5 from 123 sources of 2012YN6
+r1156330.fit  4.15  1.37 0.106   150.4 from 116 sources of 2012YN6
+r1156331.fit  3.84  1.27 0.039   151.4 from 135 sources of 2012YN6
+r1156332.fit  4.60  1.52 0.119   152.5 from  98 sources of 2012YN6
+r1156333.fit  3.56  1.17 0.057   152.3 from 147 sources of 2012YN6
+r1156334.fit  3.54  1.17 0.087   140.9 from 199 sources of 2011VR5
+r1156335.fit  4.31  1.42 0.118   142.6 from 164 sources of 2011VR5
+r1156336.fit  4.29  1.42 0.053   142.5 from 186 sources of 2011VR5
+r1156337.fit  4.45  1.47 0.118   130.0 from 160 sources of 2011VR5
+r1156338.fit  3.64  1.20 0.076   144.2 from 211 sources of 2011VR5
+r1156339.fit  4.49  1.48 0.106   144.0 from 170 sources of 2011VR5
+r1156340.fit  4.74  1.56 0.102    75.6 from 375 sources of uvex_2911 r
+r1156341.fit  5.70  1.88 0.130    28.6 from  31 sources of uvex_2911 U
+r1156342.fit  5.00  1.65 0.086    37.2 from 206 sources of uvex_2911 g
+r1156343.fit  4.45  1.47 0.115    76.0 from 444 sources of uvex_2918 r
+r1156344.fit  5.50  1.82 0.116    31.9 from  74 sources of uvex_2918 U
+r1156345.fit  4.83  1.59 0.113    49.5 from 304 sources of uvex_2918 g
+r1156346.fit  4.22  1.39 0.108    94.6 from 462 sources of uvex_2918o r
+r1156347.fit  5.08  1.68 0.105    22.3 from 106 sources of uvex_2918o U
+r1156348.fit  4.84  1.60 0.084    44.3 from 350 sources of uvex_2918o g
+r1156349.fit  4.66  1.54 0.091    80.6 from 417 sources of uvex_2927 r
+r1156350.fit  5.28  1.74 0.127    22.4 from  80 sources of uvex_2927 U
+r1156351.fit  4.95  1.63 0.105    34.2 from 221 sources of uvex_2927 g
+r1156352.fit  4.52  1.49 0.104    97.7 from 355 sources of uvex_2927o r
+r1156353.fit  5.16  1.70 0.091    30.7 from  87 sources of uvex_2927o U
+r1156354.fit  4.66  1.54 0.088    34.1 from 242 sources of uvex_2927o g
+r1156355.fit  4.55  1.50 0.106    86.7 from 337 sources of uvex_2930 r
+r1156356.fit  4.94  1.63 0.108    26.4 from  80 sources of uvex_2930 U
+r1156357.fit  4.96  1.64 0.097    38.4 from 193 sources of uvex_2930 g
+r1156358.fit  4.42  1.46 0.087    79.7 from 362 sources of uvex_2930o r
+r1156359.fit  5.26  1.74 0.086    30.9 from  80 sources of uvex_2930o U
+r1156360.fit  5.14  1.70 0.128    37.8 from  94 sources of uvex_2930o g
+r1156361.fit  4.78  1.58 0.093    81.5 from 417 sources of uvex_2931 r
+r1156362.fit  5.93  1.96 0.094    32.2 from 106 sources of uvex_2931 U
+r1156363.fit  4.72  1.56 0.092    48.5 from 318 sources of uvex_2931 g
+r1156364.fit  4.62  1.52 0.092    84.7 from 478 sources of uvex_2931o r
+r1156365.fit  5.18  1.71 0.095    31.2 from 102 sources of uvex_2931o U
+r1156366.fit  4.52  1.49 0.097    35.7 from 333 sources of uvex_2931o g
+r1156367.fit  5.83  1.92 0.076    96.5 from 354 sources of uvex_2945 r
+r1156368.fit  5.34  1.76 0.080    32.6 from  93 sources of uvex_2945 U
+r1156369.fit  4.73  1.56 0.087    50.4 from 291 sources of uvex_2945 g
+r1156370.fit  4.37  1.44 0.089    87.9 from 534 sources of uvex_2956 r
+r1156371.fit  4.80  1.58 0.118    25.2 from  63 sources of uvex_2956 U
+r1156372.fit  4.27  1.41 0.085    38.9 from 449 sources of uvex_2956 g
+r1156373.fit  4.48  1.48 0.095    86.4 from 544 sources of uvex_2956o r
+r1156374.fit  4.60  1.52 0.100    30.3 from 106 sources of uvex_2956o U
+r1156375.fit  4.40  1.45 0.099    45.0 from 365 sources of uvex_2956o g
+r1156376.fit  4.42  1.46 0.071    97.2 from 415 sources of uvex_2958 r
+r1156377.fit  5.27  1.74 0.074    35.4 from  91 sources of uvex_2958 U
+r1156378.fit  4.70  1.55 0.073    50.1 from 282 sources of uvex_2958 g
+r1156379.fit  4.36  1.44 0.096    97.0 from 415 sources of uvex_2958o r
+r1156380.fit  5.38  1.78 0.076    32.9 from 100 sources of uvex_2958o U
+r1156381.fit  4.23  1.40 0.079    49.7 from 286 sources of uvex_2958o g
+r1156382.fit  5.31  1.75 0.090    91.6 from 414 sources of uvex_2959 r
+r1156383.fit  5.25  1.73 0.063    24.9 from 100 sources of uvex_2959 U
+r1156384.fit  4.73  1.56 0.039    44.0 from 391 sources of uvex_2959 g
+r1156385.fit  5.13  1.69 0.087    89.7 from 406 sources of uvex_2959o r
+r1156386.fit  5.37  1.77 0.046    35.2 from  79 sources of uvex_2959o U
+r1156387.fit  4.95  1.63 0.087    51.4 from 331 sources of uvex_2959o g
+r1156388.fit  5.09  1.68 0.099    92.1 from 409 sources of uvex_2961 r
+r1156389.fit  4.87  1.61 0.082    31.9 from  86 sources of uvex_2961 U
+r1156390.fit  4.62  1.52 0.080    48.6 from 353 sources of uvex_2961 g
+r1156391.fit  4.43  1.46 0.130    90.8 from 329 sources of uvex_2961o r
+r1156392.fit  4.36  1.44 0.089    31.5 from 114 sources of uvex_2961o U
+r1156393.fit  3.88  1.28 0.084    35.2 from 446 sources of uvex_2961o g
+r1156394.fit  4.48  1.48 0.054    96.3 from 416 sources of uvex_2114 r
+r1156395.fit  4.52  1.49 0.067    44.2 from  89 sources of uvex_2114 U
+r1156396.fit  3.96  1.31 0.066    58.6 from 334 sources of uvex_2114 g
+r1156397.fit  3.81  1.26 0.055    92.6 from 557 sources of uvex_2114o r
+r1156398.fit  4.88  1.61 0.069    56.9 from  65 sources of uvex_2114o U
+r1156399.fit  3.96  1.31 0.048    66.3 from 361 sources of uvex_2114o g
+r1156400.fit  3.96  1.31 0.107   104.0 from 310 sources of uvex_2138o r
+r1156401.fit  5.13  1.69 0.066    55.4 from  38 sources of uvex_2138o U
+r1156402.fit  4.13  1.36 0.053    62.4 from 254 sources of uvex_2138o g
+r1156403.fit  3.70  1.22 0.045   101.4 from 628 sources of uvex_2141o r
+r1156404.fit  4.91  1.62 0.068    56.2 from 100 sources of uvex_2141o U
+r1156405.fit  3.83  1.26 0.049    65.0 from 402 sources of uvex_2141o g
+r1156406.fit  3.70  1.22 0.069   101.0 from 326 sources of uvex_2145o r
+r1156407.fit  4.38  1.45 0.065    57.9 from  59 sources of uvex_2145o U
+r1156408.fit  3.44  1.14 0.065    66.0 from 199 sources of uvex_2145o g
+r1156409.fit  4.06  1.34 0.073   112.2 from 422 sources of uvex_2146o r
+r1156410.fit  4.51  1.49 0.102    59.5 from  53 sources of uvex_2146o U
+r1156411.fit  4.16  1.37 0.052    73.9 from 255 sources of uvex_2146o g
+r1156412.fit  4.49  1.48 0.067   112.5 from 315 sources of uvex_2148 r
+r1156413.fit  4.63  1.53 0.072    60.5 from  43 sources of uvex_2148 U
+r1156414.fit  3.98  1.31 0.050    76.9 from 224 sources of uvex_2148 g
+r1156415.fit  3.75  1.24 0.069   113.7 from 751 sources of uvex_2151o r
+r1156416.fit  4.82  1.59 0.070    63.8 from 129 sources of uvex_2151o U
+r1156417.fit  3.62  1.19 0.063    78.0 from 613 sources of uvex_2151o g
+r1156418.fit  4.00  1.32 0.047   112.3 from 417 sources of uvex_2158 r
+r1156419.fit  4.75  1.57 0.056    63.9 from  50 sources of uvex_2158 U
+r1156420.fit  3.64  1.20 0.069    67.5 from 296 sources of uvex_2158 g
+r1156421.fit  4.18  1.38 0.114   111.3 from 327 sources of uvex_2158o r
+r1156422.fit  4.16  1.37 0.049    62.5 from  61 sources of uvex_2158o U
+r1156423.fit  3.52  1.16 0.065    77.6 from 301 sources of uvex_2158o g
+r1156424.fit  3.36  1.11 0.061   111.2 from 522 sources of uvex_2165 r
+r1156425.fit  4.01  1.32 0.039    68.2 from  71 sources of uvex_2165 U
+r1156426.fit  3.63  1.20 0.065    86.5 from 269 sources of uvex_2165 g
+r1156427.fit  3.66  1.21 0.092   113.5 from 443 sources of uvex_2165o r
+r1156428.fit  4.15  1.37 0.044    66.2 from  67 sources of uvex_2165o U
+r1156429.fit  3.63  1.20 0.063    81.8 from 277 sources of uvex_2165o g
+r1156430.fit  3.46  1.14 0.065   108.8 from 617 sources of uvex_2166o r
+r1156431.fit  4.12  1.36 0.076    61.3 from 106 sources of uvex_2166o U
+r1156432.fit  3.75  1.24 0.083    75.6 from 316 sources of uvex_2166o g
+r1156433.fit  3.48  1.15 0.063   103.3 from 866 sources of uvex_2177 r
+r1156434.fit  4.46  1.47 0.052    58.0 from 160 sources of uvex_2177 U
+r1156435.fit  4.08  1.35 0.054    76.6 from 530 sources of uvex_2177 g
+r1156436.fit  4.09  1.35 0.042    31.6 from  51 sources of G191B2B r
+r1156437.fit  4.66  1.54 0.047    49.9 from   6 sources of G191B2B U
+r1156438.fit  3.76  1.24 0.046    28.1 from  31 sources of G191B2B g
+r1156439.fit  3.39  1.12 0.076   128.4 from 493 sources of uvex_2234 r
+r1156440.fit  4.02  1.33 0.071    69.2 from  77 sources of uvex_2234 U
+r1156441.fit  3.66  1.21 0.096    96.0 from 289 sources of uvex_2234 g
+r1156442.fit  3.46  1.14 0.069   117.7 from 462 sources of uvex_2234o r
+r1156443.fit  4.00  1.32 0.085    79.5 from  85 sources of uvex_2234o U
+r1156444.fit  3.76  1.24 0.067    85.9 from 296 sources of uvex_2234o g
+r1156445.fit  3.56  1.17 0.061   110.7 from 762 sources of uvex_2236 r
+r1156446.fit  3.86  1.27 0.090    74.1 from 153 sources of uvex_2236 U
+r1156447.fit  3.57  1.18 0.054    85.7 from 567 sources of uvex_2236 g
+r1156448.fit  3.69  1.22 0.089   116.7 from 646 sources of uvex_2236o r
+r1156449.fit  3.96  1.31 0.065    81.8 from 134 sources of uvex_2236o U
+r1156450.fit  3.59  1.18 0.049    93.6 from 502 sources of uvex_2236o g
+r1156451.fit  3.55  1.17 0.087   120.2 from 522 sources of uvex_2250 r
+r1156452.fit  3.91  1.29 0.096    83.8 from  95 sources of uvex_2250 U
+r1156453.fit  3.58  1.18 0.077    94.1 from 323 sources of uvex_2250 g
+r1156454.fit  3.46  1.14 0.056   137.0 from 533 sources of uvex_2250o r
+r1156455.fit  3.78  1.25 0.086    92.6 from 118 sources of uvex_2250o U
+r1156456.fit  3.29  1.09 0.054   102.4 from 382 sources of uvex_2250o g
+r1156457.fit  3.77  1.24 0.101   121.5 from 526 sources of uvex_2255 r
+r1156458.fit  3.86  1.27 0.089    86.0 from 135 sources of uvex_2255 U
+r1156459.fit  3.62  1.19 0.068   101.9 from 380 sources of uvex_2255 g
+r1156460.fit  3.13  1.03 0.057   121.6 from 645 sources of uvex_2255o r
+r1156461.fit  3.78  1.25 0.089    85.4 from 149 sources of uvex_2255o U
+r1156462.fit  3.73  1.23 0.058   102.4 from 373 sources of uvex_2255o g
+r1156463.fit  3.20  1.06 0.048   136.4 from 579 sources of uvex_2256 r
+r1156464.fit  3.75  1.24 0.069    89.0 from 114 sources of uvex_2256 U
+r1156465.fit  3.38  1.12 0.071   106.1 from 362 sources of uvex_2256 g
+r1156466.fit  3.23  1.07 0.087   135.7 from 599 sources of uvex_2256o r
+r1156467.fit  3.64  1.20 0.080    89.4 from 124 sources of uvex_2256o U
+r1156468.fit  3.37  1.11 0.078   100.1 from 383 sources of uvex_2256o g
+r1156469.fit  3.40  1.12 0.068   139.4 from 489 sources of uvex_2260 r
+r1156470.fit  3.93  1.30 0.101    93.8 from  75 sources of uvex_2260 U
+r1156471.fit  3.42  1.13 0.062    99.7 from 283 sources of uvex_2260 g
+r1156472.fit  3.41  1.13 0.092   123.4 from 429 sources of uvex_2260o r
+r1156473.fit  3.96  1.31 0.080    93.8 from  62 sources of uvex_2260o U
+r1156474.fit  3.67  1.21 0.078   106.3 from 234 sources of uvex_2260o g
+r1156475.fit  3.15  1.04 0.054   134.1 from 607 sources of uvex_2264 r
+r1156476.fit  3.50  1.16 0.076    91.6 from 130 sources of uvex_2264 U
+r1156477.fit  3.36  1.11 0.077    88.1 from 396 sources of uvex_2264 g
+r1156478.fit  3.30  1.09 0.106   142.4 from 556 sources of uvex_2264o r
+r1156479.fit  3.82  1.26 0.125    92.6 from  74 sources of uvex_2264o U
+r1156480.fit  2.95  0.97 0.061   106.7 from 454 sources of uvex_2264o g
+r1156481.fit  3.06  1.01 0.041   127.1 from 846 sources of uvex_2265 r
+r1156482.fit  3.61  1.19 0.054    77.8 from 194 sources of uvex_2265 U
+r1156483.fit  3.97  1.31 0.108   109.2 from 446 sources of uvex_2265 g
+r1156484.fit  2.91  0.96 0.059   143.2 from 638 sources of uvex_2270o r
+r1156485.fit  3.37  1.11 0.086    92.8 from 114 sources of uvex_2270o U
+r1156486.fit  3.04  1.00 0.063   104.1 from 402 sources of uvex_2270o g
+r1156487.fit  3.10  1.02 0.092   145.7 from 609 sources of uvex_2274 r
+r1156488.fit  3.55  1.17 0.108    94.9 from 110 sources of uvex_2274 U
+r1156489.fit  3.17  1.05 0.052   107.9 from 400 sources of uvex_2274 g
+r1156490.fit  3.16  1.04 0.088   133.9 from 629 sources of uvex_2274o r
+r1156491.fit  3.48  1.15 0.098    91.2 from 126 sources of uvex_2274o U
+r1156492.fit  3.25  1.07 0.051   112.5 from 415 sources of uvex_2274o g
+r1156493.fit  2.97  0.98 0.044   131.8 from 834 sources of uvex_2276o r
+r1156494.fit  3.54  1.17 0.065    81.8 from 171 sources of uvex_2276o U
+r1156495.fit  3.44  1.14 0.041    97.0 from 520 sources of uvex_2276o g
+r1156496.fit  3.13  1.03 0.056   141.9 from 773 sources of uvex_2277 r
+r1156497.fit  4.00  1.32 0.125    86.8 from 139 sources of uvex_2277 U
+r1156498.fit  3.51  1.16 0.051   100.3 from 490 sources of uvex_2277 g
+r1156499.fit  3.29  1.09 0.061   147.2 from 734 sources of uvex_2277o r
+r1156500.fit  3.82  1.26 0.086    96.1 from 169 sources of uvex_2277o U
+r1156501.fit  3.41  1.13 0.042   112.4 from 502 sources of uvex_2277o g
+r1156502.fit  3.20  1.06 0.050   136.6 from 638 sources of uvex_2278 r
+r1156503.fit  3.61  1.19 0.065    88.3 from 141 sources of uvex_2278 U
+r1156504.fit  3.55  1.17 0.049   104.2 from 382 sources of uvex_2278 g
+r1156505.fit  3.37  1.11 0.047   156.6 from 646 sources of uvex_2278o r
+r1156506.fit  3.64  1.20 0.064    89.8 from 158 sources of uvex_2278o U
+r1156507.fit  3.60  1.19 0.034   114.9 from 424 sources of uvex_2278o g
+r1156508.fit  3.17  1.05 0.047   136.3 from 649 sources of uvex_2279 r
+r1156509.fit  3.52  1.16 0.070   109.0 from 144 sources of uvex_2279 U
+r1156510.fit  3.38  1.12 0.052   125.5 from 417 sources of uvex_2279 g
+r1156511.fit  3.55  1.17 0.085   133.7 from 588 sources of uvex_2279o r
+r1156512.fit  3.95  1.30 0.102   110.1 from 113 sources of uvex_2279o U
+r1156513.fit  3.68  1.21 0.052   121.6 from 417 sources of uvex_2279o g
+r1156514.fit  3.44  1.14 0.058   174.8 from 529 sources of uvex_2283 r
+r1156515.fit  4.40  1.45 0.124   115.6 from 107 sources of uvex_2283 U
+r1156516.fit  3.93  1.30 0.070   114.4 from 311 sources of uvex_2283 g
+r1156517.fit  3.42  1.13 0.044   175.0 from 536 sources of uvex_2283o r
+r1156518.fit  3.83  1.26 0.088   118.2 from 137 sources of uvex_2283o U
+r1156519.fit  3.63  1.20 0.061   119.9 from 368 sources of uvex_2283o g
+r1156520.fit  3.39  1.12 0.054   177.2 from 574 sources of uvex_2287 r
+r1156521.fit  4.15  1.37 0.105   110.8 from 104 sources of uvex_2287 U
+r1156522.fit  3.67  1.21 0.058   116.5 from 375 sources of uvex_2287 g
+r1156523.fit  3.60  1.19 0.058   174.9 from 542 sources of uvex_2287o r
+r1156524.fit  4.11  1.36 0.072   107.9 from  98 sources of uvex_2287o U
+r1156525.fit  3.61  1.19 0.048   127.2 from 370 sources of uvex_2287o g
+r1156526.fit  3.23  1.07 0.047   177.0 from 765 sources of uvex_2288 r
+r1156527.fit  4.34  1.43 0.101   114.3 from 140 sources of uvex_2288 U
+r1156528.fit  4.52  1.49 0.091   117.3 from 405 sources of uvex_2288 g
+r1156529.fit  3.54  1.17 0.057   181.6 from 737 sources of uvex_2288o r
+r1156530.fit  4.96  1.64 0.124   123.6 from 133 sources of uvex_2288o U
+r1156531.fit  4.05  1.34 0.049   139.5 from 459 sources of uvex_2288o g
+r1156532.fit  3.93  1.30 0.078   174.2 from 548 sources of uvex_2289 r
+r1156533.fit  5.21  1.72 0.131   128.7 from  68 sources of uvex_2289 U
+r1156534.fit  4.48  1.48 0.041   150.0 from 319 sources of uvex_2289 g
+r1156535.fit  4.08  1.35 0.061   221.8 from 476 sources of uvex_2297 r
+r1156536.fit  4.67  1.54 0.110   165.3 from  97 sources of uvex_2297 U
+r1156537.fit  3.92  1.29 0.045   238.9 from 342 sources of uvex_2297 g
+r1156538.fit  4.01  1.32 0.104   279.9 from 469 sources of uvex_2297o r
+r1156539.fit  4.42  1.46 0.121   245.9 from  99 sources of uvex_2297o U
+r1156540.fit  4.48  1.48 0.035   400.2 from 306 sources of uvex_2297o g
+r1156541.fit  3.82  1.26 0.039   339.6 from 693 sources of uvex_2301 r
+r1156542.fit  4.89  1.61 0.106   432.4 from 132 sources of uvex_2301 U
+r1156543.fit  4.20  1.39 0.041   786.9 from 448 sources of uvex_2301 g
+r1156544.fit  3.78  1.25 0.043   752.0 from 679 sources of uvex_2301o r
+r1156545.fit  4.95  1.63 0.068   912.0 from 103 sources of uvex_2301o U
+r1156546.fit  4.22  1.39 0.054  1736.4 from 404 sources of uvex_2301o g
+r1156547.fit  4.01  1.32 0.050  2227.4 from 608 sources of uvex_2304o r
+r1156548.fit  4.62  1.52 0.111  1916.7 from  93 sources of uvex_2304o U
+r1156549.fit  4.58  1.51 0.041  5166.0 from 360 sources of uvex_2304o g
+r1156550.fit is not a target (SKY)
+r1156551.fit is not a target (SKY)
+r1156552.fit is not a target (SKY)
+r1156553.fit is not a target (SKY)
+r1156554.fit is not a target (SKY)
+r1156555.fit is not a target (SKY)
+r1156556.fit is not a target (SKY)
+r1156557.fit is not a target (SKY)
+r1156558.fit is not a target (SKY)
+r1156559.fit is not a target (SKY)
+r1156560.fit is not a target (SKY)
+r1156561.fit is not a target (SKY)
+r1156562.fit is not a target (SKY)
+r1156563.fit is not a target (SKY)
+r1156564.fit is not a target (SKY)
+r1156565.fit is not a target (SKY)
+r1156566.fit is not a target (SKY)
+r1156567.fit is not a target (SKY)
+r1156568.fit is not a target (BIAS)
+r1156569.fit is not a target (BIAS)
+r1156570.fit is not a target (BIAS)
+r1156571.fit is not a target (BIAS)
+r1156572.fit is not a target (BIAS)
+r1156573.fit is not a target (BIAS)
+r1156574.fit is not a target (BIAS)
