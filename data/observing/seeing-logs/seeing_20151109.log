@@ -1,64 +1,3 @@
-                                                                                                                                                                                                                                                               
-Delivered-To: geert.barentsen@gmail.com
-Received: by 10.107.27.143 with SMTP id b137csp930380iob;
-        Mon, 9 Nov 2015 22:57:43 -0800 (PST)
-X-Received: by 10.28.93.145 with SMTP id r139mr29332962wmb.20.1447138663343;
-        Mon, 09 Nov 2015 22:57:43 -0800 (PST)
-Return-Path: <intguest@intdrpc1.ing.iac.es>
-Received: from relay5-d.mail.gandi.net (relay5-d.mail.gandi.net. [2001:4b98:c:538::197])
-        by mx.google.com with ESMTPS id 1si2530664wjw.32.2015.11.09.22.57.42
-        for <geert.barentsen@gmail.com>
-        (version=TLSv1 cipher=RC4-SHA bits=128/128);
-        Mon, 09 Nov 2015 22:57:43 -0800 (PST)
-Received-SPF: neutral (google.com: 2001:4b98:c:538::197 is neither permitted nor denied by best guess record for domain of intguest@intdrpc1.ing.iac.es) client-ip=2001:4b98:c:538::197;
-Authentication-Results: mx.google.com;
-       spf=neutral (google.com: 2001:4b98:c:538::197 is neither permitted nor denied by best guess record for domain of intguest@intdrpc1.ing.iac.es) smtp.mailfrom=intguest@intdrpc1.ing.iac.es
-Received: from spool.mail.gandi.net (mspool4-d.mgt.gandi.net [10.0.21.135])
-    by relay5-d.mail.gandi.net (Postfix) with ESMTP id C13C241C053
-    for <geert.barentsen@gmail.com>; Tue, 10 Nov 2015 07:57:42 +0100 (CET)
-Received: from mfilter16-d.gandi.net (mfilter16-d.gandi.net [217.70.178.144])
-    by spool.mail.gandi.net (Postfix) with ESMTP id 934911421FA
-    for <geert.barentsen@gmail.com>; Tue, 10 Nov 2015 07:57:42 +0100 (CET)
-X-Virus-Scanned: Debian amavisd-new at mfilter16-d.gandi.net
-Received: from spool.mail.gandi.net ([IPv6:::ffff:10.0.21.135])
-    by mfilter16-d.gandi.net (mfilter16-d.gandi.net [::ffff:10.0.15.180]) (amavisd-new, port 10024)
-    with ESMTP id CjNSLA0LrpPA for <geert.barentsen@gmail.com>;
-    Tue, 10 Nov 2015 07:57:37 +0100 (CET)
-Received: from apus.ing.iac.es (apus.ing.iac.es [161.72.6.2])
-    by spool.mail.gandi.net (Postfix) with ESMTPS id 9B482142254
-    for <hello@geert.io>; Tue, 10 Nov 2015 07:57:23 +0100 (CET)
-Received: from saturn.ing.iac.es (saturn.ing.iac.es [161.72.6.46])
-    by apus.ing.iac.es (8.13.8+Sun/8.13.8) with ESMTP id tAA6vMcp004805
-    for <hello@geert.io>; Tue, 10 Nov 2015 06:57:22 GMT
-Received: from localhost (localhost [127.0.0.1])
-    by saturn.ing.iac.es (Postfix) with ESMTP id F241923E0839
-    for <hello@geert.io>; Tue, 10 Nov 2015 06:57:42 +0000 (GMT)
-Received: from saturn.ing.iac.es ([127.0.0.1])
-    by localhost (saturn.ing.iac.es [127.0.0.1]) (amavisd-new, port 10032)
-    with ESMTP id uE5w5L9zRhFG for <hello@geert.io>;
-    Tue, 10 Nov 2015 06:57:39 +0000 (GMT)
-Received: from localhost (localhost [127.0.0.1])
-    by saturn.ing.iac.es (Postfix) with ESMTP id 427D123E12A2
-    for <hello@geert.io>; Tue, 10 Nov 2015 06:57:39 +0000 (GMT)
-X-Amavis-Modified: Mail body modified (using disclaimer) - saturn.ing.iac.es
-X-Virus-Scanned: amavisd-new at saturn.ing.iac.es
-Received: from saturn.ing.iac.es ([127.0.0.1])
-    by localhost (saturn.ing.iac.es [127.0.0.1]) (amavisd-new, port 10026)
-    with ESMTP id Qgy6ppOMZ0sY for <hello@geert.io>;
-    Tue, 10 Nov 2015 06:57:39 +0000 (GMT)
-Received: from intdrpc1.ing.iac.es (intdrpc1.ing.iac.es [161.72.6.233])
-    by saturn.ing.iac.es (Postfix) with ESMTPS id 23C1A23E0839
-    for <hello@geert.io>; Tue, 10 Nov 2015 06:57:39 +0000 (GMT)
-Received: from intdrpc1.ing.iac.es (localhost.localdomain [127.0.0.1])
-    by intdrpc1.ing.iac.es (8.14.4/8.14.4) with ESMTP id tAA6vI1Z009587
-    for <hello@geert.io>; Tue, 10 Nov 2015 06:57:18 GMT
-Received: (from intguest@localhost)
-    by intdrpc1.ing.iac.es (8.14.4/8.14.4/Submit) id tAA6vH9r009586
-    for hello@geert.io; Tue, 10 Nov 2015 06:57:17 GMT
-Date: Tue, 10 Nov 2015 06:57:17 GMT
-From: INT Data Reduction <intguest@ing.iac.es>
-Message-Id: <201511100657.tAA6vH9r009586@intdrpc1.ing.iac.es>
-
 r1157995.fit is not a target (BIAS)
 r1157996.fit is not a target (BIAS)
 r1157997.fit is not a target (BIAS)
@@ -1077,9 +1016,3 @@ r1159014.fit is not a target (BIAS)
 r1159015.fit is not a target (BIAS)
 r1159016.fit is not a target (BIAS)
 r1159017.fit is not a target (BIAS)
-
-Sobre la privacidad y el tratamiento de Datos de CarÃ¡cter Personal /
-Disclaimer on privacy and the treatment of sensitive personal information:
-http://www.ing.iac.es/PR/LOPD/LOPD.html
-
-

@@ -10,7 +10,7 @@ import logging
 import numpy as np
 from astropy.table import Table
 
-SEEING_LIMIT = 1.7  # arcsec
+SEEING_LIMIT = 2.0  # arcsec
 AIRMASS_LIMIT = 2.0
 ELLIPT_LIMIT = 0.3
 

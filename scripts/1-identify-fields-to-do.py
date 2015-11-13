@@ -18,6 +18,8 @@ def read_fieldlist(filename):
 UVEX_ATTEMPTED = read_fieldlist('../data/casu-dqc/reduced-uvex-fields.txt')
 # Which of the reduced fields failed QC? (List provided by Paul Groot.)
 UVEX_FAILED = read_fieldlist('../data/groot-qc/uvex_badfields_all_geert_longsorted_fieldno.ascii')
+# Reduced fields which look good according to Geert QC
+UVEX_OK = read_fieldlist('../data/casu-dqc/reduced-uvex-fields-which-may-be-good.txt')
 
 
 if __name__ == '__main__':
@@ -26,7 +28,7 @@ if __name__ == '__main__':
         for field in ['{0:04d}'.format(i), '{0:04d}o'.format(i)]:
             if field not in UVEX_ATTEMPTED:
                 TODO_A.append(field)
-            elif field in UVEX_FAILED:
+            elif (field in UVEX_FAILED) or (field not in UVEX_OK):
                 TODO_B.append(field)
 
     print('{} fields observed, {} failed QC.'.format(len(UVEX_ATTEMPTED),

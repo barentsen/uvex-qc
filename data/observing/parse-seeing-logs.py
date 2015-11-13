@@ -58,7 +58,7 @@ def interpret_logs(csv_filename):
                 current_field = myfield
                 l_filters, l_seeing, l_ellipt, l_sky, l_sources = (
                                                         [], [], [], [], [])
-            
+
             l_filters.append(row['filter'])
             l_seeing.append(row['seeing'])
             l_ellipt.append(row['ellipt'])
@@ -70,7 +70,7 @@ def interpret_logs(csv_filename):
                 is_late_plane = (int(myfield[0:4]) >= 2070) and (int(myfield[0:4]) <= 4083)
                 # Does the observation statisfy the quality constraints?
                 if ( is_late_plane or
-                      ( np.all(np.array(l_seeing) < 2.25)
+                      ( np.all(np.array(l_seeing) < 2.5)
                         and np.all(np.array(l_ellipt) < 0.3)
                         and np.all(np.array(l_sky) < 10000)
                         and np.all(np.array(l_sources) > 2) )
