@@ -1,0 +1,468 @@
+r1159468.fit is not a target (BIAS)
+r1159469.fit is not a target (BIAS)
+r1159470.fit is not a target (BIAS)
+r1159471.fit is not a target (BIAS)
+r1159472.fit is not a target (BIAS)
+r1159473.fit is not a target (BIAS)
+r1159474.fit is not a target (BIAS)
+r1159475.fit is not a target (BIAS)
+r1159476.fit is not a target (BIAS)
+r1159477.fit is not a target (BIAS)
+r1159478.fit is not a target (BIAS)
+r1159479.fit is not a target (BIAS)
+r1159480.fit is not a target (SKY)
+r1159481.fit is not a target (SKY)
+r1159482.fit is not a target (SKY)
+r1159483.fit is not a target (SKY)
+r1159484.fit is not a target (SKY)
+r1159485.fit is not a target (SKY)
+r1159486.fit is not a target (SKY)
+r1159487.fit is not a target (SKY)
+r1159488.fit is not a target (SKY)
+r1159489.fit is not a target (SKY)
+r1159490.fit is not a target (SKY)
+r1159491.fit is not a target (SKY)
+r1159492.fit is not a target (SKY)
+r1159493.fit is not a target (SKY)
+r1159494.fit is not a target (SKY)
+r1159495.fit is not a target (SKY)
+r1159496.fit is not a target (SKY)
+r1159497.fit is not a target (SKY)
+r1159498.fit is not a target (SKY)
+r1159499.fit is not a target (SKY)
+r1159500.fit is not a target (SKY)
+r1159501.fit is not a target (SKY)
+r1159502.fit is not a target (SKY)
+r1159503.fit is not a target (SKY)
+r1159504.fit is not a target (SKY)
+r1159505.fit is not a target (SKY)
+r1159506.fit is not a target (SKY)
+r1159507.fit  4.48  1.48 0.115   466.1 from   1 sources of test
+r1159508.fit  9.23  3.05 0.076    80.3 from   2 sources of BD+284211 r
+r1159509.fit no objects found
+r1159510.fit  9.83  3.24 0.071   104.5 from   1 sources of BD+284211 g
+r1159511.fit no objects found
+r1159512.fit  4.20  1.39 0.048   106.6 from   4 sources of SA112-250 U
+r1159513.fit no objects found
+r1159514.fit  4.20  1.39 0.029   157.7 from   4 sources of uvex_4085 r
+r1159519.fit  4.26  1.41 0.031    76.6 from   8 sources of uvex_4085 U
+r1159520.fit -9.54 -3.15 0.019    73.7 from   5 sources of SA113-260
+r1159521.fit  5.11  1.69 0.130    79.6 from   2 sources of SA113-260
+r1159522.fit  7.98  2.63 0.035    73.8 from   7 sources of FEIGE110
+r1159523.fit  4.32  1.43 0.088   159.0 from   4 sources of GD248 r
+r1159524.fit  0.96  0.32 0.027    82.7 from   5 sources of GD248 U
+r1159525.fit  0.84  0.28 0.080   111.4 from   1 sources of GD248 g
+r1159526.fit  4.27  1.41 0.031   133.1 from   5 sources of uvex_4395 r
+r1159527.fit  4.24  1.40 0.028    80.5 from   7 sources of uvex_4395 U
+r1159528.fit  4.23  1.40 0.070    90.5 from   6 sources of uvex_4395 g
+r1159529.fit  4.20  1.39 0.034   134.2 from   7 sources of uvex_4395o r
+r1159530.fit  4.26  1.41 0.034    77.5 from   7 sources of uvex_4395o U
+r1159531.fit  0.85  0.28 0.051    88.5 from   6 sources of uvex_4395o g
+r1159532.fit  4.25  1.40 0.049   156.0 from   6 sources of uvex_6318o r
+r1159533.fit  4.25  1.40 0.032    99.0 from   8 sources of uvex_6318o U
+r1159534.fit  0.85  0.28 0.036   108.7 from   6 sources of uvex_6318o g
+r1159535.fit  4.20  1.39 0.020   149.2 from   5 sources of uvex_6330 r
+r1159536.fit  4.26  1.41 0.033    97.1 from   7 sources of uvex_6330 U
+r1159537.fit  4.28  1.41 0.018   104.1 from   6 sources of uvex_6330 g
+r1159538.fit  4.19  1.38 0.019   164.3 from   5 sources of uvex_6333 r
+r1159539.fit  4.25  1.40 0.048   106.3 from   7 sources of uvex_6333 U
+r1159540.fit  4.28  1.41 0.034   116.6 from   6 sources of uvex_6333 g
+r1159541.fit  4.20  1.39 0.038   179.4 from   7 sources of uvex_6333o r
+r1159542.fit  4.24  1.40 0.029   100.9 from   7 sources of uvex_6333o U
+r1159543.fit  4.20  1.39 0.038   131.1 from   6 sources of uvex_6333o g
+r1159544.fit  0.85  0.28 0.026   155.9 from   4 sources of uvex_6334o r
+r1159545.fit  4.25  1.40 0.026    96.2 from   7 sources of uvex_6334o U
+r1159546.fit  0.93  0.31 0.040   102.6 from   7 sources of uvex_6334o g
+r1159547.fit  4.21  1.39 0.041   159.7 from   6 sources of uvex_6353 r
+r1159548.fit  4.22  1.39 0.043   101.8 from   6 sources of uvex_6353 U
+r1159549.fit  4.29  1.42 0.048   120.1 from   5 sources of uvex_6353 g
+r1159550.fit  4.19  1.38 0.037   159.3 from   5 sources of uvex_6358 r
+r1159551.fit  4.23  1.40 0.034    96.6 from   7 sources of uvex_6358 U
+r1159552.fit  4.27  1.41 0.045   104.3 from   6 sources of uvex_6358 g
+r1159553.fit  4.18  1.38 0.025   157.8 from   4 sources of uvex_6362 r
+r1159554.fit  4.30  1.42 0.039    94.6 from   7 sources of uvex_6362 U
+r1159555.fit  4.24  1.40 0.025   103.4 from   6 sources of uvex_6362 g
+r1159556.fit  4.18  1.38 0.085   147.0 from   6 sources of uvex_6362o r
+r1159557.fit  4.31  1.42 0.035    93.6 from   7 sources of uvex_6362o U
+r1159558.fit  1.24  0.41 0.046   103.3 from   7 sources of uvex_6362o g
+r1159559.fit  4.19  1.38 0.028   163.9 from   7 sources of uvex_6363 r
+r1159560.fit  4.28  1.41 0.027    99.7 from   7 sources of uvex_6363 U
+r1159561.fit  4.26  1.41 0.042   110.1 from   6 sources of uvex_6363 g
+r1159562.fit  4.26  1.41 0.056   171.2 from   6 sources of uvex_6383 r
+r1159563.fit  4.24  1.40 0.032    97.7 from   9 sources of uvex_6383 U
+r1159564.fit  4.23  1.40 0.056   111.2 from   4 sources of uvex_6383 g
+r1159565.fit  4.19  1.38 0.012   166.0 from   6 sources of uvex_6383o r
+r1159566.fit  4.27  1.41 0.032    96.1 from   6 sources of uvex_6383o U
+r1159567.fit  4.21  1.39 0.019   108.2 from   6 sources of uvex_6383o g
+r1159568.fit  4.19  1.38 0.071   174.4 from   6 sources of uvex_6384 r
+r1159569.fit  1.79  0.59 0.043    99.8 from   6 sources of uvex_6384 U
+r1159570.fit  4.20  1.39 0.030   110.5 from   6 sources of uvex_6384 g
+r1159571.fit  4.17  1.38 0.031   162.9 from   4 sources of uvex_6387o r
+r1159572.fit  4.23  1.40 0.031    92.1 from   6 sources of uvex_6387o U
+r1159573.fit  4.29  1.42 0.055   101.9 from   6 sources of uvex_6387o g
+r1159574.fit  4.22  1.39 0.023   167.0 from   6 sources of uvex_6505o r
+r1159575.fit  4.22  1.39 0.027    98.8 from   7 sources of uvex_6505o U
+r1159576.fit  0.85  0.28 0.014   108.1 from   7 sources of uvex_6505o g
+r1159577.fit  4.52  1.49 0.092    64.8 from   2 sources of GD50 r
+r1159578.fit  4.20  1.39 0.028    34.4 from   5 sources of GD50 U
+r1159579.fit  0.83  0.27 0.081    64.7 from   1 sources of GD50 g
+r1159580.fit  4.25  1.40 0.034   119.1 from   4 sources of uvex_2003o r
+r1159581.fit  4.20  1.39 0.024    54.8 from   7 sources of uvex_2003o U
+r1159582.fit  4.31  1.42 0.022    67.6 from   4 sources of uvex_2003o g
+r1159583.fit  4.24  1.40 0.029   128.2 from   7 sources of uvex_2009 r
+r1159584.fit  4.21  1.39 0.024    55.4 from   7 sources of uvex_2009 U
+r1159585.fit  4.21  1.39 0.012    70.2 from   5 sources of uvex_2009 g
+r1159586.fit  4.19  1.38 0.022   123.2 from   5 sources of uvex_2009o r
+r1159587.fit  4.25  1.40 0.029    55.1 from   7 sources of uvex_2009o U
+r1159588.fit  4.19  1.38 0.040    69.0 from   6 sources of uvex_2009o g
+r1159589.fit  4.18  1.38 0.021   118.0 from   5 sources of uvex_2013 r
+r1159590.fit -1.75 -0.58 0.020    55.4 from   5 sources of uvex_2013 U
+r1159591.fit  4.20  1.39 0.024    68.5 from   6 sources of uvex_2013 g
+r1159592.fit  4.18  1.38 0.029   116.9 from   6 sources of uvex_2013o r
+r1159593.fit  4.25  1.40 0.030    54.2 from   6 sources of uvex_2013o U
+r1159594.fit  4.19  1.38 0.041    67.5 from   6 sources of uvex_2013o g
+r1159595.fit  4.20  1.39 0.033   127.6 from   4 sources of uvex_2015 r
+r1159596.fit  4.25  1.40 0.053    52.8 from   6 sources of uvex_2015 U
+r1159597.fit  0.85  0.28 0.025    73.0 from   5 sources of uvex_2015 g
+r1159598.fit  4.19  1.38 0.041   114.2 from   6 sources of uvex_2015o r
+r1159599.fit -1.77 -0.58 0.023    54.4 from   7 sources of uvex_2015o U
+r1159600.fit  4.24  1.40 0.027    68.0 from   6 sources of uvex_2015o g
+r1159601.fit  4.20  1.39 0.031   114.4 from   6 sources of uvex_2043 r
+r1159602.fit  4.25  1.40 0.027    52.9 from   9 sources of uvex_2043 U
+r1159603.fit  4.19  1.38 0.023    67.5 from   6 sources of uvex_2043 g
+r1159604.fit  4.25  1.40 0.047   113.4 from   6 sources of uvex_2043o r
+r1159605.fit  4.25  1.40 0.029    54.5 from   7 sources of uvex_2043o U
+r1159606.fit  4.19  1.38 0.019    67.2 from   5 sources of uvex_2043o g
+r1159607.fit  4.19  1.38 0.036   116.6 from   6 sources of uvex_2063o r
+r1159608.fit  4.24  1.40 0.035    56.4 from   8 sources of uvex_2063o U
+r1159609.fit  9.64  3.18 0.046    69.3 from  91 sources of uvex_2063o g
+r1159610.fit  4.19  1.38 0.026   120.9 from   6 sources of uvex_2543o r
+r1159611.fit  4.30  1.42 0.040    57.3 from   8 sources of uvex_2543o U
+r1159612.fit  4.21  1.39 0.027    72.8 from   6 sources of uvex_2543o g
+r1159613.fit  4.19  1.38 0.040   108.7 from   6 sources of uvex_2063o r
+r1159614.fit  4.23  1.40 0.027    51.6 from   7 sources of uvex_2063o U
+r1159615.fit  0.85  0.28 0.028    65.5 from   7 sources of uvex_2063o g
+r1159616.fit  9.71  3.20 0.027   106.7 from  75 sources of uvex_2544 r
+r1159617.fit  0.34  0.11 0.045    50.9 from   8 sources of uvex_2544 U
+r1159618.fit -2.86 -0.94 0.024    65.1 from   7 sources of uvex_2544 g
+r1159619.fit  4.20  1.39 0.037   105.8 from   5 sources of uvex_2544o r
+r1159620.fit  4.22  1.39 0.026    48.6 from   7 sources of uvex_2544o U
+r1159621.fit  4.19  1.38 0.039    64.2 from   7 sources of uvex_2544o g
+r1159622.fit  9.79  3.23 0.039   104.4 from  87 sources of uvex_2544 r
+r1159623.fit  4.23  1.40 0.023    51.2 from   8 sources of uvex_2544 U
+r1159624.fit  4.20  1.39 0.026    65.9 from   6 sources of uvex_2544 g
+r1159625.fit  8.19  2.70 0.044    97.0 from 136 sources of uvex_2547 r
+r1159626.fit  4.25  1.40 0.028    54.1 from   7 sources of uvex_2547 U
+r1159627.fit  4.19  1.38 0.097    67.8 from   6 sources of uvex_2547 g
+r1159628.fit  4.19  1.38 0.064   106.8 from   8 sources of uvex_2544 r
+r1159629.fit -17.77 -5.86 0.018    52.1 from   7 sources of uvex_2544 U
+r1159630.fit  9.95  3.28 0.019    66.0 from  22 sources of uvex_2544 g
+r1159631.fit  8.69  2.87 0.029   108.6 from 117 sources of uvex_2547 r
+r1159632.fit  4.26  1.41 0.028    55.1 from   7 sources of uvex_2547 U
+r1159633.fit  8.99  2.97 0.022    67.8 from  98 sources of uvex_2547 g
+r1159634.fit  8.09  2.67 0.042   107.7 from 135 sources of uvex_2547o r
+r1159635.fit  4.19  1.38 0.027    54.0 from   8 sources of uvex_2547o U
+r1159636.fit  9.06  2.99 0.048    67.9 from  80 sources of uvex_2547o g
+r1159637.fit  9.52  3.14 0.028   105.3 from  68 sources of uvex_2550 r
+r1159638.fit  4.24  1.40 0.026    53.5 from   7 sources of uvex_2550 U
+r1159639.fit -14.69 -4.85 0.039    67.0 from   6 sources of uvex_2550 g
+r1159641.fit  4.18  1.38 0.001   289.3 from   3 sources of GD40
+r1159642.fit  4.20  1.39 0.006   286.7 from   2 sources of GD40
+r1159643.fit  2.72  0.90 0.046   276.2 from   6 sources of GD40
+r1159644.fit  2.41  0.80 0.005   277.6 from  10 sources of GD40
+r1159645.fit  2.40  0.79 0.015   279.6 from   9 sources of GD40
+r1159646.fit  2.51  0.83 0.012   283.0 from   7 sources of GD40
+r1159647.fit  4.19  1.38 0.002   287.0 from   2 sources of GD40
+r1159648.fit  4.19  1.38 0.001   283.4 from   2 sources of GD40
+r1159649.fit  4.05  1.34 0.001   281.6 from   3 sources of GD40
+r1159650.fit -430.54 -142.08 0.001   253.6 from   3 sources of GD40
+r1159651.fit  4.18  1.38 0.003   257.3 from   3 sources of GD40
+r1159652.fit  4.19  1.38 0.005   256.4 from   2 sources of GD40
+r1159653.fit  2.62  0.86 0.032   252.7 from   6 sources of GD40
+r1159654.fit  4.19  1.38 0.001   256.8 from   2 sources of GD40
+r1159655.fit  4.19  1.38 0.001   255.6 from   3 sources of GD40
+r1159656.fit  4.18  1.38 0.001   256.0 from   3 sources of GD40
+r1159657.fit  4.19  1.38 0.000   258.2 from   2 sources of GD40
+r1159658.fit  4.18  1.38 0.002   257.4 from   2 sources of GD40
+r1159659.fit -1094.66 -361.24 0.001   257.1 from   2 sources of GD40
+r1159660.fit  3.11  1.03 0.019   254.1 from   4 sources of GD40
+r1159661.fit  9.79  3.23 0.027    88.4 from  12 sources of GD40
+r1159662.fit  4.20  1.39 0.069   119.3 from   4 sources of GD40
+r1159663.fit  4.20  1.39 0.068   119.2 from   4 sources of GD40
+r1159664.fit  4.19  1.38 0.083   119.1 from   4 sources of GD40
+r1159665.fit  9.18  3.03 0.025    88.1 from  20 sources of GD40
+r1159666.fit  4.27  1.41 0.065   117.5 from   4 sources of GD40
+r1159667.fit -65.47 -21.61 0.025   117.7 from   3 sources of GD40
+r1159668.fit  1.23  0.41 0.027   117.7 from   5 sources of GD40
+r1159669.fit  4.20  1.39 0.047   117.7 from   5 sources of GD40
+r1159670.fit  0.84  0.28 0.034   117.7 from   4 sources of GD40
+r1159671.fit  4.23  1.40 0.099    84.4 from   5 sources of GD40
+r1159672.fit  9.72  3.21 0.049    89.2 from  10 sources of GD40
+r1159673.fit  4.21  1.39 0.104   117.4 from   4 sources of GD40
+r1159674.fit  7.92  2.61 0.016    88.9 from  21 sources of GD40
+r1159675.fit  4.27  1.41 0.059   118.4 from   4 sources of GD40
+r1159676.fit  7.97  2.63 0.034    91.0 from  22 sources of GD40
+r1159677.fit  7.67  2.53 0.038    92.0 from  20 sources of GD40
+r1159678.fit  0.84  0.28 0.071   119.5 from   4 sources of GD40
+r1159679.fit  9.51  3.14 0.028    96.2 from  15 sources of GD40
+r1159680.fit  9.09  3.00 0.053    92.2 from  19 sources of GD40
+r1159681.fit  0.84  0.28 0.073    96.5 from   4 sources of GD40
+r1159682.fit  4.20  1.39 0.072   119.4 from   4 sources of GD40
+r1159683.fit  9.28  3.06 0.040    95.6 from  15 sources of GD40
+r1159684.fit  0.84  0.28 0.077   120.7 from   4 sources of GD40
+r1159685.fit  4.20  1.39 0.069   122.2 from   4 sources of GD40
+r1159686.fit  4.78  1.58 0.037    92.8 from   9 sources of GD40
+r1159687.fit  0.84  0.28 0.067   119.5 from   4 sources of GD40
+r1159688.fit  4.19  1.38 0.074   118.7 from   4 sources of GD40
+r1159689.fit  0.83  0.27 0.086   117.5 from   4 sources of GD40
+r1159690.fit -8.99 -2.97 0.068   119.0 from   4 sources of GD40
+r1159691.fit  4.20  1.39 0.069   119.1 from   4 sources of GD40
+r1159692.fit  4.20  1.39 0.070   119.0 from   4 sources of GD40
+r1159693.fit  9.33  3.08 0.044    91.4 from  17 sources of GD40
+r1159694.fit  4.20  1.39 0.066   118.8 from   4 sources of GD40
+r1159695.fit  4.20  1.39 0.064   119.8 from   4 sources of GD40
+r1159696.fit  4.20  1.39 0.025   119.8 from   7 sources of GD40
+r1159697.fit  9.15  3.02 0.044    92.1 from  16 sources of GD40
+r1159698.fit  9.07  2.99 0.088    95.8 from  15 sources of GD40
+r1159699.fit  4.19  1.38 0.080    93.3 from   4 sources of GD40
+r1159700.fit  8.77  2.89 0.026    93.1 from  16 sources of GD40
+r1159701.fit  8.17  2.70 0.034   120.9 from   9 sources of GD40
+r1159702.fit  9.75  3.22 0.026   119.6 from  10 sources of GD40
+r1159703.fit  9.13  3.01 0.036    92.1 from  18 sources of GD40
+r1159704.fit  0.84  0.28 0.078   119.0 from   4 sources of GD40
+r1159705.fit  4.20  1.39 0.075   119.1 from   4 sources of GD40
+r1159706.fit  4.30  1.42 0.060   117.5 from   4 sources of GD40
+r1159707.fit  8.78  2.90 0.022    90.7 from  18 sources of GD40
+r1159708.fit  0.84  0.28 0.068   119.4 from   4 sources of GD40
+r1159709.fit  0.84  0.28 0.073    93.6 from   5 sources of GD40
+r1159710.fit  4.20  1.39 0.058   118.4 from   4 sources of GD40
+r1159711.fit  4.22  1.39 0.068   118.0 from   4 sources of GD40
+r1159712.fit  4.25  1.40 0.082   117.8 from   4 sources of GD40
+r1159713.fit  4.20  1.39 0.070   118.0 from   4 sources of GD40
+r1159714.fit  4.21  1.39 0.080   119.2 from   4 sources of GD40
+r1159715.fit  0.84  0.28 0.067   119.6 from   4 sources of GD40
+r1159716.fit  4.23  1.40 0.068   120.1 from   4 sources of GD40
+r1159717.fit  4.20  1.39 0.082   118.9 from   4 sources of GD40
+r1159718.fit  4.20  1.39 0.054   118.9 from   4 sources of GD40
+r1159719.fit  4.26  1.41 0.074   118.6 from   4 sources of GD40
+r1159720.fit  4.20  1.39 0.080   120.1 from   4 sources of GD40
+r1159721.fit  4.20  1.39 0.075   118.4 from   4 sources of GD40
+r1159722.fit  4.21  1.39 0.066   118.7 from   4 sources of GD40
+r1159723.fit  4.20  1.39 0.053   118.7 from   4 sources of GD40
+r1159724.fit  0.84  0.28 0.077   118.4 from   4 sources of GD40
+r1159725.fit  4.20  1.39 0.077   118.9 from   4 sources of GD40
+r1159726.fit  4.23  1.40 0.072   119.8 from   4 sources of GD40
+r1159727.fit  4.20  1.39 0.068   118.6 from   4 sources of GD40
+r1159728.fit  0.84  0.28 0.053   118.5 from   4 sources of GD40
+r1159729.fit  4.26  1.41 0.064   118.5 from   4 sources of GD40
+r1159730.fit  9.53  3.14 0.020    93.9 from  14 sources of GD40
+r1159731.fit  0.84  0.28 0.060   119.9 from   4 sources of GD40
+r1159732.fit  0.85  0.28 0.089   120.2 from   4 sources of GD40
+r1159733.fit  4.22  1.39 0.023    98.4 from   5 sources of GD40
+r1159734.fit  0.85  0.28 0.066   121.0 from   4 sources of GD40
+r1159735.fit  4.22  1.39 0.072   119.4 from   4 sources of GD40
+r1159736.fit  4.19  1.38 0.065   121.1 from   4 sources of GD40
+r1159737.fit  4.28  1.41 0.076   119.5 from   4 sources of GD40
+r1159738.fit  4.24  1.40 0.066   119.8 from   4 sources of GD40
+r1159739.fit  4.20  1.39 0.067   118.9 from   4 sources of GD40
+r1159740.fit  4.19  1.38 0.071   119.0 from   4 sources of GD40
+r1159741.fit  0.84  0.28 0.067   119.0 from   4 sources of GD40
+r1159742.fit  4.20  1.39 0.068   118.5 from   4 sources of GD40
+r1159743.fit  0.84  0.28 0.065   118.9 from   4 sources of GD40
+r1159744.fit  4.20  1.39 0.062   118.9 from   4 sources of GD40
+r1159745.fit  0.84  0.28 0.077   118.7 from   4 sources of GD40
+r1159746.fit  4.19  1.38 0.067   119.6 from   4 sources of GD40
+r1159747.fit -0.87 -0.29 0.043   119.7 from   5 sources of GD40
+r1159748.fit  4.19  1.38 0.071   120.0 from   4 sources of GD40
+r1159749.fit  0.84  0.28 0.069   119.6 from   4 sources of GD40
+r1159750.fit  4.40  1.45 0.098   119.6 from   4 sources of GD40
+r1159751.fit  4.21  1.39 0.061   119.5 from   4 sources of GD40
+r1159752.fit  4.19  1.38 0.083   119.4 from   4 sources of GD40
+r1159753.fit  4.19  1.38 0.084   119.4 from   4 sources of GD40
+r1159754.fit  4.20  1.39 0.048   119.5 from   4 sources of GD40
+r1159755.fit  4.20  1.39 0.073   119.8 from   4 sources of GD40
+r1159756.fit  4.20  1.39 0.062   119.9 from   4 sources of GD40
+r1159757.fit  4.20  1.39 0.090   120.0 from   4 sources of GD40
+r1159758.fit  0.84  0.28 0.073   119.0 from   4 sources of GD40
+r1159759.fit  0.84  0.28 0.088   118.4 from   4 sources of GD40
+r1159760.fit  4.27  1.41 0.075   118.5 from   4 sources of GD40
+r1159761.fit  4.20  1.39 0.062   118.6 from   4 sources of GD40
+r1159762.fit  4.20  1.39 0.068   118.5 from   4 sources of GD40
+r1159763.fit  4.22  1.39 0.073   118.6 from   4 sources of GD40
+r1159764.fit  4.20  1.39 0.058   118.6 from   4 sources of GD40
+r1159765.fit  4.20  1.39 0.062   120.0 from   4 sources of GD40
+r1159766.fit  4.19  1.38 0.056   120.1 from   4 sources of GD40
+r1159767.fit  4.23  1.40 0.071   119.5 from   4 sources of GD40
+r1159768.fit  4.20  1.39 0.062   119.6 from   4 sources of GD40
+r1159769.fit  4.19  1.38 0.080   121.5 from   4 sources of GD40
+r1159770.fit  4.20  1.39 0.082   121.1 from   4 sources of GD40
+r1159771.fit  4.19  1.38 0.084   122.2 from   4 sources of GD40
+r1159772.fit  4.20  1.39 0.064   120.7 from   4 sources of GD40
+r1159773.fit  4.26  1.41 0.071   119.6 from   4 sources of GD40
+r1159774.fit  4.26  1.41 0.072   120.7 from   4 sources of GD40
+r1159775.fit  4.28  1.41 0.078   119.5 from   4 sources of GD40
+r1159776.fit  4.20  1.39 0.073   121.0 from   4 sources of GD40
+r1159777.fit  4.21  1.39 0.063   121.0 from   4 sources of GD40
+r1159778.fit  4.19  1.38 0.074   121.0 from   4 sources of GD40
+r1159779.fit  4.26  1.41 0.075   120.6 from   4 sources of GD40
+r1159780.fit  0.85  0.28 0.061   120.8 from   4 sources of GD40
+r1159781.fit  0.84  0.28 0.068   121.2 from   4 sources of GD40
+r1159782.fit  4.19  1.38 0.069   121.1 from   4 sources of GD40
+r1159783.fit  0.84  0.28 0.065   119.7 from   4 sources of GD40
+r1159784.fit  4.20  1.39 0.090   121.2 from   4 sources of GD40
+r1159785.fit  4.20  1.39 0.090   121.1 from   4 sources of GD40
+r1159786.fit  4.27  1.41 0.062   119.5 from   4 sources of GD40
+r1159787.fit  4.21  1.39 0.083   122.2 from   4 sources of GD40
+r1159788.fit  4.19  1.38 0.087   122.2 from   4 sources of GD40
+r1159789.fit  4.20  1.39 0.071   122.1 from   4 sources of GD40
+r1159790.fit  4.20  1.39 0.077   122.1 from   4 sources of GD40
+r1159791.fit  0.84  0.28 0.077   122.2 from   4 sources of GD40
+r1159792.fit  4.19  1.38 0.086   122.0 from   4 sources of GD40
+r1159793.fit  0.84  0.28 0.059   121.9 from   4 sources of GD40
+r1159794.fit  4.20  1.39 0.089   122.1 from   4 sources of GD40
+r1159795.fit  4.20  1.39 0.086   122.0 from   4 sources of GD40
+r1159796.fit  1.56  0.51 0.073   121.9 from   5 sources of GD40
+r1159797.fit  4.20  1.39 0.084   122.1 from   4 sources of GD40
+r1159798.fit  0.97  0.32 0.035   122.2 from   5 sources of GD40
+r1159799.fit  4.19  1.38 0.067   121.4 from   4 sources of GD40
+r1159800.fit  4.22  1.39 0.079   120.5 from   5 sources of GD40
+r1159801.fit  4.20  1.39 0.066   120.6 from   4 sources of GD40
+r1159802.fit  4.24  1.40 0.058   120.5 from   4 sources of GD40
+r1159803.fit  0.84  0.28 0.066   120.7 from   4 sources of GD40
+r1159804.fit  4.20  1.39 0.077   120.6 from   4 sources of GD40
+r1159805.fit  4.19  1.38 0.054   122.2 from   4 sources of GD40
+r1159806.fit  4.19  1.38 0.060   121.8 from   4 sources of GD40
+r1159807.fit  4.19  1.38 0.085   121.6 from   4 sources of GD40
+r1159808.fit  4.19  1.38 0.087   121.7 from   4 sources of GD40
+r1159809.fit  4.20  1.39 0.074   120.8 from   4 sources of GD40
+r1159810.fit  0.84  0.28 0.077   120.6 from   4 sources of GD40
+r1159811.fit  0.84  0.28 0.065   120.7 from   4 sources of GD40
+r1159812.fit  4.23  1.40 0.067   121.1 from   4 sources of GD40
+r1159813.fit  4.19  1.38 0.021    98.6 from   5 sources of GD40
+r1159814.fit  0.84  0.28 0.065   120.8 from   4 sources of GD40
+r1159815.fit  4.26  1.41 0.068   120.6 from   4 sources of GD40
+r1159816.fit  4.20  1.39 0.081   120.6 from   4 sources of GD40
+r1159817.fit  4.20  1.39 0.093   121.3 from   4 sources of GD40
+r1159818.fit  0.85  0.28 0.077   120.8 from   4 sources of GD40
+r1159819.fit  4.20  1.39 0.012   119.4 from   5 sources of GD40
+r1159820.fit  1.22  0.40 0.047   120.7 from   5 sources of GD40
+r1159821.fit  4.19  1.38 0.086   120.9 from   4 sources of GD40
+r1159822.fit  4.21  1.39 0.064   120.9 from   4 sources of GD40
+r1159823.fit  4.20  1.39 0.074   120.7 from   4 sources of GD40
+r1159824.fit  4.23  1.40 0.065   120.9 from   4 sources of GD40
+r1159825.fit  4.21  1.39 0.087   121.0 from   4 sources of GD40
+r1159826.fit  4.22  1.39 0.064   120.9 from   4 sources of GD40
+r1159827.fit  4.21  1.39 0.085   120.7 from   4 sources of GD40
+r1159828.fit  4.21  1.39 0.079   119.5 from   4 sources of GD40
+r1159829.fit  4.19  1.38 0.075   119.3 from   4 sources of GD40
+r1159830.fit  4.20  1.39 0.063   120.5 from   4 sources of GD40
+r1159831.fit  4.20  1.39 0.083   120.9 from   4 sources of GD40
+r1159832.fit  0.84  0.28 0.074    96.9 from   5 sources of GD40
+r1159833.fit  4.23  1.40 0.086   121.0 from   4 sources of GD40
+r1159834.fit -4.38 -1.45 0.069   120.9 from   4 sources of GD40
+r1159835.fit  4.20  1.39 0.062   119.6 from   4 sources of GD40
+r1159836.fit  0.84  0.28 0.060   120.8 from   4 sources of GD40
+r1159837.fit  4.20  1.39 0.077   120.8 from   4 sources of GD40
+r1159838.fit -0.51 -0.17 0.073   100.7 from   5 sources of GD40
+r1159839.fit  4.19  1.38 0.077   120.7 from   4 sources of GD40
+r1159840.fit  0.84  0.28 0.086   120.8 from   4 sources of GD40
+r1159841.fit  4.20  1.39 0.074   120.8 from   4 sources of GD40
+r1159842.fit  4.23  1.40 0.086   120.6 from   4 sources of GD40
+r1159843.fit  4.27  1.41 0.061   120.9 from   4 sources of GD40
+r1159844.fit  4.27  1.41 0.065   100.3 from   5 sources of GD40
+r1159845.fit  4.19  1.38 0.073   121.0 from   4 sources of GD40
+r1159846.fit  4.20  1.39 0.070   120.8 from   4 sources of GD40
+r1159847.fit  4.20  1.39 0.095   120.4 from   4 sources of GD40
+r1159848.fit  4.19  1.38 0.068   120.7 from   5 sources of GD40
+r1159849.fit  4.19  1.38 0.083   120.6 from   4 sources of GD40
+r1159850.fit  4.20  1.39 0.064   121.1 from   4 sources of GD40
+r1159851.fit  4.20  1.39 0.080   119.5 from   4 sources of GD40
+r1159852.fit  0.84  0.28 0.012   120.0 from   5 sources of GD40
+r1159853.fit  0.84  0.28 0.027    97.8 from   5 sources of GD40
+r1159854.fit  4.20  1.39 0.064   121.2 from   4 sources of GD40
+r1159855.fit  4.20  1.39 0.065   121.0 from   4 sources of GD40
+r1159856.fit  0.84  0.28 0.069   120.8 from   4 sources of GD40
+r1159857.fit  0.84  0.28 0.031    99.8 from   5 sources of GD40
+r1159858.fit  4.20  1.39 0.065   120.9 from   4 sources of GD40
+r1159859.fit  4.20  1.39 0.069   120.8 from   4 sources of GD40
+r1159860.fit  4.21  1.39 0.088   120.7 from   4 sources of GD40
+r1159861.fit  0.84  0.28 0.084   120.8 from   4 sources of GD40
+r1159862.fit  4.25  1.40 0.068   121.0 from   4 sources of GD40
+r1159863.fit  4.28  1.41 0.084   120.8 from   4 sources of GD40
+r1159864.fit  4.19  1.38 0.040   121.0 from   5 sources of GD40
+r1159865.fit  4.20  1.39 0.079   120.7 from   4 sources of GD40
+r1159866.fit  4.20  1.39 0.072   120.7 from   4 sources of GD40
+r1159867.fit  4.22  1.39 0.061   120.8 from   4 sources of GD40
+r1159868.fit  4.26  1.41 0.042   120.6 from   5 sources of GD40
+r1159869.fit  4.20  1.39 0.081   121.8 from   4 sources of GD40
+r1159870.fit  4.20  1.39 0.065   123.2 from   4 sources of GD40
+r1159871.fit  4.19  1.38 0.079   122.9 from   5 sources of GD40
+r1159872.fit  4.20  1.39 0.072    99.9 from   5 sources of GD40
+r1159873.fit  4.19  1.38 0.071   121.7 from   4 sources of GD40
+r1159874.fit  4.21  1.39 0.071   122.7 from   4 sources of GD40
+r1159875.fit  4.19  1.38 0.062   100.9 from   5 sources of GD40
+r1159876.fit  9.41  3.11 0.035   102.4 from   9 sources of GD40
+r1159877.fit  0.84  0.28 0.070   123.4 from   4 sources of GD40
+r1159878.fit -5.53 -1.82 0.081   122.7 from   4 sources of GD40
+r1159879.fit  4.20  1.39 0.092   122.5 from   4 sources of GD40
+r1159880.fit  4.38  1.45 0.093   122.3 from   4 sources of GD40
+r1159881.fit  4.19  1.38 0.092   122.7 from   4 sources of GD40
+r1159882.fit  4.19  1.38 0.077   122.7 from   4 sources of GD40
+r1159883.fit  0.84  0.28 0.063   121.6 from   4 sources of GD40
+r1159884.fit  4.22  1.39 0.066   122.7 from   4 sources of GD40
+r1159885.fit  4.25  1.40 0.068   100.5 from   6 sources of GD40
+r1159886.fit  4.19  1.38 0.062   122.0 from   4 sources of GD40
+r1159887.fit  4.20  1.39 0.074   122.1 from   4 sources of GD40
+r1159888.fit  0.84  0.28 0.089   122.0 from   4 sources of GD40
+r1159889.fit  4.19  1.38 0.080   122.1 from   4 sources of GD40
+r1159890.fit  4.19  1.38 0.084   122.2 from   4 sources of GD40
+r1159891.fit  4.20  1.39 0.087   122.2 from   4 sources of GD40
+r1159892.fit  1.12  0.37 0.069   120.6 from   5 sources of GD40
+r1159893.fit  4.21  1.39 0.064   120.6 from   4 sources of GD40
+r1159894.fit  0.84  0.28 0.082   100.3 from   5 sources of GD40
+r1159895.fit  4.23  1.40 0.081   120.7 from   4 sources of GD40
+r1159896.fit  0.84  0.28 0.085   120.6 from   4 sources of GD40
+r1159897.fit  4.19  1.38 0.085   119.5 from   4 sources of GD40
+r1159898.fit  4.20  1.39 0.086   119.4 from   4 sources of GD40
+r1159899.fit  0.84  0.28 0.062   119.7 from   5 sources of GD40
+r1159900.fit  1.13  0.37 0.067    99.0 from   5 sources of GD40
+r1159901.fit  4.22  1.39 0.095   120.1 from   4 sources of GD40
+r1159902.fit  4.19  1.38 0.091   119.7 from   4 sources of GD40
+r1159903.fit  4.21  1.39 0.063   118.5 from   4 sources of GD40
+r1159904.fit  4.23  1.40 0.073   118.9 from   4 sources of GD40
+r1159905.fit  0.84  0.28 0.085   119.2 from   4 sources of GD40
+r1159906.fit  4.20  1.39 0.065   119.0 from   4 sources of GD40
+r1159907.fit  0.84  0.28 0.085   117.7 from   4 sources of GD40
+r1159908.fit  4.20  1.39 0.087   118.1 from   4 sources of GD40
+r1159909.fit  0.84  0.28 0.068   116.5 from   4 sources of GD40
+r1159910.fit  0.84  0.28 0.093   117.1 from   5 sources of GD40
+r1159911.fit  0.84  0.28 0.072   115.6 from   4 sources of GD40
+r1159912.fit  0.84  0.28 0.078   115.8 from   4 sources of GD40
+r1159913.fit  4.20  1.39 0.065   115.8 from   4 sources of GD40
+r1159914.fit  4.26  1.41 0.073   114.6 from   4 sources of GD40
+r1159915.fit  4.20  1.39 0.061   113.8 from   5 sources of GD40
+r1159916.fit -1.89 -0.62 0.090   114.7 from   5 sources of GD40
+r1159917.fit  4.26  1.41 0.067   113.8 from   4 sources of GD40
+r1159918.fit  4.19  1.38 0.069   113.6 from   4 sources of GD40
+r1159919.fit  4.21  1.39 0.072   112.4 from   4 sources of GD40
+r1159920.fit  4.22  1.39 0.056   112.4 from   4 sources of GD40
+r1159921.fit  4.21  1.39 0.073   111.7 from   4 sources of GD40
+r1159922.fit  4.20  1.39 0.070   111.6 from   4 sources of GD40
+r1159923.fit  4.24  1.40 0.065   111.4 from   4 sources of GD40
+r1159924.fit -8.69 -2.87 0.074   111.5 from   4 sources of GD40
+r1159925.fit  4.22  1.39 0.067   111.6 from   4 sources of GD40
+r1159926.fit  4.31  1.42 0.080   110.7 from   4 sources of GD40
+r1159927.fit  0.84  0.28 0.069   110.8 from   4 sources of GD40
+r1159928.fit  4.21  1.39 0.067   109.6 from   4 sources of GD40
+r1159929.fit  0.84  0.28 0.071   109.4 from   4 sources of GD40
+r1159930.fit  4.20  1.39 0.080   109.0 from   4 sources of GD40
+r1159931.fit  0.85  0.28 0.080   108.7 from   4 sources of GD40
+r1159932.fit  4.22  1.39 0.073   107.7 from   4 sources of GD40
+r1159933.fit  4.22  1.39 0.066   107.8 from   4 sources of GD40
+r1159934.fit  4.20  1.39 0.061   107.9 from   4 sources of GD40
+r1159935.fit  4.29  1.42 0.073   107.7 from   5 sources of GD40
+r1159936.fit  4.23  1.40 0.060   106.7 from   5 sources of GD40
+r1159937.fit  0.84  0.28 0.078   106.4 from   4 sources of GD40
+r1159938.fit  0.84  0.28 0.052   105.8 from   4 sources of GD40
+r1159939.fit  0.84  0.28 0.049   106.6 from   4 sources of GD40
+r1159940.fit  4.20  1.39 0.083   105.6 from   4 sources of GD40
