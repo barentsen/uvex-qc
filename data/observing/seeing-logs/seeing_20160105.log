@@ -1,0 +1,852 @@
+r1175124.fit is not a target (FOCUS)
+r1175125.fit  7.18  2.37 0.032    82.8 from  10 sources of ST_L92 Ha
+r1175126.fit  7.14  2.36 0.063   115.1 from  23 sources of ST_L92 r
+r1175128.fit  6.14  2.03 0.046    68.1 from  13 sources of ST_L92 Ha
+r1175129.fit  8.34  2.75 0.044   107.0 from  18 sources of ST_L92 r
+r1175130.fit  5.15  1.70 0.045    74.1 from  13 sources of ST_L92 i
+r1175131.fit  8.14  2.69 0.032    69.1 from   7 sources of ST_L92 U
+r1175132.fit  7.11  2.35 0.026    70.8 from  12 sources of ST_L92 g
+r1175133.fit  5.33  1.76 0.105    47.6 from  86 sources of intphas_1959 Ha
+r1175134.fit  5.17  1.71 0.072   114.0 from 229 sources of intphas_1959 r
+r1175135.fit  4.94  1.63 0.075   121.9 from 209 sources of intphas_1959 i
+r1175136.fit  5.21  1.72 0.064    58.8 from  84 sources of intphas_1959o Ha
+r1175137.fit  5.58  1.84 0.098   115.3 from 202 sources of intphas_1959o r
+r1175138.fit  5.20  1.72 0.102   127.7 from 189 sources of intphas_1959o i
+r1175139.fit  5.69  1.88 0.082    59.8 from 107 sources of intphas_1969 Ha
+r1175140.fit  5.62  1.85 0.058   116.7 from 301 sources of intphas_1969 r
+r1175141.fit  5.84  1.93 0.072   128.0 from 212 sources of intphas_1969 i
+r1175142.fit  5.59  1.84 0.043    54.9 from 120 sources of intphas_1969o Ha
+r1175143.fit  5.35  1.77 0.042   115.9 from 336 sources of intphas_1969o r
+r1175144.fit  5.12  1.69 0.085   127.7 from 273 sources of intphas_1969o i
+r1175145.fit  5.85  1.93 0.039    60.5 from  64 sources of intphas_1973 Ha
+r1175146.fit  6.44  2.13 0.037   123.3 from 139 sources of intphas_1973 r
+r1175147.fit  5.20  1.72 0.065   132.7 from 162 sources of intphas_1973 i
+r1175148.fit  5.48  1.81 0.053    59.1 from  74 sources of intphas_1973o Ha
+r1175149.fit  5.52  1.82 0.069   117.5 from 208 sources of intphas_1973o r
+r1175150.fit  5.36  1.77 0.044   129.0 from 161 sources of intphas_1973o i
+r1175151.fit  7.14  2.36 0.045    58.8 from  51 sources of intphas_1981 Ha
+r1175152.fit  6.04  1.99 0.061   113.2 from 159 sources of intphas_1981 r
+r1175153.fit  6.01  1.98 0.034   126.3 from 122 sources of intphas_1981 i
+r1175154.fit  6.40  2.11 0.052    44.0 from  61 sources of intphas_1981o Ha
+r1175155.fit  6.48  2.14 0.050   107.5 from 142 sources of intphas_1981o r
+r1175156.fit  5.37  1.77 0.054   113.7 from 161 sources of intphas_1981o i
+r1175157.fit  6.05  2.00 0.059    47.3 from  47 sources of intphas_1987 Ha
+r1175158.fit  5.60  1.85 0.057   105.4 from 131 sources of intphas_1987 r
+r1175159.fit  6.44  2.13 0.067   116.7 from  90 sources of intphas_1987 i
+r1175160.fit  5.85  1.93 0.035    44.7 from  51 sources of intphas_1987o Ha
+r1175161.fit  6.91  2.28 0.030   104.5 from  90 sources of intphas_1987o r
+r1175162.fit  5.19  1.71 0.049   114.0 from 134 sources of intphas_1987o i
+r1175163.fit  5.39  1.78 0.049    40.9 from  79 sources of intphas_1991 Ha
+r1175164.fit  5.54  1.83 0.046   100.1 from 234 sources of intphas_1991 r
+r1175165.fit  5.23  1.73 0.059   115.1 from 190 sources of intphas_1991 i
+r1175166.fit  5.59  1.84 0.049    40.8 from  81 sources of intphas_1991o Ha
+r1175167.fit  5.34  1.76 0.043   102.5 from 241 sources of intphas_1991o r
+r1175168.fit  8.25  2.72 0.030   119.6 from  73 sources of intphas_1991o i
+r1175169.fit  6.01  1.98 0.037    34.9 from  70 sources of intphas_1994 Ha
+r1175170.fit  4.30  1.42 0.050   101.8 from 272 sources of intphas_1994 r
+r1175171.fit  4.48  1.48 0.061    95.2 from 196 sources of intphas_1994 i
+r1175172.fit  5.43  1.79 0.053    42.5 from  68 sources of intphas_1994o Ha
+r1175173.fit  4.65  1.53 0.053   102.8 from 146 sources of intphas_1994o r
+r1175174.fit  4.14  1.37 0.093   120.3 from 141 sources of intphas_1994o i
+r1175175.fit  5.45  1.80 0.070    46.7 from 158 sources of intphas_2509 Ha
+r1175176.fit  6.67  2.20 0.062   107.1 from 278 sources of intphas_2509 r
+r1175177.fit  4.49  1.48 0.073    97.7 from 402 sources of intphas_2509 i
+r1175178.fit  4.86  1.60 0.074    44.1 from 189 sources of intphas_2509o Ha
+r1175179.fit  4.46  1.47 0.089   105.3 from 542 sources of intphas_2509o r
+r1175180.fit  4.11  1.36 0.095    97.2 from 451 sources of intphas_2509o i
+r1175181.fit  5.41  1.79 0.073    41.4 from 124 sources of intphas_2572 Ha
+r1175182.fit  5.37  1.77 0.053    98.4 from 319 sources of intphas_2572 r
+r1175183.fit  4.84  1.60 0.084   114.5 from 302 sources of intphas_2572 i
+r1175184.fit  4.43  1.46 0.064    41.2 from 158 sources of intphas_2572o Ha
+r1175185.fit  4.42  1.46 0.057   101.8 from 388 sources of intphas_2572o r
+r1175186.fit  5.58  1.84 0.051   117.5 from 195 sources of intphas_2572o i
+r1175187.fit  4.58  1.51 0.077    44.6 from 168 sources of intphas_2583 Ha
+r1175188.fit  5.47  1.81 0.047   105.0 from 288 sources of intphas_2583 r
+r1175189.fit  4.93  1.63 0.048   104.0 from 258 sources of intphas_2583 i
+r1175190.fit  5.24  1.73 0.037    51.0 from 139 sources of intphas_2583o Ha
+r1175191.fit  4.40  1.45 0.070   106.2 from 370 sources of intphas_2583o r
+r1175192.fit  5.16  1.70 0.042   117.9 from 232 sources of intphas_2583o i
+r1175193.fit  5.44  1.80 0.064    39.5 from 112 sources of intphas_2600 Ha
+r1175194.fit  4.10  1.35 0.062   114.7 from 427 sources of intphas_2600 r
+r1175195.fit  5.52  1.82 0.043   114.5 from 203 sources of intphas_2600 i
+r1175196.fit  4.73  1.56 0.061    38.8 from 142 sources of intphas_2600o Ha
+r1175197.fit  6.16  2.03 0.038   112.9 from 221 sources of intphas_2600o r
+r1175198.fit  4.03  1.33 0.063   108.0 from 349 sources of intphas_2600o i
+r1175199.fit  5.23  1.73 0.059    44.1 from 170 sources of intphas_2608 Ha
+r1175200.fit  5.05  1.67 0.074   108.3 from 352 sources of intphas_2608 r
+r1175201.fit  5.02  1.66 0.044   122.2 from 296 sources of intphas_2608 i
+r1175202.fit  5.78  1.91 0.050    40.4 from 122 sources of intphas_2608o Ha
+r1175203.fit  5.72  1.89 0.039   107.9 from 275 sources of intphas_2608o r
+r1175204.fit  4.84  1.60 0.048   111.0 from 284 sources of intphas_2608o i
+r1175205.fit  4.27  1.41 0.086    40.3 from 128 sources of intphas_2649 Ha
+r1175206.fit  4.43  1.46 0.053   109.6 from 246 sources of intphas_2649 r
+r1175207.fit  4.25  1.40 0.070   101.0 from 181 sources of intphas_2649 i
+r1175208.fit  4.74  1.56 0.079    39.9 from 104 sources of intphas_2649o Ha
+r1175209.fit  4.87  1.61 0.038   120.5 from 326 sources of intphas_2649o r
+r1175210.fit  5.21  1.72 0.069   114.5 from 225 sources of intphas_2649o i
+r1175211.fit  6.85  2.26 0.125    43.0 from  20 sources of intphas_2780 Ha
+r1175212.fit  4.66  1.54 0.101    87.7 from 599 sources of intphas_2780 r
+r1175213.fit  5.11  1.69 0.096    95.7 from 315 sources of intphas_2780 i
+r1175214.fit  5.08  1.68 0.021    62.6 from  20 sources of SA95-271 Ha
+r1175215.fit  5.85  1.93 0.030    99.5 from  31 sources of SA95-271 r
+r1175216.fit  5.77  1.90 0.047    92.8 from  25 sources of SA95-271 i
+r1175217.fit  6.58  2.17 0.028    76.9 from  18 sources of SA95-271 U
+r1175218.fit  6.27  2.07 0.047    66.8 from  21 sources of SA95-271 g
+r1175219.fit  5.87  1.94 0.072   301.5 from  87 sources of 2011LHB
+r1175220.fit  6.88  2.27 0.030   302.6 from  84 sources of 2011LHB
+r1175221.fit  7.41  2.45 0.037   301.3 from  78 sources of 2011LHB
+r1175222.fit  8.32  2.75 0.045   311.9 from  67 sources of 2011LHB
+r1175223.fit  6.04  1.99 0.020   290.7 from  85 sources of 2011LHB
+r1175224.fit  5.45  1.80 0.053   293.8 from  89 sources of 2011LHB
+r1175225.fit  5.66  1.87 0.029   290.9 from  89 sources of 2011LHB
+r1175226.fit  5.18  1.71 0.063   291.6 from 100 sources of 2011LHB
+r1175227.fit  5.09  1.68 0.070   291.0 from 104 sources of 2011LHB
+r1175228.fit  5.52  1.82 0.087   287.0 from  96 sources of 2011LHB
+r1175229.fit  6.50  2.15 0.041   282.9 from 139 sources of 2012T0139
+r1175230.fit  6.98  2.30 0.044   290.9 from 134 sources of 2012T0139
+r1175231.fit  5.47  1.81 0.030   285.5 from 173 sources of 2012T0139
+r1175232.fit  5.26  1.74 0.037   283.4 from 175 sources of 2012T0139
+r1175233.fit  5.35  1.77 0.033   283.5 from 173 sources of 2012T0139
+r1175234.fit  5.55  1.83 0.040   284.7 from 164 sources of 2012T0139
+r1175235.fit  5.18  1.71 0.051   282.8 from 173 sources of 2012T0139
+r1175236.fit  5.24  1.73 0.051   286.9 from 176 sources of 2012T0139
+r1175237.fit  4.65  1.53 0.059   281.5 from 197 sources of 2012T0139
+r1175238.fit  5.70  1.88 0.064   282.7 from 168 sources of 2012T0139
+r1175239.fit  4.43  1.46 0.043   176.6 from 313 sources of EUHV056B
+r1175240.fit  4.58  1.51 0.043   194.8 from 331 sources of EUHV056B
+r1175241.fit  4.04  1.33 0.047   188.3 from 389 sources of EUHV056B
+r1175242.fit  4.44  1.47 0.062   194.3 from 358 sources of EUHV056B
+r1175243.fit  4.12  1.36 0.035   194.5 from 380 sources of EUHV056B
+r1175244.fit  4.27  1.41 0.043   193.9 from 372 sources of EUHV056B
+r1175245.fit  4.08  1.35 0.035   192.6 from 375 sources of EUHV056B
+r1175246.fit  4.68  1.54 0.030   197.6 from 335 sources of EUHV056B
+r1175247.fit  4.52  1.49 0.035   197.5 from 344 sources of EUHV056B
+r1175248.fit  4.70  1.55 0.036   196.8 from 330 sources of EUHV056B
+r1175249.fit  4.57  1.51 0.119   125.1 from 450 sources of uvex_3902 r
+r1175250.fit  5.63  1.86 0.054    75.3 from  91 sources of uvex_3902 U
+r1175251.fit  4.50  1.49 0.060    97.2 from 414 sources of uvex_3902 g
+r1175252.fit  4.69  1.55 0.051   142.8 from 495 sources of uvex_3902o r
+r1175253.fit  6.52  2.15 0.032    79.0 from  75 sources of uvex_3902o U
+r1175254.fit  4.54  1.50 0.094    97.9 from 378 sources of uvex_3902o g
+r1175255.fit  4.58  1.51 0.058   137.7 from 560 sources of uvex_3903 r
+r1175256.fit  5.98  1.97 0.043    78.4 from  94 sources of uvex_3903 U
+r1175257.fit  4.64  1.53 0.062    97.5 from 407 sources of uvex_3903 g
+r1175258.fit  5.09  1.68 0.075   129.1 from 521 sources of uvex_3903o r
+r1175259.fit  6.48  2.14 0.068    78.3 from  86 sources of uvex_3903o U
+r1175260.fit  7.47  2.47 0.044    97.6 from 218 sources of uvex_3903o g
+r1175261.fit  4.66  1.54 0.044   136.8 from 579 sources of uvex_3904 r
+r1175262.fit  7.17  2.37 0.040    78.7 from  79 sources of uvex_3904 U
+r1175263.fit  5.47  1.81 0.040    98.4 from 342 sources of uvex_3904 g
+r1175264.fit  5.38  1.78 0.041   138.4 from 391 sources of uvex_3904o r
+r1175265.fit  6.94  2.29 0.052    78.3 from  83 sources of uvex_3904o U
+r1175266.fit  4.36  1.44 0.054    98.9 from 436 sources of uvex_3904o g
+r1175267.fit  4.52  1.49 0.061   135.5 from 517 sources of uvex_3905 r
+r1175268.fit  5.68  1.87 0.043    75.4 from 109 sources of uvex_3905 U
+r1175269.fit  5.38  1.78 0.045    98.1 from 287 sources of uvex_3905 g
+r1175270.fit  4.31  1.42 0.050   129.3 from 557 sources of uvex_3905o r
+r1175271.fit  5.61  1.85 0.026    82.1 from 135 sources of uvex_3905o U
+r1175272.fit  4.85  1.60 0.059    95.5 from 354 sources of uvex_3905o g
+r1175273.fit  5.37  1.77 0.042   148.9 from 423 sources of uvex_3906 r
+r1175274.fit  6.53  2.15 0.030    76.3 from  86 sources of uvex_3906 U
+r1175275.fit  5.91  1.95 0.043    90.6 from 252 sources of uvex_3906 g
+r1175276.fit  4.02  1.33 0.062   138.6 from 605 sources of uvex_3906o r
+r1175277.fit  6.11  2.02 0.024    80.3 from  71 sources of uvex_3906o U
+r1175278.fit  4.57  1.51 0.046    96.0 from 354 sources of uvex_3906o g
+r1175279.fit  7.38  2.44 0.060   139.2 from 248 sources of uvex_3907 r
+r1175280.fit  5.60  1.85 0.050    79.3 from 119 sources of uvex_3907 U
+r1175281.fit  4.65  1.53 0.048    97.9 from 414 sources of uvex_3907 g
+r1175282.fit  4.35  1.44 0.044   137.1 from 562 sources of uvex_3907o r
+r1175283.fit  5.43  1.79 0.035    82.0 from 110 sources of uvex_3907o U
+r1175284.fit  4.69  1.55 0.035    99.7 from 441 sources of uvex_3907o g
+r1175285.fit  4.10  1.35 0.062   135.3 from 664 sources of uvex_3908 r
+r1175286.fit  5.03  1.66 0.077    82.5 from 130 sources of uvex_3908 U
+r1175287.fit  5.12  1.69 0.065   101.0 from 368 sources of uvex_3908 g
+r1175288.fit  5.21  1.72 0.049   142.3 from 435 sources of uvex_3908o r
+r1175289.fit  5.94  1.96 0.041    83.5 from  98 sources of uvex_3908o U
+r1175290.fit  4.92  1.62 0.087   102.1 from 426 sources of uvex_3908o g
+r1175291.fit  4.87  1.61 0.070   135.6 from 533 sources of uvex_3909 r
+r1175292.fit  5.68  1.87 0.050    82.1 from 115 sources of uvex_3909 U
+r1175293.fit  6.48  2.14 0.040   101.2 from 297 sources of uvex_3909 g
+r1175294.fit  4.22  1.39 0.096   130.9 from 696 sources of uvex_3909o r
+r1175295.fit  4.76  1.57 0.035    82.3 from 165 sources of uvex_3909o U
+r1175296.fit  4.23  1.40 0.043   100.3 from 565 sources of uvex_3909o g
+r1175297.fit  4.73  1.56 0.050   139.7 from 471 sources of uvex_3912 r
+r1175298.fit  5.97  1.97 0.040    82.5 from  94 sources of uvex_3912 U
+r1175299.fit  5.18  1.71 0.035    96.3 from 315 sources of uvex_3912 g
+r1175300.fit  4.24  1.40 0.100   133.6 from 623 sources of uvex_3912o r
+r1175301.fit  5.59  1.84 0.033    83.6 from 110 sources of uvex_3912o U
+r1175302.fit  3.81  1.26 0.051    99.6 from 554 sources of uvex_3912o g
+r1175303.fit  4.09  1.35 0.042   107.8 from 551 sources of uvex_3913 r
+r1175304.fit  5.06  1.67 0.054    77.3 from 107 sources of uvex_3913 U
+r1175305.fit  4.04  1.33 0.032    98.8 from 398 sources of uvex_3913 g
+r1175306.fit  4.00  1.32 0.038   134.6 from 549 sources of uvex_3913o r
+r1175307.fit  5.59  1.84 0.027    77.3 from  96 sources of uvex_3913o U
+r1175308.fit  4.80  1.58 0.055    96.2 from 276 sources of uvex_3913o g
+r1175309.fit  4.37  1.44 0.091   137.2 from 604 sources of uvex_3914 r
+r1175310.fit  5.38  1.78 0.102    80.9 from 153 sources of uvex_3914 U
+r1175311.fit  4.23  1.40 0.065    92.1 from 430 sources of uvex_3914 g
+r1175312.fit  4.83  1.59 0.066   131.4 from 522 sources of uvex_3914o r
+r1175313.fit  5.96  1.97 0.058    82.4 from 117 sources of uvex_3914o U
+r1175314.fit  5.91  1.95 0.038    99.9 from 270 sources of uvex_3914o g
+r1175315.fit  3.94  1.30 0.054   129.6 from 756 sources of uvex_3915 r
+r1175316.fit  4.82  1.59 0.067    75.1 from 161 sources of uvex_3915 U
+r1175317.fit  5.16  1.70 0.062    98.3 from 445 sources of uvex_3915 g
+r1175318.fit  3.91  1.29 0.040   131.1 from 814 sources of uvex_3915o r
+r1175319.fit  4.71  1.55 0.054    78.9 from 168 sources of uvex_3915o U
+r1175320.fit  4.31  1.42 0.046    95.8 from 570 sources of uvex_3915o g
+r1175321.fit  4.10  1.35 0.067   116.1 from 528 sources of uvex_3916 r
+r1175322.fit  4.94  1.63 0.062    79.8 from 119 sources of uvex_3916 U
+r1175323.fit  5.22  1.72 0.047    95.6 from 268 sources of uvex_3916 g
+r1175324.fit  5.51  1.82 0.060    35.3 from  23 sources of ST_L101 U
+r1175325.fit  4.23  1.40 0.084    37.4 from  43 sources of ST_L101 g
+r1175326.fit  4.37  1.44 0.068    31.4 from  37 sources of ST_L101 Ha
+r1175327.fit  5.57  1.84 0.045    89.0 from  51 sources of ST_L101 r
+r1175328.fit  3.53  1.16 0.078    48.9 from  43 sources of ST_L101 i
+r1175329.fit  3.90  1.29 0.038    73.6 from 273 sources of intphas_2780o Ha
+r1175330.fit  3.26  1.08 0.048   116.3 from 937 sources of intphas_2780o r
+r1175331.fit  3.17  1.05 0.042   122.1 from 699 sources of intphas_2780o i
+r1175332.fit  4.57  1.51 0.065    76.8 from 123 sources of intphas_3434 Ha
+r1175333.fit  4.43  1.46 0.060   124.0 from 339 sources of intphas_3434 r
+r1175334.fit  3.80  1.25 0.037   116.8 from 316 sources of intphas_3434 i
+r1175335.fit  5.03  1.66 0.079    77.2 from 102 sources of intphas_3434o Ha
+r1175336.fit  5.10  1.68 0.084   132.9 from 250 sources of intphas_3434o r
+r1175337.fit  4.05  1.34 0.063   123.2 from 274 sources of intphas_3434o i
+r1175338.fit  4.45  1.47 0.063    80.8 from 263 sources of intphas_3436 Ha
+r1175339.fit  4.35  1.44 0.037   124.6 from 709 sources of intphas_3436 r
+r1175340.fit  3.76  1.24 0.050   126.0 from 586 sources of intphas_3436 i
+r1175341.fit  4.61  1.52 0.035    75.7 from 243 sources of intphas_3436o Ha
+r1175342.fit  4.30  1.42 0.058   137.1 from 679 sources of intphas_3436o r
+r1175343.fit  3.55  1.17 0.041   119.0 from 603 sources of intphas_3436o i
+r1175344.fit  4.64  1.53 0.064    80.4 from 154 sources of intphas_3437 Ha
+r1175345.fit  4.36  1.44 0.053   132.7 from 426 sources of intphas_3437 r
+r1175346.fit  3.81  1.26 0.062   124.2 from 381 sources of intphas_3437 i
+r1175347.fit  4.51  1.49 0.048    75.6 from 153 sources of intphas_3437o Ha
+r1175348.fit  3.56  1.17 0.040   139.5 from 577 sources of intphas_3437o r
+r1175349.fit  3.89  1.28 0.036   136.5 from 388 sources of intphas_3437o i
+r1175350.fit  5.08  1.68 0.069    76.3 from  91 sources of intphas_3450 Ha
+r1175351.fit  4.27  1.41 0.047   135.8 from 262 sources of intphas_3450 r
+r1175352.fit  4.94  1.63 0.030   141.8 from 174 sources of intphas_3450 i
+r1175353.fit  5.17  1.71 0.039    79.7 from  81 sources of intphas_3450o Ha
+r1175354.fit  4.88  1.61 0.051   134.6 from 214 sources of intphas_3450o r
+r1175355.fit  4.13  1.36 0.046   138.3 from 235 sources of intphas_3450o i
+r1175356.fit  4.97  1.64 0.083    80.3 from 207 sources of intphas_3452 Ha
+r1175357.fit  5.14  1.70 0.057   133.7 from 394 sources of intphas_3452 r
+r1175358.fit  4.42  1.46 0.050   126.6 from 348 sources of intphas_3452 i
+r1175359.fit  5.24  1.73 0.074    77.8 from 193 sources of intphas_3452o Ha
+r1175360.fit  6.43  2.12 0.041   135.1 from 286 sources of intphas_3452o r
+r1175361.fit  4.24  1.40 0.042   136.5 from 364 sources of intphas_3452o i
+r1175362.fit  5.44  1.80 0.059    83.0 from  98 sources of intphas_3461 Ha
+r1175363.fit  5.21  1.72 0.046   134.4 from 287 sources of intphas_3461 r
+r1175364.fit  4.68  1.54 0.058   146.3 from 266 sources of intphas_3461 i
+r1175365.fit  6.50  2.15 0.072    78.3 from  73 sources of intphas_3461o Ha
+r1175366.fit  4.96  1.64 0.039   131.9 from 300 sources of intphas_3461o r
+r1175367.fit  4.95  1.63 0.048   138.3 from 219 sources of intphas_3461o i
+r1175368.fit  6.53  2.15 0.083    76.7 from  87 sources of intphas_3465 Ha
+r1175369.fit  5.40  1.78 0.056   135.8 from 294 sources of intphas_3465 r
+r1175370.fit  5.46  1.80 0.082   130.6 from 207 sources of intphas_3465 i
+r1175371.fit  6.55  2.16 0.037    75.2 from  77 sources of intphas_3465o Ha
+r1175372.fit  4.81  1.59 0.050   140.3 from 351 sources of intphas_3465o r
+r1175373.fit  5.39  1.78 0.056   152.0 from 208 sources of intphas_3465o i
+r1175374.fit  7.08  2.34 0.033    79.0 from  66 sources of intphas_3546 Ha
+r1175375.fit  4.63  1.53 0.046   134.2 from 293 sources of intphas_3546 r
+r1175376.fit  6.13  2.02 0.083   150.4 from 149 sources of intphas_3546 i
+r1175377.fit no objects found
+r1175378.fit no objects found
+r1175379.fit no objects found
+r1175380.fit no objects found
+r1175381.fit no objects found
+r1175382.fit no objects found
+r1175383.fit no objects found
+r1175384.fit no objects found
+r1175385.fit no objects found
+r1175386.fit no objects found
+r1175387.fit no objects found
+r1175388.fit no objects found
+r1175389.fit no objects found
+r1175390.fit no objects found
+r1175391.fit no objects found
+r1175392.fit no objects found
+r1175393.fit no objects found
+r1175394.fit no objects found
+r1175395.fit no objects found
+r1175396.fit no objects found
+r1175397.fit no objects found
+r1175398.fit no objects found
+r1175399.fit no objects found
+r1175400.fit no objects found
+r1175401.fit no objects found
+r1175402.fit no objects found
+r1175403.fit no objects found
+r1175404.fit no objects found
+r1175405.fit no objects found
+r1175406.fit no objects found
+r1175407.fit no objects found
+r1175408.fit no objects found
+r1175409.fit no objects found
+r1175410.fit no objects found
+r1175411.fit no objects found
+r1175412.fit no objects found
+r1175413.fit no objects found
+r1175414.fit no objects found
+r1175415.fit no objects found
+r1175416.fit no objects found
+r1175417.fit no objects found
+r1175418.fit no objects found
+r1175419.fit no objects found
+r1175420.fit no objects found
+r1175421.fit no objects found
+r1175422.fit no objects found
+r1175423.fit no objects found
+r1175424.fit no objects found
+r1175425.fit no objects found
+r1175426.fit no objects found
+r1175427.fit no objects found
+r1175428.fit no objects found
+r1175429.fit no objects found
+r1175430.fit no objects found
+r1175431.fit no objects found
+r1175432.fit no objects found
+r1175433.fit no objects found
+r1175434.fit no objects found
+r1175435.fit no objects found
+r1175436.fit no objects found
+r1175437.fit no objects found
+r1175438.fit no objects found
+r1175439.fit no objects found
+r1175440.fit no objects found
+r1175441.fit no objects found
+r1175442.fit no objects found
+r1175443.fit no objects found
+r1175444.fit no objects found
+r1175445.fit no objects found
+r1175446.fit no objects found
+r1175447.fit no objects found
+r1175448.fit no objects found
+r1175449.fit no objects found
+r1175450.fit no objects found
+r1175451.fit no objects found
+r1175452.fit no objects found
+r1175453.fit no objects found
+r1175454.fit no objects found
+r1175455.fit no objects found
+r1175456.fit no objects found
+r1175457.fit no objects found
+r1175458.fit no objects found
+r1175459.fit no objects found
+r1175460.fit no objects found
+r1175461.fit no objects found
+r1175462.fit no objects found
+r1175463.fit no objects found
+r1175464.fit no objects found
+r1175465.fit no objects found
+r1175466.fit no objects found
+r1175467.fit no objects found
+r1175468.fit no objects found
+r1175469.fit no objects found
+r1175470.fit no objects found
+r1175471.fit no objects found
+r1175472.fit no objects found
+r1175473.fit no objects found
+r1175474.fit no objects found
+r1175475.fit no objects found
+r1175476.fit no objects found
+r1175477.fit no objects found
+r1175478.fit no objects found
+r1175479.fit no objects found
+r1175480.fit no objects found
+r1175481.fit no objects found
+r1175482.fit no objects found
+r1175483.fit no objects found
+r1175484.fit no objects found
+r1175485.fit no objects found
+r1175486.fit no objects found
+r1175487.fit no objects found
+r1175488.fit no objects found
+r1175489.fit no objects found
+r1175490.fit no objects found
+r1175491.fit no objects found
+r1175492.fit no objects found
+r1175493.fit no objects found
+r1175494.fit no objects found
+r1175495.fit no objects found
+r1175496.fit no objects found
+r1175497.fit no objects found
+r1175498.fit no objects found
+r1175499.fit no objects found
+r1175500.fit no objects found
+r1175501.fit no objects found
+r1175502.fit no objects found
+r1175503.fit no objects found
+r1175504.fit no objects found
+r1175505.fit no objects found
+r1175506.fit no objects found
+r1175507.fit no objects found
+r1175508.fit no objects found
+r1175509.fit no objects found
+r1175510.fit no objects found
+r1175511.fit no objects found
+r1175512.fit no objects found
+r1175513.fit no objects found
+r1175514.fit no objects found
+r1175515.fit no objects found
+r1175516.fit no objects found
+r1175517.fit no objects found
+r1175518.fit no objects found
+r1175519.fit no objects found
+r1175520.fit no objects found
+r1175521.fit no objects found
+r1175522.fit no objects found
+r1175523.fit no objects found
+r1175524.fit no objects found
+r1175525.fit no objects found
+r1175526.fit no objects found
+r1175527.fit no objects found
+r1175528.fit no objects found
+r1175529.fit no objects found
+r1175530.fit no objects found
+r1175531.fit no objects found
+r1175532.fit no objects found
+r1175533.fit no objects found
+r1175534.fit no objects found
+r1175535.fit no objects found
+r1175536.fit no objects found
+r1175537.fit no objects found
+r1175538.fit no objects found
+r1175539.fit no objects found
+r1175540.fit no objects found
+r1175541.fit no objects found
+r1175542.fit no objects found
+r1175543.fit no objects found
+r1175544.fit no objects found
+r1175545.fit no objects found
+r1175546.fit no objects found
+r1175547.fit no objects found
+r1175548.fit no objects found
+r1175549.fit no objects found
+r1175550.fit no objects found
+r1175551.fit no objects found
+r1175552.fit no objects found
+r1175553.fit no objects found
+r1175554.fit no objects found
+r1175555.fit no objects found
+r1175556.fit no objects found
+r1175557.fit no objects found
+r1175558.fit no objects found
+r1175559.fit no objects found
+r1175560.fit no objects found
+r1175561.fit no objects found
+r1175562.fit no objects found
+r1175563.fit no objects found
+r1175564.fit no objects found
+r1175565.fit no objects found
+r1175566.fit no objects found
+r1175567.fit no objects found
+r1175568.fit no objects found
+r1175569.fit no objects found
+r1175570.fit no objects found
+r1175571.fit no objects found
+r1175572.fit no objects found
+r1175573.fit no objects found
+r1175574.fit no objects found
+r1175575.fit no objects found
+r1175576.fit no objects found
+r1175577.fit no objects found
+r1175578.fit no objects found
+r1175579.fit no objects found
+r1175580.fit no objects found
+r1175581.fit no objects found
+r1175582.fit no objects found
+r1175583.fit no objects found
+r1175584.fit no objects found
+r1175585.fit no objects found
+r1175586.fit no objects found
+r1175587.fit no objects found
+r1175588.fit no objects found
+r1175589.fit no objects found
+r1175590.fit no objects found
+r1175591.fit no objects found
+r1175592.fit no objects found
+r1175593.fit no objects found
+r1175594.fit no objects found
+r1175595.fit no objects found
+r1175596.fit no objects found
+r1175597.fit no objects found
+r1175598.fit no objects found
+r1175599.fit no objects found
+r1175600.fit no objects found
+r1175601.fit no objects found
+r1175602.fit no objects found
+r1175603.fit no objects found
+r1175604.fit no objects found
+r1175605.fit no objects found
+r1175606.fit no objects found
+r1175607.fit no objects found
+r1175608.fit no objects found
+r1175609.fit no objects found
+r1175610.fit  4.64  1.53 0.014    97.1 from   1 sources of WD1145+017
+r1175611.fit no objects found
+r1175612.fit no objects found
+r1175613.fit no objects found
+r1175614.fit no objects found
+r1175615.fit no objects found
+r1175616.fit no objects found
+r1175617.fit no objects found
+r1175618.fit no objects found
+r1175619.fit no objects found
+r1175620.fit no objects found
+r1175621.fit no objects found
+r1175622.fit no objects found
+r1175623.fit no objects found
+r1175624.fit no objects found
+r1175625.fit no objects found
+r1175626.fit no objects found
+r1175627.fit no objects found
+r1175628.fit no objects found
+r1175629.fit no objects found
+r1175630.fit no objects found
+r1175631.fit no objects found
+r1175632.fit no objects found
+r1175633.fit no objects found
+r1175634.fit no objects found
+r1175635.fit no objects found
+r1175636.fit no objects found
+r1175637.fit no objects found
+r1175638.fit no objects found
+r1175639.fit no objects found
+r1175640.fit no objects found
+r1175641.fit no objects found
+r1175642.fit no objects found
+r1175643.fit no objects found
+r1175644.fit no objects found
+r1175645.fit no objects found
+r1175646.fit no objects found
+r1175647.fit -8.36 -2.76 0.049    98.1 from   1 sources of WD1145+017
+r1175648.fit no objects found
+r1175649.fit no objects found
+r1175650.fit no objects found
+r1175651.fit no objects found
+r1175652.fit no objects found
+r1175653.fit no objects found
+r1175654.fit no objects found
+r1175655.fit no objects found
+r1175656.fit no objects found
+r1175657.fit no objects found
+r1175658.fit no objects found
+r1175659.fit no objects found
+r1175660.fit no objects found
+r1175661.fit no objects found
+r1175662.fit no objects found
+r1175663.fit no objects found
+r1175664.fit no objects found
+r1175665.fit no objects found
+r1175666.fit no objects found
+r1175667.fit no objects found
+r1175668.fit no objects found
+r1175669.fit no objects found
+r1175670.fit no objects found
+r1175671.fit no objects found
+r1175672.fit no objects found
+r1175673.fit no objects found
+r1175674.fit no objects found
+r1175675.fit no objects found
+r1175676.fit no objects found
+r1175677.fit no objects found
+r1175678.fit no objects found
+r1175679.fit no objects found
+r1175680.fit no objects found
+r1175681.fit no objects found
+r1175682.fit no objects found
+r1175683.fit no objects found
+r1175684.fit no objects found
+r1175685.fit no objects found
+r1175686.fit no objects found
+r1175687.fit no objects found
+r1175688.fit no objects found
+r1175689.fit no objects found
+r1175690.fit no objects found
+r1175691.fit no objects found
+r1175692.fit no objects found
+r1175693.fit no objects found
+r1175694.fit no objects found
+r1175695.fit no objects found
+r1175696.fit no objects found
+r1175697.fit no objects found
+r1175698.fit no objects found
+r1175699.fit no objects found
+r1175700.fit no objects found
+r1175701.fit no objects found
+r1175702.fit no objects found
+r1175703.fit no objects found
+r1175704.fit no objects found
+r1175705.fit no objects found
+r1175706.fit no objects found
+r1175707.fit no objects found
+r1175708.fit no objects found
+r1175709.fit no objects found
+r1175710.fit no objects found
+r1175711.fit no objects found
+r1175712.fit no objects found
+r1175713.fit no objects found
+r1175714.fit no objects found
+r1175715.fit no objects found
+r1175716.fit no objects found
+r1175717.fit no objects found
+r1175718.fit no objects found
+r1175719.fit no objects found
+r1175720.fit no objects found
+r1175721.fit no objects found
+r1175722.fit no objects found
+r1175723.fit no objects found
+r1175724.fit no objects found
+r1175725.fit no objects found
+r1175726.fit no objects found
+r1175727.fit no objects found
+r1175728.fit no objects found
+r1175729.fit no objects found
+r1175730.fit no objects found
+r1175731.fit no objects found
+r1175732.fit no objects found
+r1175733.fit no objects found
+r1175734.fit no objects found
+r1175735.fit no objects found
+r1175736.fit no objects found
+r1175737.fit no objects found
+r1175738.fit no objects found
+r1175739.fit no objects found
+r1175740.fit no objects found
+r1175741.fit no objects found
+r1175742.fit no objects found
+r1175743.fit no objects found
+r1175744.fit no objects found
+r1175745.fit no objects found
+r1175746.fit no objects found
+r1175747.fit no objects found
+r1175748.fit no objects found
+r1175749.fit no objects found
+r1175750.fit no objects found
+r1175751.fit no objects found
+r1175752.fit no objects found
+r1175753.fit no objects found
+r1175754.fit no objects found
+r1175755.fit no objects found
+r1175756.fit no objects found
+r1175757.fit no objects found
+r1175758.fit no objects found
+r1175759.fit no objects found
+r1175760.fit no objects found
+r1175761.fit no objects found
+r1175762.fit no objects found
+r1175763.fit no objects found
+r1175764.fit no objects found
+r1175765.fit no objects found
+r1175766.fit no objects found
+r1175767.fit no objects found
+r1175768.fit no objects found
+r1175769.fit no objects found
+r1175770.fit no objects found
+r1175771.fit no objects found
+r1175772.fit no objects found
+r1175773.fit no objects found
+r1175774.fit no objects found
+r1175775.fit no objects found
+r1175776.fit no objects found
+r1175777.fit no objects found
+r1175778.fit no objects found
+r1175779.fit no objects found
+r1175780.fit  0.91  0.30 0.080   105.6 from   1 sources of WD1145+017
+r1175781.fit no objects found
+r1175782.fit no objects found
+r1175783.fit no objects found
+r1175784.fit no objects found
+r1175785.fit no objects found
+r1175786.fit no objects found
+r1175787.fit no objects found
+r1175788.fit no objects found
+r1175789.fit no objects found
+r1175790.fit no objects found
+r1175791.fit no objects found
+r1175792.fit no objects found
+r1175793.fit no objects found
+r1175794.fit no objects found
+r1175795.fit no objects found
+r1175796.fit no objects found
+r1175797.fit no objects found
+r1175798.fit no objects found
+r1175799.fit no objects found
+r1175800.fit no objects found
+r1175801.fit no objects found
+r1175802.fit no objects found
+r1175803.fit no objects found
+r1175804.fit  0.95  0.31 0.037   106.2 from   1 sources of WD1145+017
+r1175805.fit no objects found
+r1175806.fit no objects found
+r1175807.fit no objects found
+r1175808.fit no objects found
+r1175809.fit no objects found
+r1175810.fit no objects found
+r1175811.fit no objects found
+r1175812.fit no objects found
+r1175813.fit no objects found
+r1175814.fit no objects found
+r1175815.fit no objects found
+r1175816.fit no objects found
+r1175817.fit no objects found
+r1175818.fit no objects found
+r1175819.fit no objects found
+r1175820.fit no objects found
+r1175821.fit no objects found
+r1175822.fit no objects found
+r1175823.fit no objects found
+r1175824.fit no objects found
+r1175825.fit no objects found
+r1175826.fit no objects found
+r1175827.fit no objects found
+r1175828.fit no objects found
+r1175829.fit no objects found
+r1175830.fit no objects found
+r1175831.fit no objects found
+r1175832.fit no objects found
+r1175833.fit no objects found
+r1175834.fit no objects found
+r1175835.fit no objects found
+r1175836.fit no objects found
+r1175837.fit no objects found
+r1175838.fit no objects found
+r1175839.fit no objects found
+r1175840.fit no objects found
+r1175841.fit no objects found
+r1175842.fit no objects found
+r1175843.fit no objects found
+r1175844.fit no objects found
+r1175845.fit no objects found
+r1175846.fit no objects found
+r1175847.fit no objects found
+r1175848.fit no objects found
+r1175849.fit no objects found
+r1175850.fit no objects found
+r1175851.fit no objects found
+r1175852.fit no objects found
+r1175853.fit no objects found
+r1175854.fit no objects found
+r1175855.fit no objects found
+r1175856.fit no objects found
+r1175857.fit no objects found
+r1175858.fit no objects found
+r1175859.fit no objects found
+r1175860.fit no objects found
+r1175861.fit no objects found
+r1175862.fit no objects found
+r1175863.fit no objects found
+r1175864.fit no objects found
+r1175865.fit no objects found
+r1175866.fit no objects found
+r1175867.fit no objects found
+r1175868.fit no objects found
+r1175869.fit no objects found
+r1175870.fit no objects found
+r1175871.fit no objects found
+r1175872.fit no objects found
+r1175873.fit no objects found
+r1175874.fit no objects found
+r1175875.fit no objects found
+r1175876.fit no objects found
+r1175877.fit no objects found
+r1175878.fit no objects found
+r1175879.fit no objects found
+r1175880.fit no objects found
+r1175881.fit no objects found
+r1175882.fit no objects found
+r1175883.fit no objects found
+r1175884.fit no objects found
+r1175885.fit no objects found
+r1175886.fit no objects found
+r1175887.fit no objects found
+r1175888.fit no objects found
+r1175889.fit no objects found
+r1175890.fit no objects found
+r1175891.fit no objects found
+r1175892.fit no objects found
+r1175893.fit no objects found
+r1175894.fit no objects found
+r1175895.fit no objects found
+r1175896.fit no objects found
+r1175897.fit no objects found
+r1175898.fit no objects found
+r1175899.fit no objects found
+r1175900.fit no objects found
+r1175901.fit no objects found
+r1175902.fit no objects found
+r1175903.fit no objects found
+r1175904.fit no objects found
+r1175905.fit no objects found
+r1175906.fit no objects found
+r1175907.fit no objects found
+r1175908.fit no objects found
+r1175909.fit no objects found
+r1175910.fit no objects found
+r1175911.fit no objects found
+r1175912.fit no objects found
+r1175913.fit no objects found
+r1175914.fit no objects found
+r1175915.fit no objects found
+r1175916.fit no objects found
+r1175917.fit no objects found
+r1175918.fit no objects found
+r1175919.fit no objects found
+r1175920.fit no objects found
+r1175921.fit no objects found
+r1175922.fit no objects found
+r1175923.fit no objects found
+r1175924.fit no objects found
+r1175925.fit no objects found
+r1175926.fit no objects found
+r1175927.fit no objects found
+r1175928.fit no objects found
+r1175929.fit no objects found
+r1175930.fit no objects found
+r1175931.fit no objects found
+r1175932.fit no objects found
+r1175933.fit no objects found
+r1175934.fit no objects found
+r1175935.fit no objects found
+r1175936.fit no objects found
+r1175937.fit no objects found
+r1175938.fit no objects found
+r1175939.fit no objects found
+r1175940.fit no objects found
+r1175941.fit no objects found
+r1175942.fit no objects found
+r1175943.fit no objects found
+r1175944.fit no objects found
+r1175945.fit no objects found
+r1175946.fit no objects found
+r1175947.fit no objects found
+r1175948.fit no objects found
+r1175949.fit no objects found
+r1175950.fit no objects found
+r1175951.fit no objects found
+r1175952.fit no objects found
+r1175953.fit no objects found
+r1175954.fit no objects found
+r1175955.fit no objects found
+r1175956.fit no objects found
+r1175957.fit no objects found
+r1175958.fit  4.28  1.41 0.023    72.7 from   1 sources of WD1145+017
+r1175959.fit no objects found
+r1175960.fit no objects found
+r1175961.fit no objects found
+r1175962.fit no objects found
+r1175963.fit no objects found
+r1175964.fit no objects found
+r1175965.fit no objects found
+r1175966.fit no objects found
+r1175967.fit no objects found
+r1175968.fit no objects found
+r1175969.fit no objects found
+r1175970.fit no objects found
+r1175971.fit no objects found
+r1175972.fit no objects found
+r1175973.fit no objects found
+r1175974.fit no objects found
+r1175975.fit no objects found
+r1175976.fit no objects found
